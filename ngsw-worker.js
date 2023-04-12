@@ -1,5 +1,4 @@
 (() => {
-  const appVersion = "1.0.6";
   var __defProp = Object.defineProperty;
   var __defProps = Object.defineProperties;
   var __getOwnPropDescs = Object.getOwnPropertyDescriptors;
