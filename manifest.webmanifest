@@ -1,6 +1,6 @@
 {
-  "name": "bacon",
-  "short_name": "bacon",
+  "name": "Bacon Strategy",
+  "short_name": "Bacon",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
@@ -35,7 +35,8 @@
     {
       "src": "assets/icons/icon-192x192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
       "src": "assets/icons/icon-384x384.png",
@@ -47,5 +48,9 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "description": "2-player game similar to 4x4 tic-tac-toe with 16 unique tokens and 7 ways to win",
+  "orientation": "portrait",
+  "lang": "en",
+  "dir": "ltr"
 }
