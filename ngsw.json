@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1685549250443,
+  "timestamp": 1685639101220,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.c116f70b410b00d7.js",
+        "/main.1aaf07fdd149e8fc.js",
         "/manifest.webmanifest",
         "/polyfills.1bfe84656be2a69e.js",
         "/runtime.964c9c5c6ed39d83.js",
-        "/styles.799023e0b71e2a79.css"
+        "/styles.0c77183a78cdf905.css"
       ],
       "patterns": []
     },
@@ -42,8 +42,7 @@
         "/assets/icons/icon-96x96.png",
         "/assets/images/bacon.png",
         "/assets/images/routesA.png",
-        "/assets/images/routesB.png",
-        "/bacon.2ec966e457089a7c.png"
+        "/assets/images/routesB.png"
       ],
       "patterns": []
     }
@@ -64,14 +63,13 @@
     "/assets/images/bacon.png": "96da08c521ed0d93ede6a63ec5cc3a8817f07af5",
     "/assets/images/routesA.png": "fb2408bf1d80ef8f0f0375f296f06d87fd22ea66",
     "/assets/images/routesB.png": "11fb392e6aaf995f68cac2c76868bc736a3a17b2",
-    "/bacon.2ec966e457089a7c.png": "96da08c521ed0d93ede6a63ec5cc3a8817f07af5",
     "/favicon.ico": "e8bade23b659c24ea3c536ed70d90c5e42b71097",
-    "/index.html": "9d25988f9f585251e229cde4c6dc634147ccee5d",
-    "/main.c116f70b410b00d7.js": "d361deee4c9950ccd028d7fac54601f5319cdeb1",
+    "/index.html": "9d3a8817a225eaeaac57cd76c7b6402382c2be69",
+    "/main.1aaf07fdd149e8fc.js": "9a9a3b975367ec0fb1f09b8e88cfeb8e32557fa6",
     "/manifest.webmanifest": "1a614471890616f5cae86be08e1a37b1305b2e99",
     "/polyfills.1bfe84656be2a69e.js": "2be7e2e4b097919d8beb72a6414b38a8792be183",
     "/runtime.964c9c5c6ed39d83.js": "50f6349e061de277e06e3fbd7f131487eb5ef403",
-    "/styles.799023e0b71e2a79.css": "4d290f33594b493c8ac2a00466ce65a3ee88e977"
+    "/styles.0c77183a78cdf905.css": "1a8b498a79e9c4b9ab35c6a54e8bda66dbbe0091"
   },
   "navigationUrls": [
     {
