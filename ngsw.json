@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1719185097386,
+  "timestamp": 1724790767361,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.ac936d5913ba326e.js",
+        "/main.040e465a6a02d3cf.js",
         "/manifest.webmanifest",
         "/polyfills.1bfe84656be2a69e.js",
         "/runtime.964c9c5c6ed39d83.js",
@@ -33,6 +33,8 @@
         "/assets/audio/Korobeiniki_02_violin.mp3",
         "/assets/audio/Korobeiniki_04_percussion.mp3",
         "/assets/audio/Korobeiniki_10_piano.mp3",
+        "/assets/bible_questions.csv",
+        "/assets/bible_verses.csv",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
@@ -80,6 +82,8 @@
     "/assets/audio/Korobeiniki_02_violin.mp3": "f09e66a7b19d9858b4eaae4e7f0a13595b1f5af3",
     "/assets/audio/Korobeiniki_04_percussion.mp3": "06230d7617ad168180b908e1847b9041c38e25f7",
     "/assets/audio/Korobeiniki_10_piano.mp3": "01e6de5c255825ebffd4d75eedf3a9191c9e8fd8",
+    "/assets/bible_questions.csv": "54deeef46587c842128fe904bef9d24c7ede375b",
+    "/assets/bible_verses.csv": "3367c3e4f736336427d52c4fa0ad7cb2698f3096",
     "/assets/icons/icon-128x128.png": "f0e48235569e66792287e1aa60f8bbe41dc3d55f",
     "/assets/icons/icon-144x144.png": "12cc155e198f87d01daad79c43a522dcd2d02a09",
     "/assets/icons/icon-152x152.png": "fda7b81f6747ddcbd5a5f5927185ef5e585f770d",
@@ -119,8 +123,8 @@
     "/fa-v4compatibility.6209cf0172d95b0e.woff2": "8f80d0bbe995f7fe92320fdaec10cd5ccd710a51",
     "/fa-v4compatibility.92dce52f885fd838.ttf": "a9d072aca9e0fadc2a7167671ce3d6b18d9cd2cc",
     "/favicon.ico": "e8bade23b659c24ea3c536ed70d90c5e42b71097",
-    "/index.html": "7829506b3c5b8c92c958c1eb61fb54e2237ba81d",
-    "/main.ac936d5913ba326e.js": "b8d1610a53bb539f7414856e09a09d9e8a37356a",
+    "/index.html": "9475a75a5d920794c765df7c7a081d7188dd39c9",
+    "/main.040e465a6a02d3cf.js": "57902d20b0d4692d6574b035ff428354eebda344",
     "/manifest.webmanifest": "1a614471890616f5cae86be08e1a37b1305b2e99",
     "/polyfills.1bfe84656be2a69e.js": "2be7e2e4b097919d8beb72a6414b38a8792be183",
     "/runtime.964c9c5c6ed39d83.js": "50f6349e061de277e06e3fbd7f131487eb5ef403",
