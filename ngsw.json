@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1739636341012,
+  "timestamp": 1741408595236,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.afa47c031b891ed4.js",
+        "/main.4de4334a09b2f25b.js",
         "/manifest.webmanifest",
         "/polyfills.1bfe84656be2a69e.js",
         "/runtime.964c9c5c6ed39d83.js",
-        "/scripts.aed6008313bc5af4.js",
+        "/scripts.4f7ec0e79b84db7d.js",
         "/styles.66ac66b39101b602.css"
       ],
       "patterns": []
@@ -64,6 +64,7 @@
         "/assets/images/routesA.png",
         "/assets/images/routesB.png",
         "/assets/images/same.png",
+        "/assets/js/sudoku.js",
         "/assets/mathjax/mml-chtml.js",
         "/assets/mathjax/tex-chtml.js",
         "/fa-brands-400.5f7c5bb77eae788b.ttf",
@@ -114,6 +115,7 @@
     "/assets/images/routesA.png": "fb2408bf1d80ef8f0f0375f296f06d87fd22ea66",
     "/assets/images/routesB.png": "11fb392e6aaf995f68cac2c76868bc736a3a17b2",
     "/assets/images/same.png": "386ed7c4bfe3f69c65a839eb0ac90b1886c42750",
+    "/assets/js/sudoku.js": "9cd4b5812135c7e57271445878680f2bee1d49a2",
     "/assets/mathjax/mml-chtml.js": "c535f848b3eaed99913f25fe027ddf5b88d32602",
     "/assets/mathjax/tex-chtml.js": "e6bad461865fee253ced669ac1f060492fa6858f",
     "/fa-brands-400.5f7c5bb77eae788b.ttf": "f0982a77285d53653845b0a78170b4688db972f1",
@@ -125,12 +127,12 @@
     "/fa-v4compatibility.6209cf0172d95b0e.woff2": "8f80d0bbe995f7fe92320fdaec10cd5ccd710a51",
     "/fa-v4compatibility.92dce52f885fd838.ttf": "a9d072aca9e0fadc2a7167671ce3d6b18d9cd2cc",
     "/favicon.ico": "e8bade23b659c24ea3c536ed70d90c5e42b71097",
-    "/index.html": "82982f818867bf3081b4ce883761a79f3e2377e5",
-    "/main.afa47c031b891ed4.js": "40335fbbe93217e523d33784d5249a8d57ab55c7",
+    "/index.html": "3b7fdb542d9d6703297865365dfe25c861e711ba",
+    "/main.4de4334a09b2f25b.js": "941eea7e5d126b95b28a28dc9a9b08ab83c53302",
     "/manifest.webmanifest": "1a614471890616f5cae86be08e1a37b1305b2e99",
     "/polyfills.1bfe84656be2a69e.js": "2be7e2e4b097919d8beb72a6414b38a8792be183",
     "/runtime.964c9c5c6ed39d83.js": "50f6349e061de277e06e3fbd7f131487eb5ef403",
-    "/scripts.aed6008313bc5af4.js": "54a35ee14f85b6f79fadb23283efdc8bbf52efe6",
+    "/scripts.4f7ec0e79b84db7d.js": "3b72a611e4b63b5c3f952e1b5dc27a96eede1959",
     "/styles.66ac66b39101b602.css": "73db07c61f44267bcfc42961113ed894f4df36b3"
   },
   "navigationUrls": [
