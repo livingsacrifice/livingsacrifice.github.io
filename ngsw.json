@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1741483238170,
+  "timestamp": 1742052211838,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.ec208cab1df13f33.js",
+        "/main.836771f52b856fdf.js",
         "/manifest.webmanifest",
         "/polyfills.1bfe84656be2a69e.js",
         "/runtime.964c9c5c6ed39d83.js",
-        "/scripts.bcc779b2cea58e48.js",
+        "/scripts.fef3cc8db76aacf3.js",
         "/styles.66ac66b39101b602.css"
       ],
       "patterns": []
@@ -117,7 +117,7 @@
     "/assets/images/routesA.png": "fb2408bf1d80ef8f0f0375f296f06d87fd22ea66",
     "/assets/images/routesB.png": "11fb392e6aaf995f68cac2c76868bc736a3a17b2",
     "/assets/images/same.png": "386ed7c4bfe3f69c65a839eb0ac90b1886c42750",
-    "/assets/js/sudoku.js": "5d189461f7fc07b6b5cc1529a16a1c8d8a683699",
+    "/assets/js/sudoku.js": "ec955483838bbc91f99acf2bf2def67d19f9ef6d",
     "/assets/mathjax/mml-chtml.js": "c535f848b3eaed99913f25fe027ddf5b88d32602",
     "/assets/mathjax/tex-chtml.js": "e6bad461865fee253ced669ac1f060492fa6858f",
     "/fa-brands-400.5f7c5bb77eae788b.ttf": "f0982a77285d53653845b0a78170b4688db972f1",
@@ -129,12 +129,12 @@
     "/fa-v4compatibility.6209cf0172d95b0e.woff2": "8f80d0bbe995f7fe92320fdaec10cd5ccd710a51",
     "/fa-v4compatibility.92dce52f885fd838.ttf": "a9d072aca9e0fadc2a7167671ce3d6b18d9cd2cc",
     "/favicon.ico": "e8bade23b659c24ea3c536ed70d90c5e42b71097",
-    "/index.html": "b838dd0ceac1411da6a530609f6f0257f85d6428",
-    "/main.ec208cab1df13f33.js": "b47234f71505c440801a55868aa2e50975e71502",
+    "/index.html": "9ef786095753ea5a49f6a61a63453f5701b3b197",
+    "/main.836771f52b856fdf.js": "11fd036845cc9016d07b3074697817416927597e",
     "/manifest.webmanifest": "1a614471890616f5cae86be08e1a37b1305b2e99",
     "/polyfills.1bfe84656be2a69e.js": "2be7e2e4b097919d8beb72a6414b38a8792be183",
     "/runtime.964c9c5c6ed39d83.js": "50f6349e061de277e06e3fbd7f131487eb5ef403",
-    "/scripts.bcc779b2cea58e48.js": "37a19532428e3ba9700d2dd72acfa56c90846682",
+    "/scripts.fef3cc8db76aacf3.js": "d65fd4d907fd519d675dd7809daade9b4bb20ace",
     "/styles.66ac66b39101b602.css": "73db07c61f44267bcfc42961113ed894f4df36b3"
   },
   "navigationUrls": [
