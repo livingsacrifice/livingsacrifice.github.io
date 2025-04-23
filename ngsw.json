@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1745443512122,
+  "timestamp": 1745445786539,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.becddab898138f57.js",
+        "/main.0ded37f946689bd8.js",
         "/manifest.webmanifest",
         "/polyfills.1bfe84656be2a69e.js",
         "/runtime.964c9c5c6ed39d83.js",
@@ -30,6 +30,9 @@
         "ignoreVary": true
       },
       "urls": [
+        "/assets/audio/A-Type.mp3",
+        "/assets/audio/B-Type.mp3",
+        "/assets/audio/C-Type.mp3",
         "/assets/audio/Korobeiniki_02_violin.mp3",
         "/assets/audio/Korobeiniki_04_percussion.mp3",
         "/assets/audio/Korobeiniki_10_piano.mp3",
@@ -133,6 +136,7 @@
         "/assets/images/routesA.png",
         "/assets/images/routesB.png",
         "/assets/images/same.png",
+        "/assets/images/tetris.png",
         "/assets/js/sudoku.js",
         "/assets/mathjax/mml-chtml.js",
         "/assets/mathjax/tex-chtml.js",
@@ -157,6 +161,9 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/assets/audio/A-Type.mp3": "ad53d19c9d6a66e2140a5e87b94289c22c4cdf40",
+    "/assets/audio/B-Type.mp3": "79c6dbafb6a18c81494d82771c9a3e51a86e4a36",
+    "/assets/audio/C-Type.mp3": "55c7a113fd61c67d598538099c05200972602109",
     "/assets/audio/Korobeiniki_02_violin.mp3": "f09e66a7b19d9858b4eaae4e7f0a13595b1f5af3",
     "/assets/audio/Korobeiniki_04_percussion.mp3": "06230d7617ad168180b908e1847b9041c38e25f7",
     "/assets/audio/Korobeiniki_10_piano.mp3": "01e6de5c255825ebffd4d75eedf3a9191c9e8fd8",
@@ -260,6 +267,7 @@
     "/assets/images/routesA.png": "fb2408bf1d80ef8f0f0375f296f06d87fd22ea66",
     "/assets/images/routesB.png": "11fb392e6aaf995f68cac2c76868bc736a3a17b2",
     "/assets/images/same.png": "386ed7c4bfe3f69c65a839eb0ac90b1886c42750",
+    "/assets/images/tetris.png": "d1d748bd40a63eff615a8b68d3d6e2d4daa5524c",
     "/assets/js/sudoku.js": "ec955483838bbc91f99acf2bf2def67d19f9ef6d",
     "/assets/mathjax/mml-chtml.js": "c535f848b3eaed99913f25fe027ddf5b88d32602",
     "/assets/mathjax/tex-chtml.js": "e6bad461865fee253ced669ac1f060492fa6858f",
@@ -279,8 +287,8 @@
     "/fa-v4compatibility.6209cf0172d95b0e.woff2": "8f80d0bbe995f7fe92320fdaec10cd5ccd710a51",
     "/fa-v4compatibility.92dce52f885fd838.ttf": "a9d072aca9e0fadc2a7167671ce3d6b18d9cd2cc",
     "/favicon.ico": "e8bade23b659c24ea3c536ed70d90c5e42b71097",
-    "/index.html": "e88eb6d7f4c195e276c90a9328381e070a928293",
-    "/main.becddab898138f57.js": "4f5eaba48ee615f1c50f54ae417e6ea450d77fec",
+    "/index.html": "49747f252dfdcda98cf40b6fb09154757570144a",
+    "/main.0ded37f946689bd8.js": "660373127fce008bb703199cc0095f0a17e621da",
     "/manifest.webmanifest": "1a614471890616f5cae86be08e1a37b1305b2e99",
     "/polyfills.1bfe84656be2a69e.js": "2be7e2e4b097919d8beb72a6414b38a8792be183",
     "/runtime.964c9c5c6ed39d83.js": "50f6349e061de277e06e3fbd7f131487eb5ef403",
