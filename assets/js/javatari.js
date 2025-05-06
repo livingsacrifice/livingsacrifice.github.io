@@ -9,7 +9,7 @@ Javatari = {
     PRESETS:                        "",                         // Configuration Presets to apply. See Presets Configuration
 
     // Full or relative URL of Media files to load
-    CARTRIDGE_URL:                  "https://livingsacrifice.github.io/assets/roms/Sandworm.bin",
+    CARTRIDGE_URL:                  "",
     AUTODETECT_URL:                 "",
     STATE_URL:                      "",
 
