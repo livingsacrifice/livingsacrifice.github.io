@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1746562588061,
+  "timestamp": 1746670180643,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.3e65620498d1d6e9.js",
+        "/main.9d785eb82062dbbb.js",
         "/manifest.webmanifest",
         "/polyfills.1bfe84656be2a69e.js",
         "/runtime.964c9c5c6ed39d83.js",
-        "/scripts.4be2ec52ad762570.js",
+        "/scripts.f6565192326a88d4.js",
         "/styles.66ac66b39101b602.css"
       ],
       "patterns": []
@@ -273,7 +273,7 @@
     "/assets/images/routesB.png": "11fb392e6aaf995f68cac2c76868bc736a3a17b2",
     "/assets/images/same.png": "386ed7c4bfe3f69c65a839eb0ac90b1886c42750",
     "/assets/images/tetris.png": "d1d748bd40a63eff615a8b68d3d6e2d4daa5524c",
-    "/assets/js/javatari.js": "60ec8bb4f1cbc89f0edec24653963fb8b1ea6344",
+    "/assets/js/javatari.js": "6a71d307fa7c9b4a29e79f58ac58d8c0c4466344",
     "/assets/js/javatari4.js": "2f0eef258e2f90a2f8c84776840f0127e9f1808e",
     "/assets/js/sudoku.js": "ec955483838bbc91f99acf2bf2def67d19f9ef6d",
     "/assets/mathjax/mml-chtml.js": "c535f848b3eaed99913f25fe027ddf5b88d32602",
@@ -297,12 +297,12 @@
     "/fa-v4compatibility.6209cf0172d95b0e.woff2": "8f80d0bbe995f7fe92320fdaec10cd5ccd710a51",
     "/fa-v4compatibility.92dce52f885fd838.ttf": "a9d072aca9e0fadc2a7167671ce3d6b18d9cd2cc",
     "/favicon.ico": "e8bade23b659c24ea3c536ed70d90c5e42b71097",
-    "/index.html": "41efcbf6a32c83f14349d17b61751102ff865302",
-    "/main.3e65620498d1d6e9.js": "d2234db80cd9ffb2a7eebb3cf2d1922c1f8dbade",
+    "/index.html": "834370f4c2024cf2eb0e1ca05a1cb971820175c3",
+    "/main.9d785eb82062dbbb.js": "90fee82c0fdeabb7d51788b0164f8671ca7f0344",
     "/manifest.webmanifest": "1a614471890616f5cae86be08e1a37b1305b2e99",
     "/polyfills.1bfe84656be2a69e.js": "2be7e2e4b097919d8beb72a6414b38a8792be183",
     "/runtime.964c9c5c6ed39d83.js": "50f6349e061de277e06e3fbd7f131487eb5ef403",
-    "/scripts.4be2ec52ad762570.js": "224968299bb94e8d6e698cc0834250547af3e3d8",
+    "/scripts.f6565192326a88d4.js": "461eef82920e17bdbb78d851a3ee5c22e0ca4b19",
     "/styles.66ac66b39101b602.css": "73db07c61f44267bcfc42961113ed894f4df36b3"
   },
   "navigationUrls": [
