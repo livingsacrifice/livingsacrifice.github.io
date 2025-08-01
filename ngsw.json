@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1754069078971,
+  "timestamp": 1754081044142,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.65166c961172a98b.js",
+        "/main.873196bb03dd083d.js",
         "/manifest.webmanifest",
         "/polyfills.1bfe84656be2a69e.js",
         "/runtime.964c9c5c6ed39d83.js",
@@ -142,6 +142,8 @@
         "/assets/js/sudoku.js",
         "/assets/mathjax/mml-chtml.js",
         "/assets/mathjax/tex-chtml.js",
+        "/assets/maze-runner/exit-sprite.png",
+        "/assets/maze-runner/wall-texture.png",
         "/assets/non1010_100.txt",
         "/assets/nonogram_hex.txt",
         "/assets/nonogram_hex_part1.txt",
@@ -278,6 +280,8 @@
     "/assets/js/sudoku.js": "ec955483838bbc91f99acf2bf2def67d19f9ef6d",
     "/assets/mathjax/mml-chtml.js": "c535f848b3eaed99913f25fe027ddf5b88d32602",
     "/assets/mathjax/tex-chtml.js": "e6bad461865fee253ced669ac1f060492fa6858f",
+    "/assets/maze-runner/exit-sprite.png": "61b4492f5da77461ba2a859ef0324522e6eb0aa7",
+    "/assets/maze-runner/wall-texture.png": "17707d2ec0ce6ead64269c7725bea1b03dff6d68",
     "/assets/non1010_100.txt": "093df9eb149cb53c7691d5260c8051b90375ba33",
     "/assets/nonogram_hex.txt": "920e27ccbb94befdc548942deffe742f7de9c09b",
     "/assets/nonogram_hex_part1.txt": "cb8fe278dd55fc7bd2b13d85640a7dbda4125432",
@@ -297,8 +301,8 @@
     "/fa-v4compatibility.6209cf0172d95b0e.woff2": "8f80d0bbe995f7fe92320fdaec10cd5ccd710a51",
     "/fa-v4compatibility.92dce52f885fd838.ttf": "a9d072aca9e0fadc2a7167671ce3d6b18d9cd2cc",
     "/favicon.ico": "e8bade23b659c24ea3c536ed70d90c5e42b71097",
-    "/index.html": "a210d9c1406162b5cc958552fe602f8168305dd3",
-    "/main.65166c961172a98b.js": "db8aa439e051972fdf16dd10c2926544ae85b6b1",
+    "/index.html": "f110107fa7ff5aa198ec7f4535a04655f9ead5b9",
+    "/main.873196bb03dd083d.js": "7538ae4ae5bcd49513a1eab7cb5be653892d96e7",
     "/manifest.webmanifest": "1a614471890616f5cae86be08e1a37b1305b2e99",
     "/polyfills.1bfe84656be2a69e.js": "2be7e2e4b097919d8beb72a6414b38a8792be183",
     "/runtime.964c9c5c6ed39d83.js": "50f6349e061de277e06e3fbd7f131487eb5ef403",
