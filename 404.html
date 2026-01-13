@@ -23,4 +23,13 @@
 })();
 </script>
 
+
+<script>
+sessionStorage.setItem(
+  'redirect',
+  location.pathname + location.search + location.hash
+);
+location.replace('/');
+</script>
+
 </body></html>
