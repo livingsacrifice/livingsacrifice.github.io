@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1770520389719,
+  "timestamp": 1770555200473,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.334cc6ebbb9accbd.js",
+        "/main.c31f7639629ffa35.js",
         "/manifest.webmanifest",
         "/polyfills.1bfe84656be2a69e.js",
         "/runtime.964c9c5c6ed39d83.js",
@@ -2097,6 +2097,7 @@
         "/assets/tesl/images/icons/LG-icon-Willpower.png",
         "/assets/tesl/images/icons/LG-lane-Cover.png",
         "/assets/tesl/images/icons/LG-lane-Plain.png",
+        "/assets/tesl/images/icons/cards_in_hand.png",
         "/assets/tesl/images/icons/icon_gray.png",
         "/assets/tesl/images/icons/icon_green.png",
         "/assets/tesl/images/icons/icon_orange.png",
@@ -4183,6 +4184,7 @@
     "/assets/tesl/images/icons/LG-icon-Willpower.png": "e55c883f287c37db87ff7278f1ce15e1aebbff67",
     "/assets/tesl/images/icons/LG-lane-Cover.png": "21b2f3e0f81aa71922f9df5cfee4aa759afed487",
     "/assets/tesl/images/icons/LG-lane-Plain.png": "620b1e2b05fe936e4bd6dfc9922610a7ef070f16",
+    "/assets/tesl/images/icons/cards_in_hand.png": "c184185bae721bc2d48c89bfd8b3286fefcdeb6e",
     "/assets/tesl/images/icons/icon_gray.png": "403d65c06b36a186226c02ff8b8972dfd1a8e558",
     "/assets/tesl/images/icons/icon_green.png": "638d1cb44ceb74e5e00b25958cc54f8be44c1994",
     "/assets/tesl/images/icons/icon_orange.png": "c6ce3651c3c1deb24ada96137434fbf9dcc85670",
@@ -4197,8 +4199,8 @@
     "/fa-v4compatibility.6209cf0172d95b0e.woff2": "8f80d0bbe995f7fe92320fdaec10cd5ccd710a51",
     "/fa-v4compatibility.92dce52f885fd838.ttf": "a9d072aca9e0fadc2a7167671ce3d6b18d9cd2cc",
     "/favicon.ico": "e8bade23b659c24ea3c536ed70d90c5e42b71097",
-    "/index.html": "70ad8b640dacdad34a31c1540918b4c6fc31616a",
-    "/main.334cc6ebbb9accbd.js": "3078ddc65eec34e628c5aef834e7087c2df87169",
+    "/index.html": "8f5157152cc696ea957e3daeea8394f991af3439",
+    "/main.c31f7639629ffa35.js": "d95788f92d20eb12d49a4567a82d3438c0916557",
     "/manifest.webmanifest": "1a614471890616f5cae86be08e1a37b1305b2e99",
     "/polyfills.1bfe84656be2a69e.js": "2be7e2e4b097919d8beb72a6414b38a8792be183",
     "/runtime.964c9c5c6ed39d83.js": "50f6349e061de277e06e3fbd7f131487eb5ef403",
