@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1770596057426,
+  "timestamp": 1770603332456,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.d24e47cfcead3531.js",
+        "/main.adbbc534c1c084ae.js",
         "/manifest.webmanifest",
         "/polyfills.1bfe84656be2a69e.js",
         "/runtime.964c9c5c6ed39d83.js",
@@ -3230,7 +3230,7 @@
     "/assets/tesl/audio/core_set/LG-audio-wrothgar_kingpin_attack_02.ogg": "8a04b795722adf68bb1613af9309808f73a0e03a",
     "/assets/tesl/audio/core_set/LG-audio-wrothgar_kingpin_enter_play_01.ogg": "4a17c4b3f1b4a2e240d2944899a77162909a1de0",
     "/assets/tesl/audio/core_set/LG-audio-wrothgar_kingpin_enter_play_02.ogg": "ee1292b99f0421627304d5f16bb5165690914680",
-    "/assets/tesl/core_set.json": "1efd0be1d02f00b800fb9cbc718f5e0a98571a57",
+    "/assets/tesl/core_set.json": "fb1155352113ab6f47625a004e3eba6366e7eef6",
     "/assets/tesl/hue.py": "590c139db03b791a0bcff274d947f4a39bcd432d",
     "/assets/tesl/images/avatars/LG-arena-Argonian_1.png": "497f2e1b19e7ab10dd3cedc586a36f84e98eceb5",
     "/assets/tesl/images/avatars/LG-arena-Argonian_2.png": "cbb0050f87c7a8161b78a6b1a618036d25b2a5e2",
@@ -4199,8 +4199,8 @@
     "/fa-v4compatibility.6209cf0172d95b0e.woff2": "8f80d0bbe995f7fe92320fdaec10cd5ccd710a51",
     "/fa-v4compatibility.92dce52f885fd838.ttf": "a9d072aca9e0fadc2a7167671ce3d6b18d9cd2cc",
     "/favicon.ico": "e8bade23b659c24ea3c536ed70d90c5e42b71097",
-    "/index.html": "b6a8c064fb503c377bd5641eb36739a8d7291cee",
-    "/main.d24e47cfcead3531.js": "a9a79ea36d010afefcd6c85842d17d93b357d10e",
+    "/index.html": "21edf3c2ea5192a8c473160f20b5c6f6c431f0fb",
+    "/main.adbbc534c1c084ae.js": "ca9ab75793beb710d693813e86e8e249668960a4",
     "/manifest.webmanifest": "1a614471890616f5cae86be08e1a37b1305b2e99",
     "/polyfills.1bfe84656be2a69e.js": "2be7e2e4b097919d8beb72a6414b38a8792be183",
     "/runtime.964c9c5c6ed39d83.js": "50f6349e061de277e06e3fbd7f131487eb5ef403",
