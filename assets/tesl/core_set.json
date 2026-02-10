@@ -45,10 +45,7 @@
     "rarity": "3Epic",
     "text": "Summon : Put a Steel Dagger into your hand. When Alik'r Survivalist equips an item , he gains +1/+1.",
     "keywords": [],
-    "mechanics": [
-      "Summon",
-      "When"
-    ],
+    "mechanics": [],
     "set": "Core Set",
     "deckCodeId": "ar",
     "effects": [
@@ -80,16 +77,13 @@
     "health": null,
     "rarity": "2Rare",
     "text": "+3/+0 Summon : Give the wielder Cover at the end of turn.",
-    "keywords": [
-      "Cover"
-    ],
-    "mechanics": [
-      "Summon"
-    ],
+    "keywords": [],
+    "mechanics": [],
     "set": "Core Set",
     "deckCodeId": "be",
     "modAttack": 3,
-    "modHealth": 0
+    "modHealth": 0,
+    "tempKeywords": ["Cover"]
   },
   {
     "id": "bangkorai-butcher",
@@ -120,7 +114,7 @@
         "modHealth": 2,
         "condition": {
           "type": "hasOtherOnBoard",
-          "subtype": "Orc"
+          "subtypes": [ "Orc" ]
         }
       }
     ]
@@ -210,9 +204,7 @@
     "rarity": "3Epic",
     "text": "At the start of your turn, Blighted Alit deals 2 damage to you.",
     "keywords": [],
-    "mechanics": [
-      "StartOfTurn"
-    ],
+    "mechanics": [],
     "set": "Core Set",
     "deckCodeId": "ca",
     "effects": [
@@ -278,9 +270,7 @@
     "rarity": "2Rare",
     "text": "+1/+0 Summon : Silence another creature.",
     "keywords": [],
-    "mechanics": [
-      "Summon"
-    ],
+    "mechanics": [],
     "set": "Core Set",
     "deckCodeId": "cl",
     "modAttack": 1,
@@ -1012,7 +1002,16 @@
     "keywords": [],
     "mechanics": [],
     "set": "Core Set",
-    "deckCodeId": "mg"
+    "deckCodeId": "mg",
+    "effects": [
+      {
+        "trigger": "Play",
+        "type": "addToHand",
+        "amount": 2,
+        "subtypes": [ "Item" ],
+        "target": "player"
+      }
+    ]
   },
   {
     "id": "raiding-party",
@@ -1073,9 +1072,25 @@
     "keywords": [],
     "mechanics": [],
     "set": "Core Set",
-    "target": "creature",
     "deckCodeId": "mG",
-    "damage": 1
+    "damage": 1,
+    "effects": [
+      {
+        "trigger": "Play",
+        "type": "damage",
+        "amount": 1,
+        "target": "creature"
+      },
+      {
+        "trigger": "Play",
+        "type": "drawCards",
+        "amount": 1,
+        "target": "player",
+        "condition": {
+          "type": "creatureAlive"
+        }
+      }
+    ]
   },
   {
     "id": "reive-blademaster",
@@ -1159,12 +1174,18 @@
     "health": 3,
     "rarity": "1Common",
     "text": "+0/+3 and Guard while equipped with an item .",
-    "keywords": [
-      "Guard"
-    ],
+    "keywords": [],
     "mechanics": [],
     "set": "Core Set",
-    "deckCodeId": "ni"
+    "deckCodeId": "ni",
+    "static": {
+      "condition": {
+        "type": "hasItem"
+      },
+      "modAttack": 0,
+      "modHealth": 3,
+      "addKeywords": ["Guard"]
+    }
   },
   {
     "id": "rihad-horseman",
@@ -1276,13 +1297,17 @@
     "rarity": "1Common",
     "text": "Summon : Deal 1 damage to all other creatures in this lane .",
     "keywords": [],
-    "mechanics": [
-      "Summon"
-    ],
+    "mechanics": [],
     "set": "Core Set",
     "deckCodeId": "oo",
-    "damage": 1,
-    "target": "creatureOtherThisLaneAll"
+    "effects": [
+      {
+        "trigger": "Summon",
+        "type": "damage",
+        "amount": 1,
+        "target": "creatureOtherThisLaneAll"
+      }
+    ]
   },
   {
     "id": "skirmishers-elixir",
@@ -1343,8 +1368,17 @@
     "keywords": [],
     "mechanics": [],
     "set": "Core Set",
-    "target": "creatureEnemy",
-    "deckCodeId": "pw"
+    "deckCodeId": "pw",
+    "effects": [
+      {
+        "trigger": "Play",
+        "type": "destroy",
+        "target": "creatureEnemy",
+        "condition": {
+          "type": "hasHigherAttack"
+        }
+      }
+    ]
   },
   {
     "id": "trebuchet",
@@ -1450,11 +1484,17 @@
       "Guard",
       "Breakthrough"
     ],
-    "mechanics": [
-      "Summon"
-    ],
+    "mechanics": [],
     "set": "Core Set",
-    "deckCodeId": "rr"
+    "deckCodeId": "rr",
+    "effects": [
+      {
+        "trigger": "Summon",
+        "type": "drawCards",
+        "amount": 1,
+        "target": "player"
+      }
+    ]
   },
   {
     "id": "volendrung",
@@ -1496,11 +1536,17 @@
     "rarity": "3Epic",
     "text": "When Whirling Duelist equips an item , deal 1 damage to all enemy creatures in this lane.",
     "keywords": [],
-    "mechanics": [
-      "When"
-    ],
+    "mechanics": [],
     "set": "Core Set",
-    "deckCodeId": "rH"
+    "deckCodeId": "rH",
+    "effects": [
+      {
+        "trigger": "EquipItem",
+        "type": "damage",
+        "amount": 1,
+        "target": "creatureEnemyThisLaneAll"
+      }
+    ]
   },
   {
     "id": "withered-hand-cultist",
@@ -1603,13 +1649,19 @@
     "rarity": "2Rare",
     "text": "Summon : Deal 2 damage to a creature.",
     "keywords": [],
-    "mechanics": [
-      "Summon"
-    ],
+    "mechanics": [],
     "set": "Core Set",
     "deckCodeId": "aX",
     "target": "creature",
-    "damage": 2
+    "damage": 2,
+    "effects": [
+      {
+        "trigger": "Summon",
+        "type": "damage",
+        "amount": 2,
+        "target": "creatureOther"
+      }
+    ]
   },
   {
     "id": "balmora-spymaster",
@@ -1709,8 +1761,15 @@
     "keywords": [],
     "mechanics": [],
     "set": "Core Set",
-    "target": "creatureFriendly",
-    "deckCodeId": "cs"
+    "deckCodeId": "cs",
+    "effects": [
+      {
+        "trigger": "Play",
+        "type": "addToHand",
+        "amount": 1,
+        "target": "creatureFriendly"
+      }
+    ]
   },
   {
     "id": "brutal-ashlander",
@@ -1827,11 +1886,18 @@
     "rarity": "1Common",
     "text": "Summon : Put a Steel Dagger into your hand.",
     "keywords": [],
-    "mechanics": [
-      "Summon"
-    ],
+    "mechanics": [],
     "set": "Core Set",
-    "deckCodeId": "dI"
+    "deckCodeId": "dI",
+    "effects": [
+      {
+        "trigger": "Summon",
+        "type": "addToHand",
+        "cardId": "steel-dagger",
+        "amount": 1,
+        "target": "player"
+      }
+    ]
   },
   {
     "id": "cruel-firebloom",
@@ -1853,7 +1919,7 @@
     "effects": [
       {
         "trigger": "Play",
-        "type": "sacrifice",
+        "type": "destroy",
         "target": "creatureFriendly"
       },
       {
@@ -1911,6 +1977,7 @@
         "type": "addToHand",
         "cardId": "firebolt",
         "amount": 1,
+        "target": "player",
         "condition": {
           "type": "topDeckAttribute",
           "attribute": "B"
@@ -1981,8 +2048,19 @@
     "keywords": [],
     "mechanics": [],
     "set": "Core Set",
-    "target": "creatureFriendly",
-    "deckCodeId": "eu"
+    "deckCodeId": "eu",
+    "effects": [
+      {
+        "trigger": "Play",
+        "type": "destroy",
+        "target": "creatureFriendly"
+      },
+      {
+        "trigger": "Play",
+        "type": "summonRandom2",
+        "target": "thisLane"
+      }
+    ]
   },
   {
     "id": "divayth-fyr",
@@ -2026,11 +2104,17 @@
     "rarity": "3Epic",
     "text": "When Dragonstar Rider equips an item , draw a card.",
     "keywords": [],
-    "mechanics": [
-      "When"
-    ],
+    "mechanics": [],
     "set": "Core Set",
-    "deckCodeId": "eP"
+    "deckCodeId": "eP",
+    "effects": [
+      {
+        "trigger": "EquipItem",
+        "type": "drawCards",
+        "amount": 1,
+        "target": "player"
+      }
+    ]
   },
   {
     "id": "dres-renegade",
@@ -2110,7 +2194,8 @@
         "trigger": "LastGasp",
         "type": "addToHand",
         "cardId": "iron-sword",
-        "amount": 1
+        "amount": 1,
+        "target": "player"
       }
     ]
   },
@@ -2162,7 +2247,8 @@
       {
         "trigger": "Summon",
         "type": "drawCards",
-        "amount": 1
+        "amount": 1,
+        "target": "player"
       },
       {
         "trigger": "LastGasp",
@@ -2244,7 +2330,8 @@
       {
         "trigger": "Summon",
         "type": "drawCardsProphecy",
-        "amount": 1
+        "amount": 1,
+        "target": "player"
       }
     ]
   },
@@ -2285,7 +2372,6 @@
     "keywords": [],
     "mechanics": [],
     "set": "Core Set",
-    "target": "creature",
     "deckCodeId": "gy",
     "effects": [
       {
@@ -2334,13 +2420,25 @@
     "keywords": [
       "LastGasp"
     ],
-    "mechanics": [
-      "LastGasp"
-    ],
+    "mechanics": [],
     "set": "Core Set",
     "deckCodeId": "hY",
     "modAttack": 5,
-    "modHealth": 0
+    "modHealth": 0,
+    "effects": [
+      {
+        "trigger": "LastGasp",
+        "type": "addToHand",
+        "cardId": "hierloom-greatsword",
+        "amount": 1,
+        "target": "player"
+      },
+      {
+        "trigger": "LastGasp",
+        "type": "banish",
+        "target": "self"
+      }
+    ]
   },
   {
     "id": "high-rock-summoner",
@@ -2358,11 +2456,18 @@
     "rarity": "2Rare",
     "text": "Summon : Put a random Atronach into your hand.",
     "keywords": [],
-    "mechanics": [
-      "Summon"
-    ],
+    "mechanics": [],
     "set": "Core Set",
-    "deckCodeId": "ih"
+    "deckCodeId": "ih",
+    "effects": [
+      {
+        "trigger": "Summon",
+        "type": "addToHand",
+        "subypes": ["Atronach"],
+        "amount": 1,
+        "target": "player"
+      }
+    ]
   },
   {
     "id": "ice-spike",
@@ -2489,8 +2594,15 @@
     ],
     "mechanics": [],
     "set": "Core Set",
-    "target": "creature",
-    "deckCodeId": "jE"
+    "deckCodeId": "jE",
+    "effects": [
+      {
+        "trigger": "Play",
+        "type": "buffTarget",
+        "addKeywords": [ "Guard" ],
+        "target": "creature"
+      }
+    ]
   },
   {
     "id": "lightning-bolt",
@@ -2508,10 +2620,17 @@
     "keywords": [],
     "mechanics": [],
     "set": "Core Set",
-    "target": "any",
     "deckCodeId": "jH",
     "damage": 4,
-    "prophecy": true
+    "prophecy": true,
+    "effects": [
+      {
+        "trigger": "Play",
+        "type": "damage",
+        "amount": 4,
+        "target": "any"
+      }
+    ]
   },
   {
     "id": "lillandril-hexmage",
@@ -2549,14 +2668,18 @@
     "rarity": "2Rare",
     "text": "+2/+1 Summon : Shackle an enemy creature.",
     "keywords": [],
-    "mechanics": [
-      "Summon"
-    ],
+    "mechanics": [],
     "set": "Core Set",
-    "target": "creatureEnemy",
     "deckCodeId": "jX",
     "modAttack": 2,
-    "modHealth": 1
+    "modHealth": 1,
+    "effects": [
+      {
+        "trigger": "Summon",
+        "type": "shackle",
+        "target": "creatureEnemy"
+      }
+    ]
   },
   {
     "id": "mages-guild-retreat",
@@ -2592,11 +2715,17 @@
     "rarity": "3Epic",
     "text": "Summon : Master of Arms equips the two highest cost items from your discard pile.",
     "keywords": [],
-    "mechanics": [
-      "Summon"
-    ],
+    "mechanics": [],
     "set": "Core Set",
-    "deckCodeId": "kl"
+    "deckCodeId": "kl",
+    "effects": [
+      {
+        "trigger": "Summon",
+        "type": "EquipDiscard",
+        "amount": 2,
+        "target": "self"
+      }
+    ]
   },
   {
     "id": "mentors-ring",
@@ -2612,14 +2741,18 @@
     "rarity": "4Legendary",
     "text": "+3/+3 Summon : Give this creature's Keywords to each other friendly creature.",
     "keywords": [],
-    "mechanics": [
-      "Summon"
-    ],
+    "mechanics": [],
     "set": "Core Set",
     "deckCodeId": "ku",
     "modAttack": 3,
     "modHealth": 3,
-    "target": "creatureFriendlyOtherAll"
+    "effects": [
+      {
+        "trigger": "Summon",
+        "type": "shareKeywords",
+        "target": "creatureFriendlyOtherAll"
+      }
+    ]
   },
   {
     "id": "moment-of-clarity",
@@ -2637,7 +2770,6 @@
     "keywords": [],
     "mechanics": [],
     "set": "Core Set",
-    "target": "chooseThree",
     "deckCodeId": "kF",
     "effects": [
       {
@@ -2831,7 +2963,18 @@
     "keywords": [],
     "mechanics": [],
     "set": "Core Set",
-    "deckCodeId": "ot"
+    "deckCodeId": "ot",
+    "effects": [
+      {
+        "trigger": "Aura",
+        "target": "playerHand",
+        "modCost": -1,
+        "condition": {
+          "type": "hasSubtype",
+          "subtypes": [ "Item" ]
+        }
+      }
+    ]
   },
   {
     "id": "soul-split",
@@ -2853,7 +2996,7 @@
     "effects": [
       {
         "trigger": "Play",
-        "type": "sacrifice",
+        "type": "destroy",
         "target": "creatureFriendly"
       },
       {
@@ -2884,13 +3027,19 @@
     "rarity": "4Legendary",
     "text": "+3/+0 When the wielder attacks, it deals 1 damage to all enemy creatures in this lane.",
     "keywords": [],
-    "mechanics": [
-      "When"
-    ],
+    "mechanics": [],
     "set": "Core Set",
     "deckCodeId": "pf",
     "modAttack": 3,
-    "modHealth": 0
+    "modHealth": 0,
+    "effects": [
+      {
+        "trigger": "Attack",
+        "type": "damage",
+        "amount": 1,
+        "target": "creatureEnemyThisLaneAll"
+      }
+    ]
   },
   {
     "id": "steel-sword",
@@ -2971,12 +3120,31 @@
     "rarity": "4Legendary",
     "text": "Summon : Summon a Flame Atronach in each lane . When you summon another creature, deal 2 damage to your opponent.",
     "keywords": [],
-    "mechanics": [
-      "Summon",
-      "When"
-    ],
+    "mechanics": [],
     "set": "Core Set",
-    "deckCodeId": "pS"
+    "deckCodeId": "pS",
+    "effects": [
+      {
+        "trigger": "Summon",
+        "type": "summon",
+        "cardId": "flame-atronach",
+        "amount": 1,
+        "target": "leftLane"
+      },
+      {
+        "trigger": "Summon",
+        "type": "summon",
+        "cardId": "flame-atronach",
+        "amount": 1,
+        "target": "rightLane"
+      },
+      {
+        "trigger": "SummonCreature",
+        "type": "damage",
+        "amount": 2,
+        "target": "opponent"
+      }
+    ]
   },
   {
     "id": "telvanni-arcanist",
@@ -3016,13 +3184,19 @@
     "rarity": "1Common",
     "text": "+2/+2 Summon : Draw a card.",
     "keywords": [],
-    "mechanics": [
-      "Summon"
-    ],
+    "mechanics": [],
     "set": "Core Set",
     "deckCodeId": "qF",
     "modAttack": 2,
-    "modHealth": 2
+    "modHealth": 2,
+    "effects": [
+      {
+        "trigger": "Summon",
+        "type": "drawCards",
+        "amount": 1,
+        "target": "player"
+      }
+    ]
   },
   {
     "id": "wardcrafter",
@@ -3063,7 +3237,13 @@
     "mechanics": [],
     "set": "Core Set",
     "deckCodeId": "rR",
-    "target": "creatureEnemyAll"
+    "effects": [
+      {
+        "trigger": "Play",
+        "type": "shackle",
+        "target": "creatureEnemyAll"
+      }
+    ]
   },
   {
     "id": "wisdom-of-ancients",
@@ -3147,7 +3327,20 @@
     "keywords": [],
     "mechanics": [],
     "set": "Core Set",
-    "deckCodeId": "av"
+    "deckCodeId": "av",
+    "effects": [
+      {
+        "trigger": "Aura",
+        "type": "buffTarget",
+        "modAttack": 2,
+        "modHealth": 0,
+        "target": "creatureFriendlyOtherAll",
+        "condition": {
+          "type": "hasSubtype",
+          "subtypes": [ "Wolf" ]
+        }
+      }
+    ]
   },
   {
     "id": "arrow-storm",
@@ -3277,7 +3470,7 @@
     "deckCodeId": "cx",
     "effects": [
       {
-        "trigger": "summonCreature",
+        "trigger": "SummonCreature",
         "type": "damage",
         "amount": -1,
         "target": "player"
@@ -3300,9 +3493,15 @@
     "keywords": [],
     "mechanics": [],
     "set": "Core Set",
-    "target": "creature",
     "deckCodeId": "cG",
-    "tempAttack": -4
+    "effects": [
+      {
+        "trigger": "Play",
+        "type": "buffTarget",
+        "target": "creature",
+        "tempAttack": -4
+      }
+    ]
   },
   {
     "id": "cathay-raht-veteran",
@@ -3428,14 +3627,23 @@
     "rarity": "4Legendary",
     "text": "+4/+4 Slay : Banish the slain creature if it's Undead .",
     "keywords": [],
-    "mechanics": [
-      "Slay"
-    ],
+    "mechanics": [],
     "set": "Core Set",
     "deckCodeId": "ej",
     "modAttack": 4,
     "modHealth": 4,
-    "unique": true
+    "unique": true,
+    "effects": [
+      {
+        "trigger": "Slay",
+        "type": "banish",
+        "target": "slay",
+        "condition": {
+          "type": "hasSubtype",
+          "subtypes": [ "Mummy", "Skeleton", "Spirit", "Vampire" ]
+        }
+      }
+    ]
   },
   {
     "id": "dawnstar-healer",
@@ -3571,8 +3779,18 @@
     "keywords": [],
     "mechanics": [],
     "set": "Core Set",
-    "target": "creature",
-    "deckCodeId": "fW"
+    "deckCodeId": "fW",
+    "effects": [
+      {
+        "trigger": "Play",
+        "type": "destroy",
+        "target": "creature",
+        "condition": {
+          "type": "hasAttack",
+          "max": 2
+        }
+      }
+    ]
   },
   {
     "id": "fifth-legion-trainer",
@@ -3595,7 +3813,7 @@
     "deckCodeId": "gp",
     "effects": [
       {
-        "trigger": "summonCreature",
+        "trigger": "SummonCreature",
         "type": "buffTarget",
         "modAttack": 1,
         "modHealth": 0,
@@ -3853,7 +4071,6 @@
     "keywords": [],
     "mechanics": [],
     "set": "Core Set",
-    "target": "lane",
     "deckCodeId": "iK",
     "effects": [
       {
@@ -3910,7 +4127,6 @@
     "keywords": [],
     "mechanics": [],
     "set": "Core Set",
-    "target": "creature",
     "deckCodeId": "iN",
     "effects": [
       {
@@ -4130,7 +4346,16 @@
       "Summon"
     ],
     "set": "Core Set",
-    "deckCodeId": "lT"
+    "deckCodeId": "lT",
+    "effects": [
+      {
+        "trigger": "Summon",
+        "type": "summon",
+        "cardId": "young-wolf",
+        "target": "otherLane",
+        "amount": 1
+      }
+    ]
   },
   {
     "id": "piercing-javelin",
@@ -4202,7 +4427,10 @@
     "keywords": [],
     "mechanics": [],
     "set": "Core Set",
-    "deckCodeId": "me"
+    "deckCodeId": "me",
+    "playCondition": {
+      "type": "friendlyCreatureInEachLane"
+    }
   },
   {
     "id": "priest-of-the-moons",
@@ -4485,7 +4713,14 @@
     "keywords": [],
     "mechanics": [],
     "set": "Core Set",
-    "deckCodeId": "oI"
+    "deckCodeId": "oI",
+    "static": {
+      "condition": {
+        "type": "hasMoreCreaturesThisLane"
+      },
+      "modAttack": 2,
+      "modHealth": 0
+    }
   },
   {
     "id": "spiteful-dremora",
@@ -4624,7 +4859,7 @@
     "effects": [
       {
         "trigger": "StartOfTurn",
-        "type": "sacrifice",
+        "type": "destroy",
         "condition": {
           "type": "noDamageTaken"
         }
@@ -4887,10 +5122,18 @@
     "keywords": [],
     "mechanics": [],
     "set": "Core Set",
-    "target": "creature",
     "deckCodeId": "dQ",
     "modAttack": -1,
-    "modHealth": -1
+    "modHealth": -1,
+    "effects": [
+      {
+        "trigger": "Play",
+        "type": "buffTarget",
+        "target": "creature",
+        "modAttack": -1,
+        "modHealth": -1
+      }
+    ]
   },
   {
     "id": "daring-cutpurse",
@@ -4967,7 +5210,13 @@
     ],
     "set": "Core Set",
     "deckCodeId": "fh",
-    "target": "creatureFriendlyOtherThisLane"
+    "effects": [
+      {
+        "trigger": "Summon",
+        "type": "move",
+        "target": "creatureFriendlyOtherThisLane"
+      }
+    ]
   },
   {
     "id": "dune-stalker",
@@ -5057,11 +5306,20 @@
     "rarity": "2Rare",
     "text": "Summon : +2/+2 if a creature died this turn.",
     "keywords": [],
-    "mechanics": [
-      "Summon"
-    ],
+    "mechanics": [],
     "set": "Core Set",
-    "deckCodeId": "gi"
+    "deckCodeId": "gi",
+    "effects": [
+      {
+        "trigger": "Summon",
+        "type": "buffSelf",
+        "modAttack": 2,
+        "modHealth": 2,
+        "condition": {
+          "type": "creatureDied"
+        }
+      }
+    ]
   },
   {
     "id": "fighters-guild-recruit",
@@ -5154,12 +5412,16 @@
     "rarity": "3Epic",
     "text": "Summon : Shackle all enemy creatures in this lane .",
     "keywords": [],
-    "mechanics": [
-      "Summon"
-    ],
+    "mechanics": [],
     "set": "Core Set",
     "deckCodeId": "hd",
-    "target": "creatureEnemyThisLaneAll"
+    "effects": [
+      {
+        "trigger": "Summon",
+        "type": "shackle",
+        "target": "creatureEnemyThisLaneAll"
+      }
+    ]
   },
   {
     "id": "goblin-skulk",
@@ -5389,10 +5651,16 @@
       "When"
     ],
     "set": "Core Set",
-    "target": "creature",
     "deckCodeId": "jA",
-    "modAttack": 1,
-    "modHealth": 1
+    "effects": [
+      {
+        "trigger": "Play",
+        "type": "buffTarget",
+        "target": "creature",
+        "modAttack": 1,
+        "modHealth": 1
+      }
+    ]    
   },
   {
     "id": "malefic-wreath",
@@ -5410,10 +5678,16 @@
     "keywords": [],
     "mechanics": [],
     "set": "Core Set",
-    "target": "creature",
     "deckCodeId": "ke",
-    "modAttack": -2,
-    "modHealth": -2
+    "effects": [
+      {
+        "trigger": "Play",
+        "type": "buffTarget",
+        "target": "creature",
+        "modAttack": -2,
+        "modHealth": -2
+      }
+    ]
   },
   {
     "id": "moonlight-werebat",
@@ -5599,7 +5873,7 @@
         "target": "creatureFriendlyAll",
         "condition": {
           "type": "hasSubtype",
-          "subtype": "Goblin"
+          "subtypes": [ "Goblin" ]
         },
         "excludeSelf": true
       }
@@ -5672,8 +5946,16 @@
     "keywords": [],
     "mechanics": [],
     "set": "Core Set",
-    "target": "lane",
-    "deckCodeId": "ls"
+    "deckCodeId": "ls",
+    "effects": [
+      {
+        "trigger": "Play",
+        "type": "summon",
+        "cardId": "territorial-viper",
+        "target": "lane",
+        "amount": 4
+      }
+    ]
   },
   {
     "id": "nimble-ally",
@@ -5812,8 +6094,20 @@
     "keywords": [],
     "mechanics": [],
     "set": "Core Set",
-    "target": "creatureFriendly",
-    "deckCodeId": "nM"
+    "deckCodeId": "nM",
+    "effects": [
+      {
+        "trigger": "Play",
+        "type": "Move",
+        "target": "creatureFriendly"
+      },
+      {
+        "trigger": "Play",
+        "type": "drawCards",
+        "amount": 1,
+        "target": "player"
+      }
+    ]
   },
   {
     "id": "skooma-racketeer",
@@ -5882,7 +6176,14 @@
     "keywords": [],
     "mechanics": [],
     "set": "Core Set",
-    "deckCodeId": "oK"
+    "deckCodeId": "oK",
+    "effects": [
+      {
+        "trigger": "StartOfTurn",
+        "type": "extraAttack",
+        "target": "self"
+      }
+    ]
   },
   {
     "id": "soulrest-marshal",
@@ -6117,7 +6418,8 @@
       {
         "trigger": "Summon",
         "type": "drawCards",
-        "amount": 1
+        "amount": 1,
+        "target": "player"
       },
       {
         "trigger": "Summon",
@@ -6126,7 +6428,8 @@
           "type": "drawnCardCost",
           "min": 7
         },
-        "amount": -1
+        "amount": -1,
+        "target": "drawnCard"
       }
     ]
   },
@@ -6275,7 +6578,7 @@
     "effects": [
       {
         "trigger": "Summon",
-        "type": "summonRandom",
+        "type": "summon",
         "subtypes": [
           "Beast",
           "Fish",
@@ -6286,7 +6589,9 @@
           "Spider",
           "Skeever",
           "Wolf"
-        ]
+        ],
+        "target": "thisLane",
+        "amount": 1
       }
     ]
   },
@@ -6505,7 +6810,7 @@
     "deckCodeId": "cw",
     "effects": [
       {
-        "trigger": "summonCreature",
+        "trigger": "SummonCreature",
         "type": "buffTarget",
         "modAttack": 0,
         "modHealth": 2,
@@ -6737,13 +7042,19 @@
     "rarity": "1Common",
     "text": "+0/+3 Summon : Draw a card.",
     "keywords": [],
-    "mechanics": [
-      "Summon"
-    ],
+    "mechanics": [],
     "set": "Core Set",
     "deckCodeId": "fR",
     "modAttack": 0,
-    "modHealth": 3
+    "modHealth": 3,
+    "effects": [
+      {
+        "trigger": "Summon",
+        "type": "drawCards",
+        "amount": 1,
+        "target": "player"
+      }
+    ]
   },
   {
     "id": "fharun-defender",
@@ -6922,11 +7233,25 @@
     "keywords": [],
     "mechanics": [],
     "set": "Core Set",
-    "target": "creature",
     "deckCodeId": "hV",
     "damage": -99,
     "modAttack": 1,
-    "modHealth": 1
+    "modHealth": 1,
+    "effects": [
+      {
+        "trigger": "Play",
+        "type": "damage",
+        "amount": -99,
+        "target": "creature"
+      },
+      {
+        "trigger": "Play",
+        "type": "buffTarget",
+        "target": "creature",
+        "modAttack": 1,
+        "modHealth": 1
+      }
+    ]
   },
   {
     "id": "hist-speaker",
@@ -6951,7 +7276,8 @@
       {
         "trigger": "Aura",
         "type": "maxMagicka",
-        "amount": 1
+        "amount": 1,
+        "target": "player"
       }
     ]
   },
@@ -7215,9 +7541,16 @@
     "keywords": [],
     "mechanics": [],
     "set": "Core Set",
-    "target": "creature",
     "deckCodeId": "kZ",
-    "prophecy": true
+    "prophecy": true,
+    "effects": [
+      {
+        "trigger": "Play",
+        "type": "transform",
+        "target": "creature",
+        "cardId": "shriveled-mummy"
+      }
+    ]
   },
   {
     "id": "nahagliiv",
@@ -7545,9 +7878,7 @@
     "health": 3,
     "rarity": "1Common",
     "text": "Summon : +0/+2 and Guard if the top card of your deck is [P].",
-    "keywords": [
-      "Guard"
-    ],
+    "keywords": [],
     "mechanics": [],
     "set": "Core Set",
     "deckCodeId": "pi",
@@ -7585,7 +7916,11 @@
     ],
     "mechanics": [],
     "set": "Core Set",
-    "deckCodeId": "pk"
+    "deckCodeId": "pk",
+    "static": {
+      "amountPer": "creatureFriendlyOtherBreakthrough",
+      "modAttack": 2
+    }
   },
   {
     "id": "stonetooth-scrapper",
@@ -7705,7 +8040,8 @@
       {
         "trigger": "Summon",
         "type": "maxMagicka",
-        "amount": 1
+        "amount": 1,
+        "target": "player"
       }
     ]
   },
@@ -7827,13 +8163,20 @@
     "keywords": [
       "Guard"
     ],
-    "mechanics": [
-      "Summon"
-    ],
+    "mechanics": [],
     "set": "Core Set",
     "deckCodeId": "sk",
-    "modAttack": 1,
-    "modHealth": 1
+    "modAttack": 0,
+    "modHealth": 0,
+    "effects": [
+      {
+        "trigger": "Summon",
+        "type": "buffSelf",
+        "modAttack": 1,
+        "modHealth": 1,
+        "amountPer": "creatureEnemyThisLaneAll"
+      }
+    ]
   },
   {
     "id": "young-mammoth",
@@ -7872,15 +8215,21 @@
     "health": 5,
     "rarity": "2Rare",
     "text": "When Ageless Automaton attacks a Guard , it gains +3/+0 and Breakthrough this turn.",
-    "keywords": [
-      "Guard",
-      "Breakthrough"
-    ],
-    "mechanics": [
-      "When"
-    ],
+    "keywords": [],
+    "mechanics": [],
     "set": "Core Set",
-    "deckCodeId": "ai"
+    "deckCodeId": "ai",
+    "effects": [
+      {
+        "trigger": "Attack",
+        "condition": {
+          "type": "tgtHasKeyword",
+          "keyword": "Guard"
+        },
+        "tempAttack": 3,
+        "tempKeywords": [ "Breakthrough" ]      
+      }      
+    ]
   },
   {
     "id": "barded-guar",
@@ -8041,14 +8390,20 @@
     "rarity": "3Epic",
     "text": "Breakthrough When Dwarven Centurion takes damage, put a 0/3 Dwarven Spider with Guard into your hand.",
     "keywords": [
-      "Guard",
       "Breakthrough"
     ],
-    "mechanics": [
-      "When"
-    ],
+    "mechanics": [],
     "set": "Core Set",
-    "deckCodeId": "fo"
+    "deckCodeId": "fo",
+    "effects": [
+      {
+        "trigger": "DamageTaken",
+        "type": "addToHand",
+        "cardId": "dwarven-spider",
+        "amount": 1,
+        "target": "player"
+      }
+    ]
   },
   {
     "id": "dwarven-sphere",
@@ -8066,12 +8421,16 @@
     "rarity": "1Common",
     "text": "Summon : Shackle an enemy creature.",
     "keywords": [],
-    "mechanics": [
-      "Summon"
-    ],
+    "mechanics": [],
     "set": "Core Set",
     "deckCodeId": "fr",
-    "target": "creatureEnemy"
+    "effects": [
+      {
+        "trigger": "Summon",
+        "type": "shackle",
+        "target": "creatureEnemy"
+      }
+    ]
   },
   {
     "id": "dwarven-spider",
@@ -8402,14 +8761,18 @@
     "rarity": "1Common",
     "text": "Summon : You must deal 2 damage to a friendly creature.",
     "keywords": [],
-    "mechanics": [
-      "Summon"
-    ],
+    "mechanics": [],
     "set": "Core Set",
     "deckCodeId": "mI",
-    "target": "creatureFriendly",
-    "damage": 2,
-    "targetReq": true
+    "targetReq": true,
+    "effects": [
+      {
+        "trigger": "Summon",
+        "type": "damage",
+        "amount": 2,
+        "target": "creatureFriendly"
+      }
+    ]
   },
   {
     "id": "reachman-shaman",
@@ -8504,12 +8867,18 @@
     "rarity": "1Common",
     "text": "Prophecy Summon : Draw a card.",
     "keywords": [],
-    "mechanics": [
-      "Summon"
-    ],
+    "mechanics": [],
     "set": "Core Set",
     "deckCodeId": "oZ",
-    "prophecy": true
+    "prophecy": true,
+    "effects": [
+      {
+        "trigger": "Summon",
+        "type": "drawCards",
+        "amount": 1,
+        "target": "player"
+      }
+    ]
   },
   {
     "id": "stronghold-eradicator",
@@ -8526,15 +8895,18 @@
     "health": 6,
     "rarity": "3Epic",
     "text": "Summon : Give all enemy creatures in this lane Guard .",
-    "keywords": [
-      "Guard"
-    ],
-    "mechanics": [
-      "Summon"
-    ],
+    "keywords": [],
+    "mechanics": [],
     "set": "Core Set",
     "deckCodeId": "pG",
-    "target": "creatureEnemyThisLaneAll"
+    "effects": [
+      {
+        "trigger": "Summon",
+        "type": "buffTarget",
+        "addKeywords": [ "Guard" ],
+        "target": "creatureEnemyThisLaneAll"
+      }
+    ]
   },
   {
     "id": "stronghold-incubator",
@@ -8554,11 +8926,18 @@
     "keywords": [
       "LastGasp"
     ],
-    "mechanics": [
-      "LastGasp"
-    ],
+    "mechanics": [],
     "set": "Core Set",
-    "deckCodeId": "pH"
+    "deckCodeId": "pH",
+    "effects": [
+      {
+        "trigger": "LastGasp",
+        "type": "addToHand",
+        "amount": 2,
+        "target": "player",
+        "subtypes": [ "Dwemer" ]
+      }
+    ]
   },
   {
     "id": "vicious-dreugh",
@@ -8953,7 +9332,8 @@
       {
         "trigger": "Summon",
         "type": "maxMagicka",
-        "amount": 1
+        "amount": 1,
+        "target": "player"
       },
       {
         "trigger": "MaxMagickaIncreased",
@@ -9239,12 +9619,16 @@
     "rarity": "1Common",
     "text": "Summon : Shackle a random enemy creature.",
     "keywords": [],
-    "mechanics": [
-      "Summon"
-    ],
+    "mechanics": [],
     "set": "Core Set",
     "deckCodeId": null,
-    "target": "creatureEnemyRandom"
+    "effects": [
+      {
+        "trigger": "Summon",
+        "type": "shackle",
+        "target": "creatureEnemyRandom"
+      }
+    ]
   },
   {
     "id": "chicken",
@@ -10018,7 +10402,8 @@
       {
         "trigger": "Activation",
         "type": "magicka",
-        "amount": 1
+        "amount": 1,
+        "target": "player"
       }
     ]
   }
