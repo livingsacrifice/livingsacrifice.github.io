@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1770684323644,
+  "timestamp": 1770780039008,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.96f2e63c72f4e35f.js",
+        "/main.a64be14b95f55ecb.js",
         "/manifest.webmanifest",
         "/polyfills.1bfe84656be2a69e.js",
         "/runtime.964c9c5c6ed39d83.js",
@@ -3230,7 +3230,7 @@
     "/assets/tesl/audio/core_set/LG-audio-wrothgar_kingpin_attack_02.ogg": "8a04b795722adf68bb1613af9309808f73a0e03a",
     "/assets/tesl/audio/core_set/LG-audio-wrothgar_kingpin_enter_play_01.ogg": "4a17c4b3f1b4a2e240d2944899a77162909a1de0",
     "/assets/tesl/audio/core_set/LG-audio-wrothgar_kingpin_enter_play_02.ogg": "ee1292b99f0421627304d5f16bb5165690914680",
-    "/assets/tesl/core_set.json": "a43b9712921b152a835bf3a0c28ee1cdaed7a0f6",
+    "/assets/tesl/core_set.json": "a21d3167fd2cc16f2d731619a9fcf961dd583b25",
     "/assets/tesl/hue.py": "590c139db03b791a0bcff274d947f4a39bcd432d",
     "/assets/tesl/images/avatars/LG-arena-Argonian_1.png": "497f2e1b19e7ab10dd3cedc586a36f84e98eceb5",
     "/assets/tesl/images/avatars/LG-arena-Argonian_2.png": "cbb0050f87c7a8161b78a6b1a618036d25b2a5e2",
@@ -4157,7 +4157,7 @@
     "/assets/tesl/images/icons/LG-icon-Isle_of_Madness.png": "b1ccd3d9c352ab466f1a289daca4529717db328a",
     "/assets/tesl/images/icons/LG-icon-Jaws_of_Oblivion.png": "950e7d4e1d4725bd82c852d6c4274d72801602a0",
     "/assets/tesl/images/icons/LG-icon-LastGasp.png": "27763be843d32b476debf9f953a51ce72e51741b",
-    "/assets/tesl/images/icons/LG-icon-Lethal.png": "a9af24e0876d705ec4ac79ac8bf42ae217c55487",
+    "/assets/tesl/images/icons/LG-icon-Lethal.png": "c35a825f2ce3763406f431c5f77796e5978e6153",
     "/assets/tesl/images/icons/LG-icon-Magicka.png": "52aae668f6c60a8755bd25808e468cf54b280b31",
     "/assets/tesl/images/icons/LG-icon-Moons_of_Elsweyr.png": "3a4f08f4b21f1a84183e94a6e22a8d032b0589cd",
     "/assets/tesl/images/icons/LG-icon-Neutral.png": "8a1991a9592bf69ca2745399a0f67a92f28cff2e",
@@ -4199,8 +4199,8 @@
     "/fa-v4compatibility.6209cf0172d95b0e.woff2": "8f80d0bbe995f7fe92320fdaec10cd5ccd710a51",
     "/fa-v4compatibility.92dce52f885fd838.ttf": "a9d072aca9e0fadc2a7167671ce3d6b18d9cd2cc",
     "/favicon.ico": "e8bade23b659c24ea3c536ed70d90c5e42b71097",
-    "/index.html": "b6dd69a7d74326751df7499369dadd01364e578b",
-    "/main.96f2e63c72f4e35f.js": "a55aacc3be672706ddb732d5f09d94134cc73abc",
+    "/index.html": "39cadf76c12162b659ef54f4ec26c5128a4eae7e",
+    "/main.a64be14b95f55ecb.js": "2570776ef9b72420b23a9ab02ba78cc9ecc1c07e",
     "/manifest.webmanifest": "1a614471890616f5cae86be08e1a37b1305b2e99",
     "/polyfills.1bfe84656be2a69e.js": "2be7e2e4b097919d8beb72a6414b38a8792be183",
     "/runtime.964c9c5c6ed39d83.js": "50f6349e061de277e06e3fbd7f131487eb5ef403",
