@@ -1714,7 +1714,7 @@
         "modHealth": 0,
         "addKeywords": ["Guard"],
         "target": "creatureFriendlyOtherAll",
-        "condition": {
+        "targetCondition": {
           "type": "hasAttribute",
           "attribute": "B"
         }
@@ -2254,6 +2254,7 @@
         "trigger": "LastGasp",
         "type": "shuffleIntoDeck",
         "cardId": "elusive-schemer",
+        "target": "player",
         "amount": 1,
         "modCost": -4
       }
@@ -2969,8 +2970,8 @@
         "trigger": "Aura",
         "target": "playerHand",
         "modCost": -1,
-        "condition": {
-          "type": "hasSubtype",
+        "targetCondition": {
+          "type": "hasType",
           "subtypes": [ "Item" ]
         }
       }
@@ -3335,7 +3336,7 @@
         "modAttack": 2,
         "modHealth": 0,
         "target": "creatureFriendlyOtherAll",
-        "condition": {
+        "targetCondition": {
           "type": "hasSubtype",
           "subtypes": [ "Wolf" ]
         }
@@ -5366,10 +5367,7 @@
       {
         "trigger": "Play",
         "type": "destroy",
-        "target": "creatureEnemy",
-        "condition": {
-          "type": "wounded"
-        }
+        "target": "creatureEnemyWounded"
       }
     ]
   },
@@ -5627,11 +5625,16 @@
     "rarity": "3Epic",
     "text": "Summon : Destroy a Wounded creature.",
     "keywords": [],
-    "mechanics": [
-      "Summon"
-    ],
+    "mechanics": [],
     "set": "Core Set",
-    "deckCodeId": "jy"
+    "deckCodeId": "jy",
+    "effects": [
+      {
+        "trigger": "Summon",
+        "type": "destroy",
+        "target": "creatureWounded"
+      }
+    ]
   },
   {
     "id": "leafwater-blessing",
@@ -5871,7 +5874,7 @@
         "modAttack": 2,
         "modHealth": 2,
         "target": "creatureFriendlyAll",
-        "condition": {
+        "targetCondition": {
           "type": "hasSubtype",
           "subtypes": [ "Goblin" ]
         },
@@ -8071,7 +8074,7 @@
         "modAttack": 1,
         "modHealth": 2,
         "target": "creatureFriendlyAll",
-        "condition": {
+        "targetCondition": {
           "type": "hasKeyword",
           "keyword": "Guard"
         }
@@ -8222,6 +8225,7 @@
     "effects": [
       {
         "trigger": "Attack",
+        "type": "buffSelf",
         "condition": {
           "type": "tgtHasKeyword",
           "keyword": "Guard"
