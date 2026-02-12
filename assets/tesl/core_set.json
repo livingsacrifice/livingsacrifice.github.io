@@ -279,7 +279,7 @@
       {
         "trigger": "Summon",
         "type": "silence",
-        "target": "creatureOther"
+        "target": "creature"
       }
     ]
   },
@@ -479,13 +479,13 @@
       {
         "trigger": "Summon",
         "type": "silence",
-        "target": "creatureOther"
+        "target": "creature"
       },
       {
         "trigger": "Summon",
         "type": "damage",
         "amount": 1,
-        "target": "creatureOther"
+        "target": "creature"
       }
     ]
   },
@@ -1659,7 +1659,7 @@
         "trigger": "Summon",
         "type": "damage",
         "amount": 2,
-        "target": "creatureOther"
+        "target": "creature"
       }
     ]
   },
@@ -4863,7 +4863,8 @@
         "type": "destroy",
         "condition": {
           "type": "noDamageTaken"
-        }
+        },
+        "target": "self"
       },
       {
         "trigger": "StartOfTurn",
@@ -4871,7 +4872,7 @@
         "condition": {
           "type": "noDamageTaken"
         },
-        "cardId": "priest-of-the-moon",
+        "cardId": "priest-of-the-moons",
         "target": "leftLane"
       },
       {
@@ -4880,7 +4881,7 @@
         "condition": {
           "type": "noDamageTaken"
         },
-        "cardId": "priest-of-the-moon",
+        "cardId": "priest-of-the-moons",
         "target": "rightLane"
       }
     ]
@@ -6858,13 +6859,12 @@
     "mechanics": [],
     "set": "Core Set",
     "deckCodeId": "dR",
-    "target": "creatureOther",
     "prophecy": true,
     "effects": [
       {
         "trigger": "Summon",
         "type": "silence",
-        "target": "creatureOther"
+        "target": "creature"
       }
     ]
   },
@@ -7830,7 +7830,7 @@
         "options": [
           {
             "text": "Silence another creature",
-            "target": "creatureOther",
+            "target": "creature",
             "effect": {
               "type": "silence"
             }
@@ -8254,7 +8254,7 @@
     "mechanics": [],
     "set": "Core Set",
     "deckCodeId": "bA",
-    "effect": [
+    "effects": [
       {
         "trigger": "Summon",
         "type": "buffTarget",
