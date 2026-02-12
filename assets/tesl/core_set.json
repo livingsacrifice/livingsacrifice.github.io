@@ -351,10 +351,8 @@
     "health": 7,
     "rarity": "3Epic",
     "text": "Slay : May attack again this turn.",
-    "keywords": [],
-    "mechanics": [
-      "Slay"
-    ],
+    "keywords": ["Slay"],
+    "mechanics": [],
     "set": "Core Set",
     "deckCodeId": "db",
     "effects": [
@@ -1007,7 +1005,14 @@
       {
         "trigger": "Play",
         "type": "addToHand",
-        "amount": 2,
+        "amount": 1,
+        "subtypes": [ "Item" ],
+        "target": "player"
+      },
+      {
+        "trigger": "Play",
+        "type": "addToHand",
+        "amount": 1,
         "subtypes": [ "Item" ],
         "target": "player"
       }
@@ -2464,7 +2469,7 @@
       {
         "trigger": "Summon",
         "type": "addToHand",
-        "subypes": ["Atronach"],
+        "subtypes": ["Atronach"],
         "amount": 1,
         "target": "player"
       }
@@ -2722,7 +2727,7 @@
     "effects": [
       {
         "trigger": "Summon",
-        "type": "EquipDiscard",
+        "type": "equipDiscard",
         "amount": 2,
         "target": "self"
       }
@@ -2968,8 +2973,9 @@
     "effects": [
       {
         "trigger": "Aura",
+        "type": "modCost",
         "target": "playerHand",
-        "modCost": -1,
+        "amount": -1,
         "targetCondition": {
           "type": "hasType",
           "subtypes": [ "Item" ]
@@ -6012,9 +6018,7 @@
     "keywords": [
       "Slay"
     ],
-    "mechanics": [
-      "Slay"
-    ],
+    "mechanics": [],
     "set": "Core Set",
     "deckCodeId": "lU"
   },
@@ -6664,9 +6668,7 @@
       "Lethal",
       "Slay"
     ],
-    "mechanics": [
-      "Slay"
-    ],
+    "mechanics": [],
     "set": "Core Set",
     "deckCodeId": "aM"
   },
@@ -6765,9 +6767,7 @@
     "keywords": [
       "Slay"
     ],
-    "mechanics": [
-      "Slay"
-    ],
+    "mechanics": [],
     "set": "Core Set",
     "deckCodeId": "cd"
   },
@@ -7099,11 +7099,18 @@
     "rarity": "3Epic",
     "text": "Summon : +1/+1 for each creature in your discard pile.",
     "keywords": [],
-    "mechanics": [
-      "Summon"
-    ],
+    "mechanics": [],
     "set": "Core Set",
-    "deckCodeId": "gB"
+    "deckCodeId": "gB",
+    "effects": [
+      {
+        "trigger": "Summon",
+        "type": "buffSelf",
+        "modAttack": 1,
+        "modHealth": 1,
+        "amountPer": "creaturePlayerDiscardAll"
+      }
+    ]
   },
   {
     "id": "frostbite-spider",
@@ -8937,7 +8944,14 @@
       {
         "trigger": "LastGasp",
         "type": "addToHand",
-        "amount": 2,
+        "amount": 1,
+        "target": "player",
+        "subtypes": [ "Dwemer" ]
+      },
+      {
+        "trigger": "LastGasp",
+        "type": "addToHand",
+        "amount": 1,
         "target": "player",
         "subtypes": [ "Dwemer" ]
       }
