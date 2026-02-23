@@ -434,13 +434,7 @@
     "effects": [
       {
         "trigger": "Summon",
-        "type": "doubleAttack",
-        "target": "creature"
-      },
-
-      {
-        "trigger": "Summon",
-        "type": "doubleHealth",
+        "type": "doubleStats",
         "target": "creature"
       }
     ]
