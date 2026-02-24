@@ -162,21 +162,25 @@
       {
         "trigger": "Summon",
         "type": "choice",
-        "options": ["Unsummon a creature in this lane",
-        "Destroy an enemy support"]
-      },
-      {
-        "trigger": "ChoiceA",
-        "type": "unsummon",
-        "target": "creatureThisLane"
-      },
-      {
-        "trigger": "ChoiceB",
-        "type": "destroy",
-        "target": "supportEnemy"
+        "target": "player",
+        "choices": [
+          {
+            "text": "Unsummon a creature in this lane", 
+            "effect": {
+              "type": "unsummon",
+              "target": "creatureThisLane"
+            }
+          },
+          {
+            "text": "Destroy an enemy support",
+            "effect": {
+              "type": "destroy",
+              "target": "supportEnemy"
+            }
+          }
+        ]
       }
     ]
-
   },
   {
     "id": "blighted-alit",
@@ -4058,7 +4062,7 @@
         "trigger": "Slay",
         "type": "banish",
         "target": "slain",
-        "condition": {
+        "targetCondition": {
           "type": "hasSubtype",
           "subtypes": [ "Mummy", "Skeleton", "Spirit", "Vampire" ]
         }
@@ -5579,7 +5583,7 @@
       {
         "trigger": "Summon",
         "type": "summon",
-        "cardId": "wodd-elf-scout",
+        "cardId": "wood-elf-scout",
         "target": "leftLane",
         "condition": {
           "type": "woundedThisLane"
@@ -5588,7 +5592,7 @@
       {
         "trigger": "Summon",
         "type": "summon",
-        "cardId": "wodd-elf-scout",
+        "cardId": "wood-elf-scout",
         "target": "rightLane",
         "condition": {
           "type": "woundedThisLane"
@@ -6389,7 +6393,7 @@
     "deckCodeId": "lb",
     "effects": [
       {
-        "trigger": "StartOfTurn",
+        "trigger": "AddToHand",
         "type": "modCost",
         "amount": -2,
         "target": "self",
@@ -8715,18 +8719,23 @@
       {
         "trigger": "Summon",
         "type": "choice",
-        "options": ["Silence another creature",
-        "Destroy an enemy support"]
-      },
-      {
-        "trigger": "ChoiceA",
-        "type": "silence",
-        "target": "creature"
-      },
-      {
-        "trigger": "ChoiceB",
-        "type": "destroy",
-        "target": "supportEnemy"
+        "target": "player",
+        "choices": [
+          {
+            "text": "Silence another creature",
+            "effect": {
+              "type": "silence",
+              "target": "creature"
+            }
+          },
+          {
+            "text": "Destroy an enemy support",
+            "effect" : {
+              "type": "destroy",
+              "target": "supportEnemy"
+            }
+          }
+        ]
       }
     ]
   },
@@ -10284,20 +10293,26 @@
       {
         "trigger": "Summon",
         "type": "choice",
-        "options": ["Deal 2 damage to an enemy creature","give a friendly creature +2/+2"]
-      },
-      {
-        "trigger": "choiceA",
-        "type": "damage",
-        "amount": 2,
-        "target": "creatureEnemy"
-      },
-      {
-        "trigger": "choiceB",
-        "type": "buffTarget",
-        "modAttack": 2,
-        "modHealth": 2,
-        "target": "creatureFriendly"
+        "target": "player",
+        "choices": [
+          {
+            "text": "Deal 2 damage to an enemy creature",
+            "effect": {
+              "type": "damage",
+              "amount": 2,
+              "target": "creatureEnemy"
+            }
+          },
+          {
+            "text": "give a friendly creature +2/+2",
+            "effect": {
+              "type": "buffTarget",
+              "modAttack": 2,
+              "modHealth": 2,
+              "target": "creatureFriendly"
+            }
+          }
+        ]
       }
     ]
   },
