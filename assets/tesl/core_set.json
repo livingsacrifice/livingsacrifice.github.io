@@ -3065,7 +3065,7 @@
         "trigger": "Play",
         "type": "revealAndChoose",
         "amount": 3,
-        "source": "deck"
+        "target": "player"
       }
     ]
   },
