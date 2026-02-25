@@ -2429,9 +2429,7 @@
     "health": null,
     "rarity": "2Rare",
     "text": "Uses: 3 Activate : Give a creature a Ward .",
-    "keywords": [
-      "Ward"
-    ],
+    "keywords": [],
     "mechanics": [],
     "set": "Core Set",
     "uses": 3,
@@ -2441,7 +2439,7 @@
       {
         "trigger": "Activation",
         "type": "buffTarget",
-        "addKeywords": [ "Guard" ],
+        "addKeywords": [ "Ward" ],
         "target": "creature"
       }
     ]
