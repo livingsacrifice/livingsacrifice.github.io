@@ -7147,6 +7147,12 @@
         "modAttack": 1,
         "modHealth": 1,
         "target": "thief"
+      },
+      {
+        "trigger": "Aura",
+        "type": "buffTarget",
+        "addKeywords": [ "Pilfer" ],
+        "target": "creatureFriendlyAll"
       }
     ]
   },
