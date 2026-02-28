@@ -3097,7 +3097,7 @@
       {
         "trigger": "Summon",
         "type": "modCost",
-        "amount": -10,
+        "amount": -20,
         "target": "drawnCard"
       }
     ]
