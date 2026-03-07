@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ragnaros-the-firelord",
+    "name": "Ragnaros, the Firelord",
+    "type": "Creature",
+    "subtypes": [
+      "Atronach"
+    ],
+    "attributes": [
+      "R"
+    ],
+    "cost": 8,
+    "attack": 8,
+    "health": 8,
+    "rarity": "4Legendary",
+    "text": "Can't attack. End of Turn: Deal 8 damage to a random enemy.",
+    "keywords": [],
+    "set": "Custom Set",
+    "deckCodeId": null,
+    "unique": true,
+    "effects": [
+      {
+        "trigger": "Summon",
+        "type": "freeze",
+        "target": "self"
+      },
+      {
+        "trigger": "EndOfTurn",
+        "type": "damage",
+        "amount": 8,
+        "target": "enemyRandom"
+      }
+    ]
+  }
+]
