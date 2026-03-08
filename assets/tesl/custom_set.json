@@ -16,7 +16,7 @@
     "text": "Can't attack. End of Turn: Deal 8 damage to a random enemy.",
     "keywords": [],
     "set": "Custom Set",
-    "deckCodeId": null,
+    "deckCodeId": "Xa",
     "unique": true,
     "effects": [
       {
@@ -45,7 +45,7 @@
     "text": "Summon: Give your other minions +2/+2 or summon two 2/2 Treants with Guard.",
     "keywords": [],
     "set": "Custom Set",
-    "deckCodeId": null,
+    "deckCodeId": "Xb",
     "unique": true,
     "effects": [
       {
@@ -107,7 +107,7 @@
     "text": "Whenever you play an action, add a Fireball to your hand.",
     "keywords": [],
     "set": "Custom Set",
-    "deckCodeId": null,
+    "deckCodeId": "Xe",
     "unique": true,
     "effects": [
       {
@@ -140,7 +140,7 @@
     "text": "Last Gasp: Steal a random enemy creature.",
     "keywords": [ "LastGasp" ],
     "set": "Custom Set",
-    "deckCodeId": null,
+    "deckCodeId": "Xc",
     "unique": true,
     "effects": [
       {
@@ -167,7 +167,7 @@
     "text": "Summon: Gain +2/+2 for each other card you've played this turn.",
     "keywords": [],
     "set": "Custom Set",
-    "deckCodeId": null,
+    "deckCodeId": "Xd",
     "unique": true,
     "effects": [
       {
