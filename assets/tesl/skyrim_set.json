@@ -189,7 +189,7 @@
         "amount": 1,
         "target": "player",
         "condition": {
-          "type": "summonType",
+          "type": "hasSubtype",
           "subtypes": [ "Dragon" ]
         }
       }
@@ -479,6 +479,7 @@
         "trigger": "EndOfTurn",
         "type": "damage",
         "amount": 2,
+        "target": "opponent",
         "condition": {
           "type": "creatureDied",
           "min": 1
@@ -834,7 +835,7 @@
       {
         "trigger": "Aura",
         "type": "buffTarget",
-        "keywordsToAdd": [ "Breakthrough" ],
+        "addKeywords": [ "Breakthrough" ],
         "target": "player"
       }
     ]
@@ -859,7 +860,7 @@
       {
         "trigger": "DrawCard",
         "type": "grantRandomKeyword",
-        "target": "cardDrawn",
+        "target": "drawnCard",
         "condition": {
           "type": "hasSubtype",
           "subtypes": [ "Item" ]
@@ -974,7 +975,7 @@
     "attack": 3,
     "health": 5,
     "rarity": "1Common",
-    "text": "Summon : Draw a card if you have two other [Y] creatures.",
+    "text": "Summon : Draw a card if you have two other [B] creatures.",
     "keywords": [],
     "set": "Heroes of Skyrim",
     "deckCodeId": "dC",
@@ -987,7 +988,7 @@
         "condition": {
           "type": "numCreatures",
           "min": 3,
-          "attribute": "Y"
+          "attribute": "B"
         }
       }
     ]
@@ -1100,7 +1101,7 @@
       {
         "trigger": "DrawCard",
         "type": "grantRandomKeyword",
-        "target": "cardDrawn",
+        "target": "drawnCard",
         "condition": {
           "type": "hasSubtype",
           "subtypes": [ "Creature" ]
@@ -2014,6 +2015,7 @@
         "trigger": "Aura",
         "type": "buffTarget",
         "modAttack": 1,
+        "target": "creatureFriendlyAll",
         "targetCondition": {
           "type": "hasKeyword",
           "keyword": "Guard"
@@ -2188,7 +2190,7 @@
     "attack": 2,
     "health": 1,
     "rarity": "1Common",
-    "text": "Summon : Draw a card if you have two other creatures.",
+    "text": "Summon : Draw a card if you have two other [Y] creatures.",
     "keywords": [],
     "set": "Heroes of Skyrim",
     "deckCodeId": "mo",
@@ -2200,7 +2202,8 @@
         "target": "player",
         "condition": {
           "type": "numCreatures",
-          "min": 3
+          "min": 3,
+          "attribute": "Y"
         }
       }
     ]
@@ -2457,7 +2460,7 @@
     "health": 5,
     "rarity": "4Legendary",
     "text": "Drain When a friendly creature Pilfers or Drains, gain 1 magicka this turn.",
-    "keywords": [],
+    "keywords": [ "Drain" ],
     "set": "Heroes of Skyrim",
     "deckCodeId": "cz",
     "unique": true,
@@ -3118,7 +3121,7 @@
     "attack": 4,
     "health": 3,
     "rarity": "1Common",
-    "text": "Summon : Draw a card if you have two other creatures.",
+    "text": "Summon : Draw a card if you have two other [G] creatures.",
     "keywords": [],
     "set": "Heroes of Skyrim",
     "deckCodeId": "oi",
@@ -3130,7 +3133,8 @@
         "target": "player",
         "condition": {
           "type": "numCreatures",
-          "min": 3
+          "min": 3,
+          "attribute": "G"
         }
       }
     ]
@@ -3198,7 +3202,7 @@
         "trigger": "DrawCard",
         "type": "modCost",
         "amount": -1,
-        "target": "cardDrawn"
+        "target": "drawnCard"
       }
     ]
   },
@@ -3558,7 +3562,7 @@
         "trigger": "DamageTaken",
         "type": "buffSelf",
         "modAttack": 1,
-        "amountPer": "damageTaken"
+        "amountPer": "damageJustTaken"
       }
     ]
   },
@@ -3806,7 +3810,8 @@
     "effects": [
       {
         "trigger": "Play",
-        "type": "drawCreatureDiscard",
+        "type": "drawDiscard",
+        "subtypes": [ "Creature" ],
         "amount": 1,
         "target": "player"
       },
@@ -3837,7 +3842,8 @@
     "effects": [
       {
         "trigger": "Play",
-        "type": "drawCreatureDiscard",
+        "type": "drawDiscard",
+        "subtypes": [ "Creature" ],
         "amount": 1,
         "target": "player"
       },
@@ -3846,7 +3852,7 @@
         "type": "buffTarget",
         "modAttack": 2,
         "modHealth": 2,
-        "target": "lastDrawn"
+        "target": "drawnCard"
       },
       {
         "trigger": "Play",
@@ -3875,7 +3881,8 @@
     "effects": [
       {
         "trigger": "Play",
-        "type": "drawCreatureDiscard",
+        "type": "drawDiscard",
+        "subtypes": [ "Creature" ],
         "amount": 1,
         "target": "player"
       },
@@ -3884,7 +3891,7 @@
         "type": "buffTarget",
         "modAttack": 5,
         "modHealth": 5,
-        "target": "lastDrawn"
+        "target": "drawnCard"
       }
     ]
   },
@@ -3961,7 +3968,7 @@
     "attack": 5,
     "health": 7,
     "rarity": "1Common",
-    "text": "Summon : Draw a card if you have two other creatures.",
+    "text": "Summon : Draw a card if you have two other [P] creatures.",
     "keywords": [],
     "set": "Heroes of Skyrim",
     "deckCodeId": "px",
@@ -3973,7 +3980,8 @@
         "target": "player",
         "condition": {
           "type": "numCreatures",
-          "min": 3
+          "min": 3,
+          "attribute": "P"
         }
       }
     ]
@@ -4004,6 +4012,7 @@
             "text": "Transform all enemy creatures in a lane into 2/2 Stricken Draugrs",
             "effect": {
               "type": "transform",
+              "cardId": "stricken-draugr",
               "target": "creatureEnemyThisLaneAll"
             }
           },
@@ -4011,6 +4020,7 @@
             "text": "Transform all friendly creatures in a lane into 5/5 Hulking Draugrs",
             "effect" : {
               "type": "transform",
+              "cardId": "hulking-draugr",
               "target": "creatureFriendlyThisLaneAll"
             }
           }
@@ -4252,7 +4262,7 @@
     "attack": 2,
     "health": 1,
     "rarity": "2Rare",
-    "text": "Summon : Give another creature +3/+3 and Guard .",
+    "text": "Summon : Give another [N] creature +3/+3 and Guard .",
     "keywords": [],
     "set": "Heroes of Skyrim",
     "deckCodeId": "fq",
@@ -4263,7 +4273,11 @@
         "modAttack": 3,
         "modHealth": 3,
         "addKeywords": [ "Guard" ],
-        "target": "creatureOther"
+        "target": "creatureOther",
+        "targetCondition": {
+          "type": "hasAttribute",
+          "attribute": "N"
+        }    
       }
     ]
   },
@@ -4899,7 +4913,11 @@
         "choices": [
           {
             "text": "Keep the card",
-            "effect": {}
+            "effect": {
+              "type": "drawCards",
+              "amount": 1,
+              "target": "player"
+            }
           },
           {
             "text": "Discard the card",
@@ -5206,6 +5224,81 @@
             }
           }
         ]
+      }
+    ]
+  },
+  {
+    "id": "enlightenment",
+    "name": "Enlightenment",
+    "type": "Action",
+    "subtypes": [],
+    "attributes": [
+      "B"
+    ],
+    "cost": 4,
+    "attack": null,
+    "health": null,
+    "rarity": "4Legendary",
+    "text": "Give each friendly creature two random Keywords.",
+    "keywords": [],
+    "set": "Heroes of Skyrim",
+    "deckCodeId": null,
+    "effects": [
+      {
+        "trigger": "Play",
+        "type": "grantRandomKeyword",
+        "amount": 2,
+        "target": "creatureFriendlyAll"
+      }
+    ]
+  },
+  {
+    "id": "flame-cloak",
+    "name": "Flame Cloak",
+    "type": "Action",
+    "subtypes": [],
+    "attributes": [
+      "B"
+    ],
+    "cost": 4,
+    "attack": null,
+    "health": null,
+    "rarity": "4Legendary",
+    "text": "Deal 5 damage to each player.",
+    "keywords": [],
+    "set": "Heroes of Skyrim",
+    "deckCodeId": null,
+    "effects": [
+      {
+        "trigger": "Play",
+        "type": "damage",
+        "amount": 5,
+        "target": "players"
+      }
+    ]
+  },
+  {
+    "id": "flame-blast",
+    "name": "Flame Blast",
+    "type": "Action",
+    "subtypes": [],
+    "attributes": [
+      "B"
+    ],
+    "cost": 4,
+    "attack": null,
+    "health": null,
+    "rarity": "4Legendary",
+    "text": "Deal 2 damage to each enemy creature.",
+    "keywords": [],
+    "set": "Heroes of Skyrim",
+    "deckCodeId": null,
+    "effects": [
+      {
+        "trigger": "Play",
+        "type": "damage",
+        "amount": 2,
+        "target": "creatureEnemyAll"
       }
     ]
   },
