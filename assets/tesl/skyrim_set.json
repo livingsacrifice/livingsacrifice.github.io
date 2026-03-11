@@ -1502,7 +1502,11 @@
         "choices": [
           {
             "text": "Keep the card",
-            "effect": {}
+            "effect": {
+              "type": "drawCards",
+              "amount": 1,
+              "target": "player"
+            }
           },
           {
             "text": "Discard the card",
