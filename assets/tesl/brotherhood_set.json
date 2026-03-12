@@ -136,7 +136,7 @@
         "target": "rightLane"
       },
       {
-        "trigger": "Summon",
+        "trigger": "Play",
         "type": "shuffleIntoDeck",
         "cardId": "skeever-infestation",
         "target": "player",
@@ -193,7 +193,7 @@
       {
         "trigger": "Play",
         "type": "powerToLane",
-        "target": "friendlyCreature"
+        "target": "creatureFriendly"
       }
     ]
   },
@@ -1059,6 +1059,7 @@
     "keywords": [],
     "mechanics": [],
     "set": "Dark Brotherhood",
+    "uses": 2,
     "deckCodeId": "gC",
     "effects": [
       {
@@ -1185,6 +1186,7 @@
     "text": "Uses: Unlimited Activate : Summon a 0/1 Target with Guard for your opponent. When 20 enemy creatures have died, deal 20 damage to your opponent, gain 20 health, and draw up to 10 cards.",
     "keywords": [],
     "set": "Dark Brotherhood",
+    "uses": 99,
     "deckCodeId": "qq",
     "unique": true,
     "effects": [
