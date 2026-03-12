@@ -2815,10 +2815,14 @@
     "deckCodeId": "jJ",
     "effects": [
       {
-        "trigger": "PlayAction",
+        "trigger": "PlayCard",
         "type": "damage",
         "amount": 1,
-        "target": "opponent"
+        "target": "opponent",
+        "condition": {
+          "type": "hasSubtype",
+          "subtypes": [ "Action" ]
+        }
       }
     ]
   },
@@ -3617,11 +3621,15 @@
     "deckCodeId": "aS",
     "effects": [
       {
-        "trigger": "PlayAction",
+        "trigger": "PlayCard",
         "type": "buffTarget",
         "target": "creatureFriendlyRandom",
         "modAttack": 1,
-        "modHealth": 1
+        "modHealth": 1,
+        "condition": {
+          "type": "hasSubtype",
+          "subtypes": [ "Action" ]
+        }
       }
     ]
   },
@@ -3645,9 +3653,13 @@
     "deckCodeId": "bm",
     "effects": [
       {
-        "trigger": "PlayAction",
+        "trigger": "PlayCard",
         "type": "buffSelf",
-        "tempKeywords": [ "Drain" ]
+        "tempKeywords": [ "Drain" ],
+        "condition": {
+          "type": "hasSubtype",
+          "subtypes": [ "Action" ]
+        }
       }
     ]
   },
