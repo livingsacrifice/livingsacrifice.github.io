@@ -51,7 +51,31 @@
         "trigger": "Play",
         "type": "addToHand",
         "cardId": "randomCost",
-        "amount": 4,
+        "amount": 1,
+        "cost": 0,
+        "target": "player"
+      },
+      {
+        "trigger": "Play",
+        "type": "addToHand",
+        "cardId": "randomCost",
+        "amount": 1,
+        "cost": 0,
+        "target": "player"
+      },
+      {
+        "trigger": "Play",
+        "type": "addToHand",
+        "cardId": "randomCost",
+        "amount": 1,
+        "cost": 0,
+        "target": "player"
+      },
+      {
+        "trigger": "Play",
+        "type": "addToHand",
+        "cardId": "randomCost",
+        "amount": 1,
         "cost": 0,
         "target": "player"
       }
@@ -665,7 +689,7 @@
         "target": "thisLane",
         "condition" : {
           "type": "hasInHand",
-          "atrribute": "N"
+          "attribute": "N"
         }
       }
     ]
