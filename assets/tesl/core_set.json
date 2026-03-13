@@ -2873,7 +2873,8 @@
         "subtypes": [ "Atronach" ],
         "target": "randomLane",
         "condition": {
-          "type": "playedTwoActions"
+          "type": "playedActions",
+          "min": 2
         }
       }
     ]
@@ -3087,7 +3088,8 @@
         "amount": 1,
         "target": "player",
         "condition": {
-          "type": "playedTwoActions"
+          "type": "playedActions",
+          "min": 2
         }
       }
     ]
