@@ -390,6 +390,9 @@ firebase/messaging
 
 firebase/remote-config
 
+gsap
+Standard 'no charge' license: https://gsap.com/standard-license.
+
 idb
 ISC
 ISC License (ISC)
