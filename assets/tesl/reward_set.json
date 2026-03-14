@@ -535,7 +535,7 @@
             "text": "Deal 1 damage",
             "effect": {
               "type": "damage",
-							"amount": 1,
+			  "amount": 1,
               "target": "any"
             }
           },
