@@ -6678,8 +6678,7 @@
       {
         "trigger": "StartOfTurn",
         "type": "summon",
-        "subtypes": [ "Spider" ],
-        "amount": 1,
+        "names": [ "cavern-spider", "poisonous-spider", "protective-spider"],
         "target": "randomLane"
       }
     ]
