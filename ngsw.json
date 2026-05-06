@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1775392685347,
+  "timestamp": 1778100341070,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.302106190ad1e503.js",
+        "/main.05a720735bfe5e18.js",
         "/manifest.webmanifest",
         "/polyfills.1bfe84656be2a69e.js",
         "/runtime.964c9c5c6ed39d83.js",
@@ -180,6 +180,7 @@
         "/assets/nonogram_hex_part3.txt",
         "/assets/nonogram_hex_part4.txt",
         "/assets/nonogram_solutions.txt",
+        "/assets/qwirkle/rules.pdf",
         "/assets/roms/MissileCommand.a26",
         "/assets/roms/Sandworm.bin",
         "/assets/roms/roms.json",
@@ -347,6 +348,7 @@
     "/assets/nonogram_hex_part3.txt": "5f3ecd7e2e817bb5a13d1650ae54baae8ee312d7",
     "/assets/nonogram_hex_part4.txt": "b441eb5e4d940578ec41ca86b00cabceca917cbf",
     "/assets/nonogram_solutions.txt": "839807dfc5db0c1d458dd8ff8833bc6d2f48f98a",
+    "/assets/qwirkle/rules.pdf": "5c31cb3a53c8c8168d1ba48f0811c0fe273cc98a",
     "/assets/roms/MissileCommand.a26": "faa06bb0643dbf556b13591c31917d277a83110b",
     "/assets/roms/Sandworm.bin": "0104ca0b58b7349a34184e538db6f29cfef8fd40",
     "/assets/roms/roms.json": "3d17e20457a9a20a9b0fc7f4cdf0779c07dcae44",
@@ -359,8 +361,8 @@
     "/fa-v4compatibility.6209cf0172d95b0e.woff2": "8f80d0bbe995f7fe92320fdaec10cd5ccd710a51",
     "/fa-v4compatibility.92dce52f885fd838.ttf": "a9d072aca9e0fadc2a7167671ce3d6b18d9cd2cc",
     "/favicon.ico": "e8bade23b659c24ea3c536ed70d90c5e42b71097",
-    "/index.html": "72c3e04c3b7e97e3778787d88f783b07486f4183",
-    "/main.302106190ad1e503.js": "e56e6c354241a18111edd4e4e440dd00dce848fa",
+    "/index.html": "1af32ca1955bb2c6840b3465fee91d05e0749c19",
+    "/main.05a720735bfe5e18.js": "510d5fafdde0ccd90d7144f28ea79df9c2675340",
     "/manifest.webmanifest": "1a614471890616f5cae86be08e1a37b1305b2e99",
     "/polyfills.1bfe84656be2a69e.js": "2be7e2e4b097919d8beb72a6414b38a8792be183",
     "/runtime.964c9c5c6ed39d83.js": "50f6349e061de277e06e3fbd7f131487eb5ef403",
