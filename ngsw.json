@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1779474717311,
+  "timestamp": 1780055845502,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.dc58ae7658786f99.js",
+        "/main.1c95e089c311523e.js",
         "/manifest.webmanifest",
         "/polyfills.1bfe84656be2a69e.js",
         "/runtime.964c9c5c6ed39d83.js",
@@ -180,6 +180,7 @@
         "/assets/nonogram_hex_part3.txt",
         "/assets/nonogram_hex_part4.txt",
         "/assets/nonogram_solutions.txt",
+        "/assets/qwirkle/qwirkle.pdf",
         "/assets/qwirkle/rules.pdf",
         "/assets/roms/MissileCommand.a26",
         "/assets/roms/Sandworm.bin",
@@ -348,6 +349,7 @@
     "/assets/nonogram_hex_part3.txt": "5f3ecd7e2e817bb5a13d1650ae54baae8ee312d7",
     "/assets/nonogram_hex_part4.txt": "b441eb5e4d940578ec41ca86b00cabceca917cbf",
     "/assets/nonogram_solutions.txt": "839807dfc5db0c1d458dd8ff8833bc6d2f48f98a",
+    "/assets/qwirkle/qwirkle.pdf": "8493258760bb99e44eb196ea992f1e7d502ca95b",
     "/assets/qwirkle/rules.pdf": "5c31cb3a53c8c8168d1ba48f0811c0fe273cc98a",
     "/assets/roms/MissileCommand.a26": "faa06bb0643dbf556b13591c31917d277a83110b",
     "/assets/roms/Sandworm.bin": "0104ca0b58b7349a34184e538db6f29cfef8fd40",
@@ -361,8 +363,8 @@
     "/fa-v4compatibility.6209cf0172d95b0e.woff2": "8f80d0bbe995f7fe92320fdaec10cd5ccd710a51",
     "/fa-v4compatibility.92dce52f885fd838.ttf": "a9d072aca9e0fadc2a7167671ce3d6b18d9cd2cc",
     "/favicon.ico": "e8bade23b659c24ea3c536ed70d90c5e42b71097",
-    "/index.html": "d7b6d4b7f0b6554161bd53eff36ea96a36c46ba4",
-    "/main.dc58ae7658786f99.js": "c18a10d1d066ec29067bcf9fa376997b750fa341",
+    "/index.html": "1a5075aae013a37b392530d973edcf2a32c12916",
+    "/main.1c95e089c311523e.js": "c6a3fd2d33938b7e1f1715b7145ddc1a69a60ba9",
     "/manifest.webmanifest": "1a614471890616f5cae86be08e1a37b1305b2e99",
     "/polyfills.1bfe84656be2a69e.js": "2be7e2e4b097919d8beb72a6414b38a8792be183",
     "/runtime.964c9c5c6ed39d83.js": "50f6349e061de277e06e3fbd7f131487eb5ef403",
