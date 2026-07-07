@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1782905654493,
+  "timestamp": 1783386245551,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.ec9c5102e378ff54.js",
+        "/main.0379d2982f6c44be.js",
         "/manifest.webmanifest",
         "/polyfills.1bfe84656be2a69e.js",
         "/runtime.964c9c5c6ed39d83.js",
@@ -173,6 +173,8 @@
         "/assets/bible/rvr_verses_e.csv",
         "/assets/bible/rvr_verses_f.csv",
         "/assets/bible/strongs.csv",
+        "/assets/bible/taboo-cards-back.json",
+        "/assets/bible/taboo-cards.json",
         "/assets/bible_questions.csv",
         "/assets/bible_verses.csv",
         "/assets/clue17_1000.txt",
@@ -411,6 +413,8 @@
     "/assets/bible/rvr_verses_e.csv": "7a54d3e60d3213da5beb75a136453fd3c8f12253",
     "/assets/bible/rvr_verses_f.csv": "5a1f08df73a90f98af73fc34643b851d5d36d698",
     "/assets/bible/strongs.csv": "82fa75878e34c7933889745de830d27ccc55f9db",
+    "/assets/bible/taboo-cards-back.json": "166124901e3a67ef1234bfef6d3ec8c318a6b8a1",
+    "/assets/bible/taboo-cards.json": "f74db7947a1242aced258fa33822758b42c16f1f",
     "/assets/bible_questions.csv": "a75277c85eb5b4b4f967bcad63159aa8a5f0a455",
     "/assets/bible_verses.csv": "4759b8bd0641513896dbaa6f97f959b8c79c7180",
     "/assets/clue17_1000.txt": "5869d5fd63fde2af3f0915a490e19b2150d6f4ef",
@@ -501,8 +505,8 @@
     "/fa-v4compatibility.59487ca3d8487240.woff2": "4fd82f39237a3e52cb4e311d1961bbb47353a147",
     "/fa-v4compatibility.c63df8a6c67912d1.ttf": "ad415f99aab4d9bf17e523f484a377f839ca8c3c",
     "/favicon.ico": "e8bade23b659c24ea3c536ed70d90c5e42b71097",
-    "/index.html": "7a194000d3dc0885252933786b43da0e69187645",
-    "/main.ec9c5102e378ff54.js": "5c3e43b4c876acc7412647d5d51e24aa3f8c73f4",
+    "/index.html": "3cacb0acf5d78114d8d96bcbdef2f4db01797b50",
+    "/main.0379d2982f6c44be.js": "d5cac6e5bfa83140ffe7da73d0ca979ae3df6fbe",
     "/manifest.webmanifest": "1a614471890616f5cae86be08e1a37b1305b2e99",
     "/polyfills.1bfe84656be2a69e.js": "2be7e2e4b097919d8beb72a6414b38a8792be183",
     "/runtime.964c9c5c6ed39d83.js": "50f6349e061de277e06e3fbd7f131487eb5ef403",
