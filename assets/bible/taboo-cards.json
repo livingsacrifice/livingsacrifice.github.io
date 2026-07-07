@@ -1,0 +1,7862 @@
+[
+    {
+        "word": "Peace",
+        "forbidden": [
+            "Anxious",
+            "Quiet",
+            "Fruit",
+            "War",
+            "Calm"
+        ]
+    },
+    {
+        "word": "Prince",
+        "forbidden": [
+            "Jesus",
+            "Satan",
+            "Beelzebub",
+            "Peace",
+            "Devil"
+        ]
+    },
+    {
+        "word": "Believe",
+        "forbidden": [
+            "Accept",
+            "Save",
+            "Trust",
+            "Faith",
+            "Jesus"
+        ]
+    },
+    {
+        "word": "Nabal",
+        "forbidden": [
+            "Argument",
+            "Abigail",
+            "David",
+            "Wife",
+            "Woman"
+        ]
+    },
+    {
+        "word": "Herod",
+        "forbidden": [
+            "Jesus",
+            "Baby",
+            "Bethlehem",
+            "John",
+            "King"
+        ]
+    },
+    {
+        "word": "Wise",
+        "forbidden": [
+            "Solomon",
+            "Proverbs",
+            "Old",
+            "Maji",
+            "Clever"
+        ]
+    },
+    {
+        "word": "Lamb of God",
+        "forbidden": [
+            "Jesus",
+            "Christ",
+            "Sacrifice",
+            "Blood",
+            "Sacrifice"
+        ]
+    },
+    {
+        "word": "Pray",
+        "forbidden": [
+            "God",
+            "Communicate",
+            "Ask",
+            "Amen",
+            "Kneel"
+        ]
+    },
+    {
+        "word": "Rain",
+        "forbidden": [
+            "Flood",
+            "Noah",
+            "Sky",
+            "Water",
+            "Clouds"
+        ]
+    },
+    {
+        "word": "Hallelujah",
+        "forbidden": [
+            "Shout",
+            "Jesus",
+            "Amen",
+            "Sing",
+            "Praise"
+        ]
+    },
+    {
+        "word": "Spirit",
+        "forbidden": [
+            "Ghost",
+            "Pentecost",
+            "Trinity",
+            "Holy",
+            "God"
+        ]
+    },
+    {
+        "word": "Thanksgiving",
+        "forbidden": [
+            "Dinner",
+            "Prayer",
+            "Turkey",
+            "Appreciate",
+            "November"
+        ]
+    },
+    {
+        "word": "Jehovah",
+        "forbidden": [
+            "Father",
+            "Lord",
+            "Jireh",
+            "Yahweh",
+            "God"
+        ]
+    },
+    {
+        "word": "Sling",
+        "forbidden": [
+            "Goliath",
+            "Kill",
+            "Stone",
+            "David",
+            "Throw"
+        ]
+    },
+    {
+        "word": "Grave",
+        "forbidden": [
+            "Tomb",
+            "Rise",
+            "Jesus",
+            "Cemetery",
+            "Dead"
+        ]
+    },
+    {
+        "word": "Judas",
+        "forbidden": [
+            "Arrest",
+            "Betray",
+            "Garden",
+            "Iscariot",
+            "Jesus"
+        ]
+    },
+    {
+        "word": "Cain",
+        "forbidden": [
+            "Offering",
+            "Adam",
+            "Brother",
+            "Abel",
+            "Kill"
+        ]
+    },
+    {
+        "word": "Miracle",
+        "forbidden": [
+            "Jesus",
+            "Dead",
+            "Heal",
+            "Perform",
+            "Sign"
+        ]
+    },
+    {
+        "word": "Command",
+        "forbidden": [
+            "Obey",
+            "Instruct",
+            "Order",
+            "Soldier",
+            "Master"
+        ]
+    },
+    {
+        "word": "Ruth",
+        "forbidden": [
+            "Boaz",
+            "Glean",
+            "Woman",
+            "Naomi",
+            "Widow"
+        ]
+    },
+    {
+        "word": "Divine",
+        "forbidden": [
+            "God",
+            "Lovely",
+            "Providence",
+            "Holy",
+            "Heavenly"
+        ]
+    },
+    {
+        "word": "Pilate",
+        "forbidden": [
+            "King",
+            "Jesus",
+            "Pontius",
+            "Caesar",
+            "Trial"
+        ]
+    },
+    {
+        "word": "Martha",
+        "forbidden": [
+            "Jesus",
+            "Mary",
+            "Lazarus",
+            "Busy",
+            "Bethany"
+        ]
+    },
+    {
+        "word": "Judgement",
+        "forbidden": [
+            "Revelation",
+            "Guilty",
+            "End",
+            "God",
+            "Tribulation"
+        ]
+    },
+    {
+        "word": "Damascus",
+        "forbidden": [
+            "Light",
+            "Paul",
+            "Syria",
+            "City",
+            "Road"
+        ]
+    },
+    {
+        "word": "Parable",
+        "forbidden": [
+            "Jesus",
+            "Son",
+            "Teach",
+            "Story",
+            "Kingdom"
+        ]
+    },
+    {
+        "word": "Ecclesiastes",
+        "forbidden": [
+            "Book",
+            "Preacher",
+            "Vanity",
+            "Solomon",
+            "Bible"
+        ]
+    },
+    {
+        "word": "Serpent",
+        "forbidden": [
+            "Eden",
+            "Moses",
+            "Garden",
+            "Snake",
+            "Brass"
+        ]
+    },
+    {
+        "word": "Evangelize",
+        "forbidden": [
+            "Gospel",
+            "Good",
+            "News",
+            "Salvation",
+            "Preach"
+        ]
+    },
+    {
+        "word": "Potiphar",
+        "forbidden": [
+            "Wife",
+            "Pharaoh",
+            "Egypt",
+            "Joseph",
+            "Slave"
+        ]
+    },
+    {
+        "word": "Egypt",
+        "forbidden": [
+            "Pharaoh",
+            "Moses",
+            "Pyramids",
+            "Slave",
+            "Passover"
+        ]
+    },
+    {
+        "word": "Galilee",
+        "forbidden": [
+            "Sea",
+            "Walk",
+            "Peter",
+            "Jesus",
+            "Israel"
+        ]
+    },
+    {
+        "word": "Cross",
+        "forbidden": [
+            "Calvary",
+            "Jesus",
+            "Die",
+            "Crucify",
+            "Nail"
+        ]
+    },
+    {
+        "word": "Adam",
+        "forbidden": [
+            "Eve",
+            "Sin",
+            "Eden",
+            "First",
+            "Tree"
+        ]
+    },
+    {
+        "word": "Lucifer",
+        "forbidden": [
+            "Satan",
+            "Fall",
+            "Evil",
+            "Angel",
+            "Devil"
+        ]
+    },
+    {
+        "word": "Bread",
+        "forbidden": [
+            "Bake",
+            "Eat",
+            "Wine",
+            "Communion",
+            "Sandwich"
+        ]
+    },
+    {
+        "word": "Fiery Serpent",
+        "forbidden": [
+            "Bite",
+            "Brazen",
+            "Israel",
+            "Moses",
+            "Snake"
+        ]
+    },
+    {
+        "word": "Ark",
+        "forbidden": [
+            "Flood",
+            "Animals",
+            "Noah",
+            "Forty",
+            "Rainbow"
+        ]
+    },
+    {
+        "word": "Yoke",
+        "forbidden": [
+            "Together",
+            "Ox",
+            "Farm",
+            "Unequal",
+            "Animal"
+        ]
+    },
+    {
+        "word": "Son of God",
+        "forbidden": [
+            "Christ",
+            "Man",
+            "Name",
+            "Jesus",
+            "Child"
+        ]
+    },
+    {
+        "word": "Abomination",
+        "forbidden": [
+            "Detest",
+            "Ugly",
+            "Sin",
+            "Disgrace",
+            "Hate"
+        ]
+    },
+    {
+        "word": "Delilah",
+        "forbidden": [
+            "Samson",
+            "Judge",
+            "Hair",
+            "Philistine",
+            "Strong"
+        ]
+    },
+    {
+        "word": "Scribe",
+        "forbidden": [
+            "Record",
+            "Read",
+            "Write",
+            "Bible",
+            "Scripture"
+        ]
+    },
+    {
+        "word": "Cubit",
+        "forbidden": [
+            "Arm",
+            "Foot",
+            "Length",
+            "Measure",
+            "Ark"
+        ]
+    },
+    {
+        "word": "Tithe",
+        "forbidden": [
+            "Ten",
+            "Offering",
+            "Percent",
+            "Give",
+            "Money"
+        ]
+    },
+    {
+        "word": "Eden",
+        "forbidden": [
+            "Adam",
+            "Eve",
+            "Sin",
+            "Garden",
+            "Creation"
+        ]
+    },
+    {
+        "word": "Throne",
+        "forbidden": [
+            "Sit",
+            "Ruler",
+            "God",
+            "King",
+            "Reign"
+        ]
+    },
+    {
+        "word": "Babylon",
+        "forbidden": [
+            "Daniel",
+            "King",
+            "Conquer",
+            "Land",
+            "Captive"
+        ]
+    },
+    {
+        "word": "Samson",
+        "forbidden": [
+            "Hair",
+            "Delilah",
+            "Judge",
+            "Philistine",
+            "Strong"
+        ]
+    },
+    {
+        "word": "Sacred",
+        "forbidden": [
+            "Divine",
+            "God",
+            "Consecrated",
+            "Clean",
+            "Holy"
+        ]
+    },
+    {
+        "word": "Music",
+        "forbidden": [
+            "David",
+            "Play",
+            "String",
+            "Harp",
+            "Heaven"
+        ]
+    },
+    {
+        "word": "Wander",
+        "forbidden": [
+            "Wilderness",
+            "Moses",
+            "Canaan",
+            "Desert",
+            "Egypt"
+        ]
+    },
+    {
+        "word": "Trust",
+        "forbidden": [
+            "Grace",
+            "Save",
+            "Obey",
+            "Believe",
+            "God"
+        ]
+    },
+    {
+        "word": "Beatitudes",
+        "forbidden": [
+            "Mount",
+            "Matthew",
+            "Sermon",
+            "Blessed",
+            "Jesus"
+        ]
+    },
+    {
+        "word": "Brimstone",
+        "forbidden": [
+            "Fire",
+            "Sulfur",
+            "Hell",
+            "Satan",
+            "Devil"
+        ]
+    },
+    {
+        "word": "Zechariah",
+        "forbidden": [
+            "Babylon",
+            "Bible",
+            "Zerubbabel",
+            "Testament",
+            "Prophet"
+        ]
+    },
+    {
+        "word": "Bartimaeus",
+        "forbidden": [
+            "Healed",
+            "Blind",
+            "Jesus",
+            "Sit",
+            "Beggar"
+        ]
+    },
+    {
+        "word": "Swallow",
+        "forbidden": [
+            "Whale",
+            "Jonah",
+            "Eat",
+            "Fish",
+            "Mouth"
+        ]
+    },
+    {
+        "word": "Resurrection",
+        "forbidden": [
+            "Easter",
+            "Jesus",
+            "Alive",
+            "Dead",
+            "Tomb"
+        ]
+    },
+    {
+        "word": "Nebuchadnezzar",
+        "forbidden": [
+            "King",
+            "Dream",
+            "Daniel",
+            "Babylon",
+            "Wall"
+        ]
+    },
+    {
+        "word": "Esau",
+        "forbidden": [
+            "Isaac",
+            "Promise",
+            "Rebekah",
+            "Jacob",
+            "Birthright"
+        ]
+    },
+    {
+        "word": "Thread",
+        "forbidden": [
+            "Long",
+            "Jericho",
+            "Rahab",
+            "String",
+            "Red"
+        ]
+    },
+    {
+        "word": "Philemon",
+        "forbidden": [
+            "Thief",
+            "Slave",
+            "Onesimus",
+            "Jail",
+            "Paul"
+        ]
+    },
+    {
+        "word": "Sacrifice",
+        "forbidden": [
+            "Offering",
+            "Burn",
+            "Altar",
+            "Give up",
+            "Temple"
+        ]
+    },
+    {
+        "word": "Acts",
+        "forbidden": [
+            "Church",
+            "History",
+            "Luke",
+            "Story",
+            "Bible"
+        ]
+    },
+    {
+        "word": "Leprosy",
+        "forbidden": [
+            "Disease",
+            "Unclean",
+            "Jesus",
+            "Healed",
+            "Skin"
+        ]
+    },
+    {
+        "word": "Paul",
+        "forbidden": [
+            "Apostle",
+            "Epistle",
+            "Tarsus",
+            "Saul",
+            "Road"
+        ]
+    },
+    {
+        "word": "Shine",
+        "forbidden": [
+            "Transfiguration",
+            "Jesus",
+            "Bright",
+            "Glory",
+            "Sun"
+        ]
+    },
+    {
+        "word": "Apostle",
+        "forbidden": [
+            "Twelve",
+            "Disciple",
+            "Follower",
+            "Jesus",
+            "Peter"
+        ]
+    },
+    {
+        "word": "Doubt",
+        "forbidden": [
+            "Believe",
+            "Thomas",
+            "Jesus",
+            "Finger",
+            "Disciple"
+        ]
+    },
+    {
+        "word": "Sadducees",
+        "forbidden": [
+            "Resurrection",
+            "Jew",
+            "Law",
+            "Jesus",
+            "Pharisees"
+        ]
+    },
+    {
+        "word": "Chariot",
+        "forbidden": [
+            "Horse",
+            "Ride",
+            "Pharaoh",
+            "Wheels",
+            "Ethiopian"
+        ]
+    },
+    {
+        "word": "Passion",
+        "forbidden": [
+            "Emotion",
+            "Anguish",
+            "Jesus",
+            "Suffer",
+            "Cross"
+        ]
+    },
+    {
+        "word": "Wall",
+        "forbidden": [
+            "Ezra",
+            "Jericho",
+            "House",
+            "Build",
+            "Nehemiah"
+        ]
+    },
+    {
+        "word": "Peter",
+        "forbidden": [
+            "Paul",
+            "Deny",
+            "Walk",
+            "Disciple",
+            "Jesus"
+        ]
+    },
+    {
+        "word": "Nineveh",
+        "forbidden": [
+            "Preach",
+            "City",
+            "Jonah",
+            "Whale",
+            "Repent"
+        ]
+    },
+    {
+        "word": "Whale",
+        "forbidden": [
+            "Jonah",
+            "Sea",
+            "Fish",
+            "Big",
+            "Swallow"
+        ]
+    },
+    {
+        "word": "Obey",
+        "forbidden": [
+            "Do",
+            "Rules",
+            "Follow",
+            "Submit",
+            "Father"
+        ]
+    },
+    {
+        "word": "Deborah",
+        "forbidden": [
+            "Israel",
+            "Tree",
+            "Lead",
+            "Judge",
+            "Woman"
+        ]
+    },
+    {
+        "word": "Dove",
+        "forbidden": [
+            "White",
+            "Peace",
+            "Offering",
+            "Bird",
+            "Noah"
+        ]
+    },
+    {
+        "word": "Lot",
+        "forbidden": [
+            "Fire",
+            "Daughter",
+            "Sodom",
+            "Wife",
+            "Abraham"
+        ]
+    },
+    {
+        "word": "Pharisee",
+        "forbidden": [
+            "Jew",
+            "Jesus",
+            "Group",
+            "Religious",
+            "Scribe"
+        ]
+    },
+    {
+        "word": "Fasting",
+        "forbidden": [
+            "Drink",
+            "Food",
+            "Prayer",
+            "Eat",
+            "Hungry"
+        ]
+    },
+    {
+        "word": "Philistine",
+        "forbidden": [
+            "Enemy",
+            "Goliath",
+            "Israel",
+            "Samson",
+            "David"
+        ]
+    },
+    {
+        "word": "Suffer",
+        "forbidden": [
+            "Christ",
+            "Passion",
+            "Cross",
+            "Pain",
+            "Anguish"
+        ]
+    },
+    {
+        "word": "Matthew",
+        "forbidden": [
+            "Jesus",
+            "Mark",
+            "Gospel",
+            "King",
+            "Story"
+        ]
+    },
+    {
+        "word": "Miriam",
+        "forbidden": [
+            "Moses",
+            "Brother",
+            "Aaron",
+            "Priest",
+            "Sacrifice"
+        ]
+    },
+    {
+        "word": "Commandment",
+        "forbidden": [
+            "Ten",
+            "Tablets",
+            "Mount",
+            "Moses",
+            "Rules"
+        ]
+    },
+    {
+        "word": "Ahab",
+        "forbidden": [
+            "King",
+            "Baal",
+            "Jezebel",
+            "Arrow",
+            "Elijah"
+        ]
+    },
+    {
+        "word": "Perfect",
+        "forbidden": [
+            "Father",
+            "Heaven",
+            "Faultless",
+            "God",
+            "Paradise"
+        ]
+    },
+    {
+        "word": "Servant",
+        "forbidden": [
+            "Jesus",
+            "Mark",
+            "Disciple",
+            "Leader",
+            "John"
+        ]
+    },
+    {
+        "word": "Reign",
+        "forbidden": [
+            "God",
+            "Country",
+            "Throne",
+            "Jesus",
+            "King"
+        ]
+    },
+    {
+        "word": "Calvary",
+        "forbidden": [
+            "Mount",
+            "Cross",
+            "Crucify",
+            "Jesus",
+            "Golgotha"
+        ]
+    },
+    {
+        "word": "Rescue",
+        "forbidden": [
+            "Save",
+            "Heaven",
+            "Sin",
+            "Forgive",
+            "Salvation"
+        ]
+    },
+    {
+        "word": "Seth",
+        "forbidden": [
+            "Abel",
+            "Son",
+            "Cain",
+            "Brother",
+            "Adam"
+        ]
+    },
+    {
+        "word": "Sea",
+        "forbidden": [
+            "Galilee",
+            "Moses",
+            "Water",
+            "Walk",
+            "Beach"
+        ]
+    },
+    {
+        "word": "Eve",
+        "forbidden": [
+            "Adam",
+            "Eden",
+            "First",
+            "Garden",
+            "Fruit"
+        ]
+    },
+    {
+        "word": "Mother",
+        "forbidden": [
+            "Parent",
+            "Birth",
+            "Father",
+            "Child",
+            "Woman"
+        ]
+    },
+    {
+        "word": "Tax",
+        "forbidden": [
+            "Zacchaeus",
+            "Government",
+            "Sinner",
+            "Collect",
+            "Caesar"
+        ]
+    },
+    {
+        "word": "Bethlehem",
+        "forbidden": [
+            "Christ",
+            "Born",
+            "Jesus",
+            "Town",
+            "Manger"
+        ]
+    },
+    {
+        "word": "Jacob",
+        "forbidden": [
+            "Israel",
+            "Joseph",
+            "Esau",
+            "Abraham",
+            "Isaac"
+        ]
+    },
+    {
+        "word": "Satan",
+        "forbidden": [
+            "Lucifer",
+            "Demon",
+            "Devil",
+            "Hell",
+            "Evil"
+        ]
+    },
+    {
+        "word": "Crimson",
+        "forbidden": [
+            "Scarlet",
+            "Color",
+            "White",
+            "Red",
+            "Sin"
+        ]
+    },
+    {
+        "word": "Promise",
+        "forbidden": [
+            "Covenant",
+            "Abraham",
+            "God",
+            "Rainbow",
+            "Noah"
+        ]
+    },
+    {
+        "word": "Beelzebub",
+        "forbidden": [
+            "Satan",
+            "Prince",
+            "Devil",
+            "Jesus",
+            "Demon"
+        ]
+    },
+    {
+        "word": "Save",
+        "forbidden": [
+            "Jesus",
+            "Rescue",
+            "Redeem",
+            "Grace",
+            "Salvation"
+        ]
+    },
+    {
+        "word": "Crown",
+        "forbidden": [
+            "Head",
+            "Jesus",
+            "King",
+            "Thorns",
+            "Queen"
+        ]
+    },
+    {
+        "word": "Endor",
+        "forbidden": [
+            "Saul",
+            "Samuel",
+            "Ghost",
+            "Witch",
+            "Dead"
+        ]
+    },
+    {
+        "word": "Tabernacle",
+        "forbidden": [
+            "Priest",
+            "Altar",
+            "Sacrifice",
+            "Temple",
+            "Offering"
+        ]
+    },
+    {
+        "word": "Marriage",
+        "forbidden": [
+            "Wedding",
+            "Wife",
+            "Groom",
+            "Bride",
+            "Husband"
+        ]
+    },
+    {
+        "word": "Malchus",
+        "forbidden": [
+            "Gethsemane",
+            "Sword",
+            "Jesus",
+            "Ear",
+            "Peter"
+        ]
+    },
+    {
+        "word": "Rahab",
+        "forbidden": [
+            "Jericho",
+            "Joshua",
+            "Wall",
+            "Window",
+            "Red"
+        ]
+    },
+    {
+        "word": "Veil",
+        "forbidden": [
+            "Tabernacle",
+            "Torn",
+            "Covering",
+            "Bride",
+            "Cloth"
+        ]
+    },
+    {
+        "word": "Joseph",
+        "forbidden": [
+            "Jesus",
+            "Slave",
+            "Jacob",
+            "Dream",
+            "Mary"
+        ]
+    },
+    {
+        "word": "Rest",
+        "forbidden": [
+            "Work",
+            "God",
+            "Sabbath",
+            "Seven",
+            "Day"
+        ]
+    },
+    {
+        "word": "Locusts",
+        "forbidden": [
+            "John",
+            "Honey",
+            "Plague",
+            "Egypt",
+            "Insect"
+        ]
+    },
+    {
+        "word": "Flood",
+        "forbidden": [
+            "Ark",
+            "Water",
+            "Earth",
+            "Noah",
+            "Rain"
+        ]
+    },
+    {
+        "word": "King",
+        "forbidden": [
+            "Crown",
+            "Saul",
+            "David",
+            "Israel",
+            "Ruler"
+        ]
+    },
+    {
+        "word": "Meshach",
+        "forbidden": [
+            "Furnace",
+            "Shadrach",
+            "Abednego",
+            "Fire",
+            "Babylon"
+        ]
+    },
+    {
+        "word": "Testament",
+        "forbidden": [
+            "New",
+            "Covenant",
+            "Scripture",
+            "Old",
+            "Bible"
+        ]
+    },
+    {
+        "word": "Young",
+        "forbidden": [
+            "Timothy",
+            "Man",
+            "Child",
+            "Old",
+            "Paul"
+        ]
+    },
+    {
+        "word": "Sister",
+        "forbidden": [
+            "Mary",
+            "Brother",
+            "Leah",
+            "Martha",
+            "Rachel"
+        ]
+    },
+    {
+        "word": "Job",
+        "forbidden": [
+            "Lost",
+            "Friend",
+            "Suffer",
+            "Boil",
+            "Satan"
+        ]
+    },
+    {
+        "word": "Thorns",
+        "forbidden": [
+            "Sharp",
+            "Head",
+            "Jesus",
+            "Crown",
+            "Rose"
+        ]
+    },
+    {
+        "word": "Ishmael",
+        "forbidden": [
+            "Isaac",
+            "Promise",
+            "Son",
+            "Sarah",
+            "Abraham"
+        ]
+    },
+    {
+        "word": "Balaam",
+        "forbidden": [
+            "Prophet",
+            "Israel",
+            "Donkey",
+            "Angel",
+            "Talk"
+        ]
+    },
+    {
+        "word": "Evil",
+        "forbidden": [
+            "Bad",
+            "Satan",
+            "Hell",
+            "Sin",
+            "Good"
+        ]
+    },
+    {
+        "word": "Fire",
+        "forbidden": [
+            "Smoke",
+            "Burn",
+            "Hell",
+            "Flame",
+            "Hot"
+        ]
+    },
+    {
+        "word": "Achan",
+        "forbidden": [
+            "Joshua",
+            "Ai",
+            "Sin",
+            "Jericho",
+            "Gold"
+        ]
+    },
+    {
+        "word": "Christian",
+        "forbidden": [
+            "Saved",
+            "Believer",
+            "Church",
+            "Name",
+            "Disciple"
+        ]
+    },
+    {
+        "word": "Hebrews",
+        "forbidden": [
+            "Book",
+            "Testament",
+            "Epistle",
+            "Jesus",
+            "Jew"
+        ]
+    },
+    {
+        "word": "Letter",
+        "forbidden": [
+            "Envelope",
+            "Epistle",
+            "Book",
+            "Write",
+            "Stamp"
+        ]
+    },
+    {
+        "word": "Elijah",
+        "forbidden": [
+            "Naaman",
+            "Rain",
+            "Fire",
+            "Prophet",
+            "Elisha"
+        ]
+    },
+    {
+        "word": "Judges",
+        "forbidden": [
+            "Deborah",
+            "Bible",
+            "Leader",
+            "Samson",
+            "Gideon"
+        ]
+    },
+    {
+        "word": "Righteous",
+        "forbidden": [
+            "Holy",
+            "Jesus",
+            "Saint",
+            "Saved",
+            "Good"
+        ]
+    },
+    {
+        "word": "Potter's Field",
+        "forbidden": [
+            "Blood",
+            "Jesus",
+            "Price",
+            "Judas",
+            "Hang"
+        ]
+    },
+    {
+        "word": "Patience",
+        "forbidden": [
+            "Wait",
+            "Job",
+            "Calm",
+            "Fruit",
+            "Virtue"
+        ]
+    },
+    {
+        "word": "Repent",
+        "forbidden": [
+            "Mind",
+            "Salvation",
+            "Jesus",
+            "Sin",
+            "Change"
+        ]
+    },
+    {
+        "word": "Water",
+        "forbidden": [
+            "Drink",
+            "Flood",
+            "Baptize",
+            "Jordan",
+            "Cross"
+        ]
+    },
+    {
+        "word": "Rebekah",
+        "forbidden": [
+            "Wife",
+            "Jacob",
+            "Jacob",
+            "Esau",
+            "Isaac"
+        ]
+    },
+    {
+        "word": "Abel",
+        "forbidden": [
+            "Adam",
+            "Brother",
+            "Cain",
+            "Kill",
+            "Offering"
+        ]
+    },
+    {
+        "word": "Storm",
+        "forbidden": [
+            "Rain",
+            "Jesus",
+            "Lightning",
+            "Jonah",
+            "Boat"
+        ]
+    },
+    {
+        "word": "Hell",
+        "forbidden": [
+            "Sin",
+            "Heaven",
+            "Devil",
+            "Lake",
+            "Fire"
+        ]
+    },
+    {
+        "word": "Sabbath",
+        "forbidden": [
+            "Day",
+            "Work",
+            "Seven",
+            "Sunday",
+            "Rest"
+        ]
+    },
+    {
+        "word": "God",
+        "forbidden": [
+            "Trinity",
+            "Father",
+            "Holy",
+            "Jesus",
+            "Worship"
+        ]
+    },
+    {
+        "word": "Mustard",
+        "forbidden": [
+            "Believe",
+            "Grace",
+            "Faith",
+            "Seed",
+            "Save"
+        ]
+    },
+    {
+        "word": "Noah",
+        "forbidden": [
+            "Animal",
+            "Rainbow",
+            "Flood",
+            "Ark",
+            "Forty"
+        ]
+    },
+    {
+        "word": "Corinth",
+        "forbidden": [
+            "Letter",
+            "Paul",
+            "Church",
+            "City",
+            "Epistle"
+        ]
+    },
+    {
+        "word": "Ezra",
+        "forbidden": [
+            "Temple",
+            "Jerusalem",
+            "Babylon",
+            "Nehemiah",
+            "Build"
+        ]
+    },
+    {
+        "word": "Samuel",
+        "forbidden": [
+            "David",
+            "Saul",
+            "Prophet",
+            "Hannah",
+            "Boy"
+        ]
+    },
+    {
+        "word": "Son",
+        "forbidden": [
+            "Jesus",
+            "Man",
+            "Daughter",
+            "Firstborn",
+            "Child"
+        ]
+    },
+    {
+        "word": "Idol",
+        "forbidden": [
+            "Worship",
+            "Stone",
+            "God",
+            "Statue",
+            "False"
+        ]
+    },
+    {
+        "word": "Gethsemane",
+        "forbidden": [
+            "Judas",
+            "Pray",
+            "Arrest",
+            "Garden",
+            "Jesus"
+        ]
+    },
+    {
+        "word": "Mark",
+        "forbidden": [
+            "Matthew",
+            "Book",
+            "John",
+            "Gospel",
+            "Disciple"
+        ]
+    },
+    {
+        "word": "Timothy",
+        "forbidden": [
+            "Epistle",
+            "Letter",
+            "Young",
+            "Paul",
+            "Man"
+        ]
+    },
+    {
+        "word": "Jail",
+        "forbidden": [
+            "Prison",
+            "Paul",
+            "Slave",
+            "Philemon",
+            "Thief"
+        ]
+    },
+    {
+        "word": "Sign",
+        "forbidden": [
+            "Miracle",
+            "Heal",
+            "Blind",
+            "Jesus",
+            "Power"
+        ]
+    },
+    {
+        "word": "Christ",
+        "forbidden": [
+            "Emmanuel",
+            "Lord",
+            "Son",
+            "Jesus",
+            "Savior"
+        ]
+    },
+    {
+        "word": "Elder",
+        "forbidden": [
+            "Deacon",
+            "Church",
+            "Old",
+            "Oversee",
+            "Leader"
+        ]
+    },
+    {
+        "word": "Saul",
+        "forbidden": [
+            "King",
+            "Israel",
+            "Paul",
+            "Apostle",
+            "Tarsus"
+        ]
+    },
+    {
+        "word": "Write",
+        "forbidden": [
+            "Scripture",
+            "Paper",
+            "Bible",
+            "Pen",
+            "Holy"
+        ]
+    },
+    {
+        "word": "Send",
+        "forbidden": [
+            "Comforter",
+            "Disciples",
+            "Jesus",
+            "Letter",
+            "Spirit"
+        ]
+    },
+    {
+        "word": "Garden",
+        "forbidden": [
+            "Plants",
+            "Gethsemane",
+            "Eve",
+            "Eden",
+            "Adam"
+        ]
+    },
+    {
+        "word": "Behemoth",
+        "forbidden": [
+            "Dinosaur",
+            "Mammoth",
+            "Job",
+            "Giant",
+            "Tail"
+        ]
+    },
+    {
+        "word": "Perfume",
+        "forbidden": [
+            "Jesus",
+            "Smell",
+            "Gift",
+            "Anoint",
+            "Jar"
+        ]
+    },
+    {
+        "word": "Glean",
+        "forbidden": [
+            "Boaz",
+            "Kinsman",
+            "Redeem",
+            "Field",
+            "Ruth"
+        ]
+    },
+    {
+        "word": "Nathan",
+        "forbidden": [
+            "Sin",
+            "Solomon",
+            "David",
+            "Prophet",
+            "Bathsheba"
+        ]
+    },
+    {
+        "word": "Onesimus",
+        "forbidden": [
+            "Slave",
+            "Thief",
+            "Philemon",
+            "Paul",
+            "Jail"
+        ]
+    },
+    {
+        "word": "Blessing",
+        "forbidden": [
+            "God",
+            "Priesthood",
+            "Receive",
+            "Favor",
+            "Prayer"
+        ]
+    },
+    {
+        "word": "Firstborn",
+        "forbidden": [
+            "Blood",
+            "Pharaoh",
+            "Son",
+            "Passover",
+            "Saved"
+        ]
+    },
+    {
+        "word": "Jericho",
+        "forbidden": [
+            "Joshua",
+            "Land",
+            "Army",
+            "March",
+            "Wall"
+        ]
+    },
+    {
+        "word": "Forgive",
+        "forbidden": [
+            "Sorry",
+            "Repent",
+            "Ask",
+            "God",
+            "Confess"
+        ]
+    },
+    {
+        "word": "Levi",
+        "forbidden": [
+            "Israel",
+            "Priest",
+            "Brother",
+            "Israel",
+            "Tribe"
+        ]
+    },
+    {
+        "word": "Humility",
+        "forbidden": [
+            "Modest",
+            "Servant",
+            "Meek",
+            "Arrogant",
+            "Pride"
+        ]
+    },
+    {
+        "word": "Soul",
+        "forbidden": [
+            "Breath",
+            "Depart",
+            "Spirit",
+            "Life",
+            "Heaven"
+        ]
+    },
+    {
+        "word": "Love",
+        "forbidden": [
+            "Fall",
+            "Feel",
+            "Heart",
+            "Like",
+            "God"
+        ]
+    },
+    {
+        "word": "Gift",
+        "forbidden": [
+            "Spiritual",
+            "Wrapped",
+            "Salvation",
+            "Birthday",
+            "Present"
+        ]
+    },
+    {
+        "word": "Temple",
+        "forbidden": [
+            "Priest",
+            "Solomon",
+            "Sacrifice",
+            "Tabernacle",
+            "Altar"
+        ]
+    },
+    {
+        "word": "Psalm",
+        "forbidden": [
+            "Lord",
+            "David",
+            "Worship",
+            "Hymn",
+            "Song"
+        ]
+    },
+    {
+        "word": "Zion",
+        "forbidden": [
+            "God",
+            "City",
+            "David",
+            "Jerusalem",
+            "Mount"
+        ]
+    },
+    {
+        "word": "Praise",
+        "forbidden": [
+            "Worship",
+            "Hallelujah",
+            "Amen",
+            "Sing",
+            "Voice"
+        ]
+    },
+    {
+        "word": "Power",
+        "forbidden": [
+            "God",
+            "Heal",
+            "Dead",
+            "Jesus",
+            "Miracle"
+        ]
+    },
+    {
+        "word": "Preacher",
+        "forbidden": [
+            "Church",
+            "Minister",
+            "Evangelist",
+            "Pastor",
+            "Sermon"
+        ]
+    },
+    {
+        "word": "Angel",
+        "forbidden": [
+            "Halo",
+            "Gabriel",
+            "Wings",
+            "Good",
+            "Heaven"
+        ]
+    },
+    {
+        "word": "Rachel",
+        "forbidden": [
+            "Sister",
+            "Leah",
+            "Wife",
+            "Joseph",
+            "Jacob"
+        ]
+    },
+    {
+        "word": "Stone",
+        "forbidden": [
+            "Rock",
+            "Goliath",
+            "Sling",
+            "Throw",
+            "David"
+        ]
+    },
+    {
+        "word": "Gentile",
+        "forbidden": [
+            "Greek",
+            "Church",
+            "Israel",
+            "Jew",
+            "Nation"
+        ]
+    },
+    {
+        "word": "Nazareth",
+        "forbidden": [
+            "Good",
+            "Mary",
+            "Jesus",
+            "Town",
+            "Joseph"
+        ]
+    },
+    {
+        "word": "Judah",
+        "forbidden": [
+            "King",
+            "Jerusalem",
+            "Israel",
+            "David",
+            "Lion"
+        ]
+    },
+    {
+        "word": "Follower",
+        "forbidden": [
+            "Walk",
+            "Peter",
+            "Jesus",
+            "Disciple",
+            "John"
+        ]
+    },
+    {
+        "word": "Moses",
+        "forbidden": [
+            "Bush",
+            "Commandments",
+            "Exodus",
+            "Desert",
+            "Egypt"
+        ]
+    },
+    {
+        "word": "Believer",
+        "forbidden": [
+            "Disciple",
+            "Church",
+            "Saved",
+            "Name",
+            "Christian"
+        ]
+    },
+    {
+        "word": "Lord",
+        "forbidden": [
+            "Christ",
+            "Jehovah",
+            "God",
+            "Father",
+            "Jesus"
+        ]
+    },
+    {
+        "word": "Pentecost",
+        "forbidden": [
+            "Feast",
+            "Fire",
+            "Spirit",
+            "Tongues",
+            "Day"
+        ]
+    },
+    {
+        "word": "Unbelief",
+        "forbidden": [
+            "Reject",
+            "Sin",
+            "Reject",
+            "Believe",
+            "Faith"
+        ]
+    },
+    {
+        "word": "Comforter",
+        "forbidden": [
+            "Ghost",
+            "Spirit",
+            "Jesus",
+            "Holy",
+            "Send"
+        ]
+    },
+    {
+        "word": "Thief",
+        "forbidden": [
+            "Die",
+            "Jesus",
+            "Cross",
+            "Steal",
+            "Crucify"
+        ]
+    },
+    {
+        "word": "Redeem",
+        "forbidden": [
+            "Price",
+            "Save",
+            "Cost",
+            "Purchase",
+            "Jesus"
+        ]
+    },
+    {
+        "word": "Communion",
+        "forbidden": [
+            "Cup",
+            "Wine",
+            "Lord's Supper",
+            "Bread",
+            "Worship"
+        ]
+    },
+    {
+        "word": "Omega",
+        "forbidden": [
+            "First",
+            "Letter",
+            "Beginning",
+            "End",
+            "Last"
+        ]
+    },
+    {
+        "word": "Abigail",
+        "forbidden": [
+            "David",
+            "Wife",
+            "Nabal",
+            "Woman",
+            "Argument"
+        ]
+    },
+    {
+        "word": "Scepter",
+        "forbidden": [
+            "Rod",
+            "King",
+            "Esther",
+            "Stick",
+            "Judah"
+        ]
+    },
+    {
+        "word": "Temptation",
+        "forbidden": [
+            "Satan",
+            "Desert",
+            "Jesus",
+            "Sin",
+            "Forty"
+        ]
+    },
+    {
+        "word": "New Testament",
+        "forbidden": [
+            "Jesus",
+            "Scripture",
+            "Bible",
+            "Old",
+            "Books"
+        ]
+    },
+    {
+        "word": "Milk",
+        "forbidden": [
+            "Drink",
+            "Cow",
+            "Honey",
+            "White",
+            "Promise"
+        ]
+    },
+    {
+        "word": "Father",
+        "forbidden": [
+            "Son",
+            "Children",
+            "Family",
+            "Mother",
+            "Daughter"
+        ]
+    },
+    {
+        "word": "Demons",
+        "forbidden": [
+            "Beelzebub",
+            "Devil",
+            "Spirits",
+            "Evil",
+            "Satan"
+        ]
+    },
+    {
+        "word": "Pastor",
+        "forbidden": [
+            "Church",
+            "Minister",
+            "Preach",
+            "Leader",
+            "Care"
+        ]
+    },
+    {
+        "word": "Fig",
+        "forbidden": [
+            "Curse",
+            "Tree",
+            "Wither",
+            "Fruit",
+            "Leaf"
+        ]
+    },
+    {
+        "word": "Widow",
+        "forbidden": [
+            "Husband",
+            "Glean",
+            "Ruth",
+            "Boaz",
+            "Woman"
+        ]
+    },
+    {
+        "word": "Amen",
+        "forbidden": [
+            "End",
+            "Say",
+            "Prayer",
+            "Agree",
+            "God"
+        ]
+    },
+    {
+        "word": "Mission",
+        "forbidden": [
+            "Overseas",
+            "Preach",
+            "Gospel",
+            "Evangelize",
+            "Impossible"
+        ]
+    },
+    {
+        "word": "Samaria",
+        "forbidden": [
+            "Woman",
+            "Israel",
+            "North",
+            "Jew",
+            "Well"
+        ]
+    },
+    {
+        "word": "Eternal Life",
+        "forbidden": [
+            "Salvation",
+            "Gift",
+            "Heaven",
+            "Forever",
+            "Jesus"
+        ]
+    },
+    {
+        "word": "Glory",
+        "forbidden": [
+            "Great",
+            "Bright",
+            "Light",
+            "Heaven",
+            "God"
+        ]
+    },
+    {
+        "word": "Star",
+        "forbidden": [
+            "Twinkle",
+            "Bright",
+            "Sky",
+            "Maji",
+            "Follow"
+        ]
+    },
+    {
+        "word": "River",
+        "forbidden": [
+            "Jordan",
+            "Nile",
+            "Cross",
+            "Water",
+            "Amazon"
+        ]
+    },
+    {
+        "word": "James",
+        "forbidden": [
+            "Jesus",
+            "Epistle",
+            "Work",
+            "Disciple",
+            "Bible"
+        ]
+    },
+    {
+        "word": "David",
+        "forbidden": [
+            "Sling",
+            "Goliath",
+            "Shepherd",
+            "King",
+            "Psalms"
+        ]
+    },
+    {
+        "word": "Savior",
+        "forbidden": [
+            "Redeem",
+            "Jesus",
+            "Save",
+            "Cross",
+            "Rescue"
+        ]
+    },
+    {
+        "word": "Proverb",
+        "forbidden": [
+            "Wise",
+            "Saying",
+            "Book",
+            "Son",
+            "Solomon"
+        ]
+    },
+    {
+        "word": "Tomb",
+        "forbidden": [
+            "Jesus",
+            "Stone",
+            "Body",
+            "Bury",
+            "Resurrect"
+        ]
+    },
+    {
+        "word": "Altar",
+        "forbidden": [
+            "Offering",
+            "Burn",
+            "Lamb",
+            "Sacrifice",
+            "Priest"
+        ]
+    },
+    {
+        "word": "Sprinkle",
+        "forbidden": [
+            "Christen",
+            "Immerse",
+            "Baptize",
+            "Ethiopian",
+            "Water"
+        ]
+    },
+    {
+        "word": "Saint",
+        "forbidden": [
+            "Separate",
+            "Believer",
+            "Good",
+            "Heaven",
+            "Holy"
+        ]
+    },
+    {
+        "word": "Harp",
+        "forbidden": [
+            "Angels",
+            "Play",
+            "Music",
+            "String",
+            "David"
+        ]
+    },
+    {
+        "word": "Vision",
+        "forbidden": [
+            "See",
+            "Prophets",
+            "Eyes",
+            "Dream",
+            "Future"
+        ]
+    },
+    {
+        "word": "Jonathan",
+        "forbidden": [
+            "Son",
+            "David",
+            "Friend",
+            "Die",
+            "Saul"
+        ]
+    },
+    {
+        "word": "Rainbow",
+        "forbidden": [
+            "Ark",
+            "Promise",
+            "Cloud",
+            "Color",
+            "Noah"
+        ]
+    },
+    {
+        "word": "Bethany",
+        "forbidden": [
+            "Town",
+            "Mary",
+            "Martha",
+            "Jesus",
+            "Lazarus"
+        ]
+    },
+    {
+        "word": "Blood",
+        "forbidden": [
+            "Egypt",
+            "Jesus",
+            "Plague",
+            "Shed",
+            "Sacrifice"
+        ]
+    },
+    {
+        "word": "Easter",
+        "forbidden": [
+            "Died",
+            "Tomb",
+            "Resurrection",
+            "Jesus",
+            "Egg"
+        ]
+    },
+    {
+        "word": "Bride",
+        "forbidden": [
+            "Groom",
+            "Marriage",
+            "Gown",
+            "Wedding",
+            "White"
+        ]
+    },
+    {
+        "word": "Holy",
+        "forbidden": [
+            "Consecrated",
+            "Bible",
+            "Spirit",
+            "Pure",
+            "God"
+        ]
+    },
+    {
+        "word": "Sin",
+        "forbidden": [
+            "Wrong",
+            "Law",
+            "Bad",
+            "Disobey",
+            "Forgive"
+        ]
+    },
+    {
+        "word": "Joshua",
+        "forbidden": [
+            "Canaan",
+            "Land",
+            "Army",
+            "Moses",
+            "Caleb"
+        ]
+    },
+    {
+        "word": "Crucify",
+        "forbidden": [
+            "Cross",
+            "Jesus",
+            "Die",
+            "Calvary",
+            "Nail"
+        ]
+    },
+    {
+        "word": "Slave",
+        "forbidden": [
+            "Israel",
+            "Egypt",
+            "Joseph",
+            "Moses",
+            "Pharaoh"
+        ]
+    },
+    {
+        "word": "Teacher",
+        "forbidden": [
+            "Law",
+            "Rabbi",
+            "Jesus",
+            "School",
+            "Instructor"
+        ]
+    },
+    {
+        "word": "Disciple",
+        "forbidden": [
+            "Apostle",
+            "John",
+            "Follower",
+            "Peter",
+            "Jesus"
+        ]
+    },
+    {
+        "word": "Heal",
+        "forbidden": [
+            "Jesus",
+            "Sick",
+            "Dead",
+            "Blind",
+            "Miracle"
+        ]
+    },
+    {
+        "word": "Well",
+        "forbidden": [
+            "Jew",
+            "Water",
+            "Samaria",
+            "Woman",
+            "Drink"
+        ]
+    },
+    {
+        "word": "Olive",
+        "forbidden": [
+            "Food",
+            "Eat",
+            "Tree",
+            "Oil",
+            "Mount"
+        ]
+    },
+    {
+        "word": "Giant",
+        "forbidden": [
+            "Big",
+            "David",
+            "Goliath",
+            "Kill",
+            "Stone"
+        ]
+    },
+    {
+        "word": "Naaman",
+        "forbidden": [
+            "Jordan",
+            "Heal",
+            "Syria",
+            "Leper",
+            "Elijah"
+        ]
+    },
+    {
+        "word": "Boaz",
+        "forbidden": [
+            "Redeem",
+            "Glean",
+            "Ruth",
+            "Naomi",
+            "Field"
+        ]
+    },
+    {
+        "word": "Barnabas",
+        "forbidden": [
+            "Encourage",
+            "Jail",
+            "Paul",
+            "Philippians",
+            "Acts"
+        ]
+    },
+    {
+        "word": "Deuteronomy",
+        "forbidden": [
+            "Law",
+            "Bible",
+            "Testament",
+            "Book",
+            "Moses"
+        ]
+    },
+    {
+        "word": "Queen",
+        "forbidden": [
+            "Woman",
+            "Haman",
+            "Esther",
+            "Mordecai",
+            "King"
+        ]
+    },
+    {
+        "word": "Death",
+        "forbidden": [
+            "Grave",
+            "Breathe",
+            "Jesus",
+            "Life",
+            "Die"
+        ]
+    },
+    {
+        "word": "Nehemiah",
+        "forbidden": [
+            "Build",
+            "Ezra",
+            "Jerusalem",
+            "Wall",
+            "Babylon"
+        ]
+    },
+    {
+        "word": "Wilderness",
+        "forbidden": [
+            "Exodus",
+            "Canaan",
+            "Moses",
+            "Egypt",
+            "Desert"
+        ]
+    },
+    {
+        "word": "Sermon",
+        "forbidden": [
+            "Preach",
+            "Message",
+            "Pastor",
+            "Church",
+            "Talk"
+        ]
+    },
+    {
+        "word": "Gabriel",
+        "forbidden": [
+            "Mary",
+            "Announce",
+            "Shepherd",
+            "Angel",
+            "Wing"
+        ]
+    },
+    {
+        "word": "Sinner",
+        "forbidden": [
+            "Grace",
+            "People",
+            "Forgiven",
+            "All",
+            "Bad"
+        ]
+    },
+    {
+        "word": "Paradise",
+        "forbidden": [
+            "Perfect",
+            "Happy",
+            "Thief",
+            "Heaven",
+            "Today"
+        ]
+    },
+    {
+        "word": "Zacchaeus",
+        "forbidden": [
+            "Jesus",
+            "Tree",
+            "See",
+            "Short",
+            "Sycamore"
+        ]
+    },
+    {
+        "word": "Devil",
+        "forbidden": [
+            "Lucifer",
+            "Horns",
+            "Evil",
+            "Satan",
+            "Hell"
+        ]
+    },
+    {
+        "word": "Nail",
+        "forbidden": [
+            "Crucify",
+            "Hand",
+            "Cross",
+            "Hammer",
+            "Jesus"
+        ]
+    },
+    {
+        "word": "Church",
+        "forbidden": [
+            "Temple",
+            "Christian",
+            "Sunday",
+            "Group",
+            "Chapel"
+        ]
+    },
+    {
+        "word": "Mephibosheth",
+        "forbidden": [
+            "Jonathan",
+            "Son",
+            "Saul",
+            "David",
+            "Feet"
+        ]
+    },
+    {
+        "word": "Kingdom",
+        "forbidden": [
+            "Ruler",
+            "Land",
+            "Israel",
+            "Crown",
+            "King"
+        ]
+    },
+    {
+        "word": "Pharaoh",
+        "forbidden": [
+            "King",
+            "Sea",
+            "Slave",
+            "Egypt",
+            "Moses"
+        ]
+    },
+    {
+        "word": "Abraham",
+        "forbidden": [
+            "Sarah",
+            "Ishmael",
+            "Isaac",
+            "Old",
+            "Father"
+        ]
+    },
+    {
+        "word": "Worship",
+        "forbidden": [
+            "Sing",
+            "Praise",
+            "God",
+            "Church",
+            "Temple"
+        ]
+    },
+    {
+        "word": "Epistle",
+        "forbidden": [
+            "Paul",
+            "Church",
+            "Bible",
+            "Letter",
+            "Testament"
+        ]
+    },
+    {
+        "word": "Transfiguration",
+        "forbidden": [
+            "Mount",
+            "Bright",
+            "Glory",
+            "Jesus",
+            "Shine"
+        ]
+    },
+    {
+        "word": "Twelve",
+        "forbidden": [
+            "Israel",
+            "Dozen",
+            "Followers",
+            "Apostles",
+            "Tribe"
+        ]
+    },
+    {
+        "word": "Mary",
+        "forbidden": [
+            "Mother",
+            "Joseph",
+            "Martha",
+            "Jesus",
+            "Bethlehem"
+        ]
+    },
+    {
+        "word": "Jerusalem",
+        "forbidden": [
+            "David",
+            "Israel",
+            "Capital",
+            "Land",
+            "City"
+        ]
+    },
+    {
+        "word": "Rome",
+        "forbidden": [
+            "Paul",
+            "Pilate",
+            "King",
+            "Caesar",
+            "Italy"
+        ]
+    },
+    {
+        "word": "Vanity",
+        "forbidden": [
+            "Book",
+            "Solomon",
+            "Bible",
+            "Ecclesiastes",
+            "Meaningless"
+        ]
+    },
+    {
+        "word": "Baptize",
+        "forbidden": [
+            "Immersion",
+            "Sprinkle",
+            "Water",
+            "Jordan",
+            "John"
+        ]
+    },
+    {
+        "word": "Lydia",
+        "forbidden": [
+            "Purple",
+            "Sell",
+            "Woman",
+            "Saved",
+            "Paul"
+        ]
+    },
+    {
+        "word": "Priest",
+        "forbidden": [
+            "Holy",
+            "Levi",
+            "Sacrifice",
+            "Tabernacle",
+            "Temple"
+        ]
+    },
+    {
+        "word": "Creation",
+        "forbidden": [
+            "Earth",
+            "Create",
+            "Genesis",
+            "Beginning",
+            "Heaven"
+        ]
+    },
+    {
+        "word": "Vinyard",
+        "forbidden": [
+            "Wine",
+            "Garden",
+            "Farm",
+            "Grape",
+            "Juice"
+        ]
+    },
+    {
+        "word": "Pure",
+        "forbidden": [
+            "Clean",
+            "Separate",
+            "Refined",
+            "God",
+            "Holy"
+        ]
+    },
+    {
+        "word": "Sheep",
+        "forbidden": [
+            "Lost",
+            "Shepherd",
+            "Lamb",
+            "Stray",
+            "Animal"
+        ]
+    },
+    {
+        "word": "Abednego",
+        "forbidden": [
+            "Meshach",
+            "Furnace",
+            "Shadrach",
+            "Babylon",
+            "Daniel"
+        ]
+    },
+    {
+        "word": "Salt",
+        "forbidden": [
+            "Lot's Wife",
+            "Food",
+            "Pepper",
+            "Sea",
+            "Light"
+        ]
+    },
+    {
+        "word": "Wine",
+        "forbidden": [
+            "Drink",
+            "Grape",
+            "Bread",
+            "New",
+            "Communion"
+        ]
+    },
+    {
+        "word": "Cost",
+        "forbidden": [
+            "Price",
+            "Buy",
+            "Purchase",
+            "Redeem",
+            "Save"
+        ]
+    },
+    {
+        "word": "Isaac",
+        "forbidden": [
+            "Abraham",
+            "Son",
+            "Jacob",
+            "Esau",
+            "Sarah"
+        ]
+    },
+    {
+        "word": "Song",
+        "forbidden": [
+            "Sing",
+            "Music",
+            "Hymn",
+            "Solomon",
+            "Psalm"
+        ]
+    },
+    {
+        "word": "Bush",
+        "forbidden": [
+            "Moses",
+            "Green",
+            "Leaves",
+            "Burning",
+            "Plant"
+        ]
+    },
+    {
+        "word": "Earth",
+        "forbidden": [
+            "Planet",
+            "Created",
+            "Ground",
+            "God",
+            "Globe"
+        ]
+    },
+    {
+        "word": "Jezebel",
+        "forbidden": [
+            "Elisha",
+            "Fire",
+            "Elijah",
+            "Prophet",
+            "Rain"
+        ]
+    },
+    {
+        "word": "Goliath",
+        "forbidden": [
+            "Kill",
+            "David",
+            "Sling",
+            "Philistine",
+            "Giant"
+        ]
+    },
+    {
+        "word": "Parchment",
+        "forbidden": [
+            "Write",
+            "Document",
+            "Letter",
+            "Paper",
+            "Skin"
+        ]
+    },
+    {
+        "word": "Lazarus",
+        "forbidden": [
+            "Mary",
+            "Dead",
+            "Beggar",
+            "Rich",
+            "Jesus"
+        ]
+    },
+    {
+        "word": "Bible",
+        "forbidden": [
+            "Scripture",
+            "Holy",
+            "Book",
+            "Testament",
+            "Inspired"
+        ]
+    },
+    {
+        "word": "Gospel",
+        "forbidden": [
+            "Preach",
+            "News",
+            "Evangelize",
+            "Salvation",
+            "Good"
+        ]
+    },
+    {
+        "word": "Sycamore",
+        "forbidden": [
+            "Zacchaeus",
+            "Jesus",
+            "Jericho",
+            "Tree",
+            "Climb"
+        ]
+    },
+    {
+        "word": "Old Testament",
+        "forbidden": [
+            "Genesis",
+            "Scripture",
+            "Bible",
+            "New",
+            "Books"
+        ]
+    },
+    {
+        "word": "Rabbi",
+        "forbidden": [
+            "Jew",
+            "Law",
+            "God",
+            "Jesus",
+            "Teacher"
+        ]
+    },
+    {
+        "word": "Caesar",
+        "forbidden": [
+            "Give",
+            "Rome",
+            "Pilate",
+            "King",
+            "Coin"
+        ]
+    },
+    {
+        "word": "Caiaphas",
+        "forbidden": [
+            "Jesus",
+            "Trial",
+            "Condemn",
+            "Priest",
+            "Spit"
+        ]
+    },
+    {
+        "word": "Ancestor",
+        "forbidden": [
+            "Father",
+            "Genealogy",
+            "Family",
+            "Tree",
+            "Relative"
+        ]
+    },
+    {
+        "word": "Apocalypse",
+        "forbidden": [
+            "Show",
+            "Judgment",
+            "End",
+            "Revelation",
+            "Tribulation"
+        ]
+    },
+    {
+        "word": "Harvest",
+        "forbidden": [
+            "Field",
+            "Farm",
+            "Plentiful",
+            "Workers",
+            "Crop"
+        ]
+    },
+    {
+        "word": "Mercy",
+        "forbidden": [
+            "God",
+            "Forgive",
+            "Grace",
+            "Undeserved",
+            "Ask"
+        ]
+    },
+    {
+        "word": "Seraphim",
+        "forbidden": [
+            "Holy",
+            "Wings",
+            "Angel",
+            "God",
+            "Messenger"
+        ]
+    },
+    {
+        "word": "Condemn",
+        "forbidden": [
+            "Trial",
+            "Priest",
+            "Spit",
+            "Caiaphas",
+            "Jesus"
+        ]
+    },
+    {
+        "word": "Red Sea",
+        "forbidden": [
+            "Egypt",
+            "Moses",
+            "Exodus",
+            "Part",
+            "Cross"
+        ]
+    },
+    {
+        "word": "Passover",
+        "forbidden": [
+            "Egypt",
+            "Door",
+            "Feast",
+            "Exodus",
+            "Blood"
+        ]
+    },
+    {
+        "word": "Faith",
+        "forbidden": [
+            "Save",
+            "Believe",
+            "Hope",
+            "Trust",
+            "Grace"
+        ]
+    },
+    {
+        "word": "Scarlet",
+        "forbidden": [
+            "Red",
+            "Crimson",
+            "Sin",
+            "Color",
+            "Letter"
+        ]
+    },
+    {
+        "word": "Genesis",
+        "forbidden": [
+            "Bible",
+            "Creation",
+            "Moses",
+            "Beginning",
+            "First"
+        ]
+    },
+    {
+        "word": "Good",
+        "forbidden": [
+            "God",
+            "Righteous",
+            "News",
+            "Evil",
+            "Bad"
+        ]
+    },
+    {
+        "word": "John",
+        "forbidden": [
+            "Baptize",
+            "Locusts",
+            "Jesus",
+            "Gospel",
+            "Disciple"
+        ]
+    },
+    {
+        "word": "Deacon",
+        "forbidden": [
+            "Church",
+            "Elder",
+            "Oversee",
+            "Serve",
+            "Man"
+        ]
+    },
+    {
+        "word": "Nicodemus",
+        "forbidden": [
+            "Born",
+            "Pharisee",
+            "Jesus",
+            "Night",
+            "Ruler"
+        ]
+    },
+    {
+        "word": "Honey",
+        "forbidden": [
+            "Golden",
+            "Milk",
+            "John",
+            "Baptist",
+            "Sweet"
+        ]
+    },
+    {
+        "word": "Naomi",
+        "forbidden": [
+            "Boaz",
+            "Widow",
+            "Ruth",
+            "Mother",
+            "Bethlehem"
+        ]
+    },
+    {
+        "word": "Good",
+        "forbidden": [
+            "News",
+            "Evangelize",
+            "Story",
+            "Gospel",
+            "Bad"
+        ]
+    },
+    {
+        "word": "Romans",
+        "forbidden": [
+            "Jail",
+            "Caesar",
+            "Bible",
+            "Book",
+            "Paul"
+        ]
+    },
+    {
+        "word": "Canaan",
+        "forbidden": [
+            "Milk",
+            "Land",
+            "Egypt",
+            "Promise",
+            "Joshua"
+        ]
+    },
+    {
+        "word": "Snake",
+        "forbidden": [
+            "Eden",
+            "Bite",
+            "Moses",
+            "Serpent",
+            "Eve"
+        ]
+    },
+    {
+        "word": "Leah",
+        "forbidden": [
+            "Jacob",
+            "Laban",
+            "Sister",
+            "Wife",
+            "Rachel"
+        ]
+    },
+    {
+        "word": "Daniel",
+        "forbidden": [
+            "Den",
+            "Exile",
+            "Babylon",
+            "Lion",
+            "Shadrach"
+        ]
+    },
+    {
+        "word": "Elisha",
+        "forbidden": [
+            "Elijah",
+            "Bald",
+            "Heaven",
+            "Prophet",
+            "Ahab"
+        ]
+    },
+    {
+        "word": "Prophet",
+        "forbidden": [
+            "Preach",
+            "Isaiah",
+            "Predict",
+            "Jeremiah",
+            "Holy"
+        ]
+    },
+    {
+        "word": "Son of Man",
+        "forbidden": [
+            "Name",
+            "Child",
+            "Christ",
+            "Jesus",
+            "God"
+        ]
+    },
+    {
+        "word": "Jordan",
+        "forbidden": [
+            "Naaman",
+            "Cross",
+            "Baptize",
+            "Water",
+            "River"
+        ]
+    },
+    {
+        "word": "Emmanuel",
+        "forbidden": [
+            "Name",
+            "Jesus",
+            "Christ",
+            "God",
+            "Promise"
+        ]
+    },
+    {
+        "word": "Lot's Wife",
+        "forbidden": [
+            "Brimstone",
+            "Look",
+            "Sodom",
+            "Fire",
+            "Salt"
+        ]
+    },
+    {
+        "word": "Jew",
+        "forbidden": [
+            "Abraham",
+            "Israel",
+            "Chosen",
+            "Hebrews",
+            "Gentile"
+        ]
+    },
+    {
+        "word": "Israel",
+        "forbidden": [
+            "Twelve",
+            "Land",
+            "Jacob",
+            "Tribes",
+            "Country"
+        ]
+    },
+    {
+        "word": "Pearl",
+        "forbidden": [
+            "Price",
+            "Oyster",
+            "Jewel",
+            "Swine",
+            "Cost"
+        ]
+    },
+    {
+        "word": "Sodom",
+        "forbidden": [
+            "Lot",
+            "Fire",
+            "City",
+            "Abraham",
+            "Gomorrah"
+        ]
+    },
+    {
+        "word": "Ai",
+        "forbidden": [
+            "Jericho",
+            "Achan",
+            "Gold",
+            "Joshua",
+            "Sin"
+        ]
+    },
+    {
+        "word": "Preach",
+        "forbidden": [
+            "Talk",
+            "Announce",
+            "Church",
+            "Pastor",
+            "Sermon"
+        ]
+    },
+    {
+        "word": "Brother",
+        "forbidden": [
+            "Son",
+            "Sibling",
+            "Male",
+            "Sister",
+            "Family"
+        ]
+    },
+    {
+        "word": "Family",
+        "forbidden": [
+            "Brother",
+            "Siblings",
+            "Church",
+            "Parents",
+            "Sister"
+        ]
+    },
+    {
+        "word": "Sing",
+        "forbidden": [
+            "Song",
+            "Psalm",
+            "Hymn",
+            "Music",
+            "Praise"
+        ]
+    },
+    {
+        "word": "Statue",
+        "forbidden": [
+            "Carve",
+            "God",
+            "Worship",
+            "Idol",
+            "Stone"
+        ]
+    },
+    {
+        "word": "Gideon",
+        "forbidden": [
+            "Sheepskin",
+            "Israel",
+            "God",
+            "Judge",
+            "Army"
+        ]
+    },
+    {
+        "word": "Strong",
+        "forbidden": [
+            "Delilah",
+            "Samson",
+            "Powerful",
+            "Hair",
+            "Weak"
+        ]
+    },
+    {
+        "word": "Evangelist",
+        "forbidden": [
+            "Man",
+            "Disciple",
+            "Announce",
+            "Preach",
+            "Gospel"
+        ]
+    },
+    {
+        "word": "Wife",
+        "forbidden": [
+            "Married",
+            "Woman",
+            "Mary",
+            "Husband",
+            "Rachel"
+        ]
+    },
+    {
+        "word": "Palestine",
+        "forbidden": [
+            "Promise",
+            "Jew",
+            "Israel",
+            "Land",
+            "County"
+        ]
+    },
+    {
+        "word": "Wrong",
+        "forbidden": [
+            "Disobey",
+            "Sin",
+            "Bad",
+            "Right",
+            "Incorrect"
+        ]
+    },
+    {
+        "word": "Jeremiah",
+        "forbidden": [
+            "Isaiah",
+            "Israel",
+            "Book",
+            "Old",
+            "Prophet"
+        ]
+    },
+    {
+        "word": "Tribe",
+        "forbidden": [
+            "Twelve",
+            "Israel",
+            "Group",
+            "Jew",
+            "Jacob"
+        ]
+    },
+    {
+        "word": "Benjamin",
+        "forbidden": [
+            "Jacob",
+            "Son",
+            "Tribe",
+            "Young",
+            "Israel"
+        ]
+    },
+    {
+        "word": "Manna",
+        "forbidden": [
+            "Desert",
+            "Moses",
+            "Bread",
+            "Exodus",
+            "Quail"
+        ]
+    },
+    {
+        "word": "Offering",
+        "forbidden": [
+            "Altar",
+            "Lamb",
+            "Sacrifice",
+            "Animal",
+            "Burnt"
+        ]
+    },
+    {
+        "word": "Aaron",
+        "forbidden": [
+            "Moses",
+            "Sacrifice",
+            "Priest",
+            "Miriam",
+            "Brother"
+        ]
+    },
+    {
+        "word": "Mount",
+        "forbidden": [
+            "Zion",
+            "Sermon",
+            "Sinai",
+            "Hill",
+            "Olives"
+        ]
+    },
+    {
+        "word": "Synagogue",
+        "forbidden": [
+            "Church",
+            "Meet",
+            "Read",
+            "Jew",
+            "Sabbath"
+        ]
+    },
+    {
+        "word": "Magi",
+        "forbidden": [
+            "Star",
+            "Jesus",
+            "Wise",
+            "Christmas",
+            "East"
+        ]
+    },
+    {
+        "word": "Salvation",
+        "forbidden": [
+            "Heaven",
+            "Forgive",
+            "Gift",
+            "Sin",
+            "Save"
+        ]
+    },
+    {
+        "word": "Hymn",
+        "forbidden": [
+            "Psalm",
+            "Book",
+            "Church",
+            "Old",
+            "Song"
+        ]
+    },
+    {
+        "word": "Kinsman",
+        "forbidden": [
+            "Ruth",
+            "Redeem",
+            "Glean",
+            "Relative",
+            "Boaz"
+        ]
+    },
+    {
+        "word": "Children",
+        "forbidden": [
+            "Kids",
+            "Obey",
+            "Sons",
+            "Daughters",
+            "Parents"
+        ]
+    },
+    {
+        "word": "Luke",
+        "forbidden": [
+            "Jesus",
+            "Doctor",
+            "Gospel",
+            "Acts",
+            "Book"
+        ]
+    },
+    {
+        "word": "Covenant",
+        "forbidden": [
+            "Agreement",
+            "Rainbow",
+            "Testament",
+            "Promise",
+            "Old"
+        ]
+    },
+    {
+        "word": "Frankincense",
+        "forbidden": [
+            "Wise",
+            "Gift",
+            "Christmas",
+            "Jesus",
+            "Magi"
+        ]
+    },
+    {
+        "word": "Inspiration",
+        "forbidden": [
+            "Spirit",
+            "Breath",
+            "Idea",
+            "Bible",
+            "Scripture"
+        ]
+    },
+    {
+        "word": "Yahweh",
+        "forbidden": [
+            "Father",
+            "God",
+            "Hebrew",
+            "Jehovah",
+            "Lord"
+        ]
+    },
+    {
+        "word": "Solomon",
+        "forbidden": [
+            "David",
+            "Temple",
+            "Wise",
+            "King",
+            "Proverb"
+        ]
+    },
+    {
+        "word": "Laban",
+        "forbidden": [
+            "Rachel",
+            "Jacob",
+            "Trick",
+            "Leah",
+            "Uncle"
+        ]
+    },
+    {
+        "word": "Esther",
+        "forbidden": [
+            "Jew",
+            "Woman",
+            "Mordecai",
+            "Queen",
+            "Haman"
+        ]
+    },
+    {
+        "word": "Emmaus",
+        "forbidden": [
+            "Jesus",
+            "Resurrection",
+            "Walk",
+            "Road",
+            "Sad"
+        ]
+    },
+    {
+        "word": "Dead Sea",
+        "forbidden": [
+            "River",
+            "Salt",
+            "Lake",
+            "Water",
+            "Israel"
+        ]
+    },
+    {
+        "word": "Grace",
+        "forbidden": [
+            "Faith",
+            "Favor",
+            "Free",
+            "Mercy",
+            "Save"
+        ]
+    },
+    {
+        "word": "Plague",
+        "forbidden": [
+            "Moses",
+            "Blood",
+            "Ten",
+            "Egypt",
+            "Dark"
+        ]
+    },
+    {
+        "word": "Mordecai",
+        "forbidden": [
+            "Queen",
+            "Haman",
+            "Esther",
+            "Uncle",
+            "Palace"
+        ]
+    },
+    {
+        "word": "Revelation",
+        "forbidden": [
+            "Last",
+            "John",
+            "Vision",
+            "Book",
+            "Apocalypse"
+        ]
+    },
+    {
+        "word": "Trial",
+        "forbidden": [
+            "Judge",
+            "Guilty",
+            "Condemn",
+            "Jesus",
+            "Jury"
+        ]
+    },
+    {
+        "word": "Sarah",
+        "forbidden": [
+            "Wife",
+            "Son",
+            "Abraham",
+            "Isaac",
+            "Promise"
+        ]
+    },
+    {
+        "word": "Christmas",
+        "forbidden": [
+            "Holiday",
+            "Born",
+            "Tree",
+            "Jesus",
+            "Santa"
+        ]
+    },
+    {
+        "word": "Ephesians",
+        "forbidden": [
+            "Bible",
+            "Paul",
+            "Epistle",
+            "Book",
+            "Grace"
+        ]
+    },
+    {
+        "word": "Golgotha",
+        "forbidden": [
+            "Calvary",
+            "Crucified",
+            "Jesus",
+            "Died",
+            "Cross"
+        ]
+    },
+    {
+        "word": "Pinnacle",
+        "forbidden": [
+            "Tempt",
+            "Top",
+            "High",
+            "Temple",
+            "Point"
+        ]
+    },
+    {
+        "word": "Heaven",
+        "forbidden": [
+            "Pearly Gates",
+            "Die",
+            "Earth",
+            "Jesus",
+            "Eternal Life"
+        ]
+    },
+    {
+        "word": "Tarsus",
+        "forbidden": [
+            "Saul",
+            "Pharisee",
+            "Paul",
+            "Apostle",
+            "Road"
+        ]
+    },
+    {
+        "word": "Reject",
+        "forbidden": [
+            "Unbelief",
+            "Jesus",
+            "Prophet",
+            "Accept",
+            "Repent"
+        ]
+    },
+    {
+        "word": "Trinity",
+        "forbidden": [
+            "Three",
+            "Ghost",
+            "Spirit",
+            "God",
+            "Holy"
+        ]
+    },
+    {
+        "word": "Manger",
+        "forbidden": [
+            "Jesus",
+            "Birth",
+            "Animals",
+            "Bethlehem",
+            "Christ"
+        ]
+    },
+    {
+        "word": "Scripture",
+        "forbidden": [
+            "Bible",
+            "Read",
+            "Holy",
+            "Inspired",
+            "Story"
+        ]
+    },
+    {
+        "word": "Cup",
+        "forbidden": [
+            "Communion",
+            "Lord's Supper",
+            "Wine",
+            "Drink",
+            "Bread"
+        ]
+    },
+    {
+        "word": "Centurion",
+        "forbidden": [
+            "Hundred",
+            "Soldier",
+            "Fight",
+            "Rome",
+            "Leader"
+        ]
+    },
+    {
+        "word": "Furnace",
+        "forbidden": [
+            "Meshach",
+            "Shadrach",
+            "Fire",
+            "Hot",
+            "Abednego"
+        ]
+    },
+    {
+        "word": "Woman",
+        "forbidden": [
+            "Eve",
+            "Female",
+            "Rachel",
+            "Man",
+            "Mary"
+        ]
+    },
+    {
+        "word": "Nile",
+        "forbidden": [
+            "Moses",
+            "Pharaoh",
+            "River",
+            "Egypt",
+            "Blood"
+        ]
+    },
+    {
+        "word": "Jonah",
+        "forbidden": [
+            "Fish",
+            "Whale",
+            "Nineveh",
+            "Repent",
+            "Swallow"
+        ]
+    },
+    {
+        "word": "Shadrach",
+        "forbidden": [
+            "Abednego",
+            "Fire",
+            "Meshach",
+            "Daniel",
+            "Furnace"
+        ]
+    },
+    {
+        "word": "Jesus",
+        "forbidden": [
+            "Lord",
+            "Son",
+            "Mary",
+            "God",
+            "Christ"
+        ]
+    },
+    {
+        "word": "Sword",
+        "forbidden": [
+            "Jesus",
+            "Peter",
+            "Ear",
+            "Malchus",
+            "Blade"
+        ]
+    },
+    {
+        "word": "Bathsheba",
+        "forbidden": [
+            "Nathan",
+            "David",
+            "Uriah",
+            "Sin",
+            "Prophet"
+        ]
+    },
+    {
+        "word": "Leper",
+        "forbidden": [
+            "Jesus",
+            "Healed",
+            "Naaman",
+            "Disease",
+            "Unclean"
+        ]
+    },
+    {
+        "word": "Thomas",
+        "forbidden": [
+            "Jesus",
+            "Believe",
+            "Doubt",
+            "Disciple",
+            "Finger"
+        ]
+    },
+    {
+        "word": "Ruler",
+        "forbidden": [
+            "Nicodemus",
+            "Jesus",
+            "Herod",
+            "King",
+            "Leader"
+        ]
+    },
+    {
+        "word": "Oath",
+        "forbidden": [
+            "Covenant",
+            "Break",
+            "Promise",
+            "Vow",
+            "Swear"
+        ]
+    },
+    {
+        "word": "Exodus",
+        "forbidden": [
+            "Egypt",
+            "Pharaoh",
+            "Desert",
+            "Moses",
+            "Cross"
+        ]
+    },
+    {
+        "word": "Shepherd",
+        "forbidden": [
+            "Jesus",
+            "Birth",
+            "Sheep",
+            "Care",
+            "Lamb"
+        ]
+    },
+    {
+        "word": "Law",
+        "forbidden": [
+            "Moses",
+            "Testament",
+            "Deuteronomy",
+            "Break",
+            "Rules"
+        ]
+    },
+    {
+        "word": "Enoch",
+        "forbidden": [
+            "Walk",
+            "God",
+            "Taken",
+            "Heaven",
+            "Methuselah"
+        ]
+    },
+    {
+        "word": "Methuselah",
+        "forbidden": [
+            "Old",
+            "Years",
+            "Age",
+            "Enoch",
+            "Noah"
+        ]
+    },
+    {
+        "word": "Nimrod",
+        "forbidden": [
+            "Hunter",
+            "Mighty",
+            "Babel",
+            "Tower",
+            "Build"
+        ]
+    },
+    {
+        "word": "Shem",
+        "forbidden": [
+            "Noah",
+            "Son",
+            "Ham",
+            "Japheth",
+            "Ark"
+        ]
+    },
+    {
+        "word": "Hagar",
+        "forbidden": [
+            "Sarah",
+            "Ishmael",
+            "Egyptian",
+            "Servant",
+            "Desert"
+        ]
+    },
+    {
+        "word": "Zipporah",
+        "forbidden": [
+            "Moses",
+            "Wife",
+            "Midian",
+            "Jethro",
+            "Shepherd"
+        ]
+    },
+    {
+        "word": "Jethro",
+        "forbidden": [
+            "Moses",
+            "Midian",
+            "Priest",
+            "Advice",
+            "Judges"
+        ]
+    },
+    {
+        "word": "Caleb",
+        "forbidden": [
+            "Spy",
+            "Joshua",
+            "Land",
+            "Faithful",
+            "Mountain"
+        ]
+    },
+    {
+        "word": "Ehud",
+        "forbidden": [
+            "Judge",
+            "Left",
+            "Hand",
+            "Eglon",
+            "Dagger"
+        ]
+    },
+    {
+        "word": "Jael",
+        "forbidden": [
+            "Tent",
+            "Peg",
+            "Sisera",
+            "Hammer",
+            "Woman"
+        ]
+    },
+    {
+        "word": "Barak",
+        "forbidden": [
+            "Deborah",
+            "Sisera",
+            "Battle",
+            "Army",
+            "Judge"
+        ]
+    },
+    {
+        "word": "Jephthah",
+        "forbidden": [
+            "Vow",
+            "Daughter",
+            "Judge",
+            "Gilead",
+            "Foolish"
+        ]
+    },
+    {
+        "word": "Eli",
+        "forbidden": [
+            "Priest",
+            "Samuel",
+            "Sons",
+            "Shiloh",
+            "Fall"
+        ]
+    },
+    {
+        "word": "Hannah",
+        "forbidden": [
+            "Samuel",
+            "Pray",
+            "Barren",
+            "Vow",
+            "Mother"
+        ]
+    },
+    {
+        "word": "Jesse",
+        "forbidden": [
+            "David",
+            "Father",
+            "Bethlehem",
+            "Sons",
+            "Root"
+        ]
+    },
+    {
+        "word": "Michal",
+        "forbidden": [
+            "David",
+            "Wife",
+            "Saul",
+            "Daughter",
+            "Window"
+        ]
+    },
+    {
+        "word": "Abner",
+        "forbidden": [
+            "Saul",
+            "Commander",
+            "Army",
+            "Joab",
+            "General"
+        ]
+    },
+    {
+        "word": "Joab",
+        "forbidden": [
+            "David",
+            "Commander",
+            "Army",
+            "Absalom",
+            "General"
+        ]
+    },
+    {
+        "word": "Absalom",
+        "forbidden": [
+            "Hair",
+            "David",
+            "Son",
+            "Rebel",
+            "Tree"
+        ]
+    },
+    {
+        "word": "Uriah",
+        "forbidden": [
+            "Bathsheba",
+            "Hittite",
+            "Battle",
+            "David",
+            "Husband"
+        ]
+    },
+    {
+        "word": "Adonijah",
+        "forbidden": [
+            "David",
+            "Son",
+            "King",
+            "Solomon",
+            "Rebel"
+        ]
+    },
+    {
+        "word": "Rehoboam",
+        "forbidden": [
+            "Solomon",
+            "Son",
+            "King",
+            "Divide",
+            "Advice"
+        ]
+    },
+    {
+        "word": "Jeroboam",
+        "forbidden": [
+            "King",
+            "Israel",
+            "Golden",
+            "Calves",
+            "North"
+        ]
+    },
+    {
+        "word": "Asa",
+        "forbidden": [
+            "King",
+            "Judah",
+            "Good",
+            "Idols",
+            "Remove"
+        ]
+    },
+    {
+        "word": "Jehoshaphat",
+        "forbidden": [
+            "King",
+            "Judah",
+            "Battle",
+            "Sing",
+            "Ahab"
+        ]
+    },
+    {
+        "word": "Hezekiah",
+        "forbidden": [
+            "King",
+            "Judah",
+            "Sick",
+            "Sundial",
+            "Isaiah"
+        ]
+    },
+    {
+        "word": "Josiah",
+        "forbidden": [
+            "King",
+            "Young",
+            "Book",
+            "Law",
+            "Temple"
+        ]
+    },
+    {
+        "word": "Zedekiah",
+        "forbidden": [
+            "King",
+            "Last",
+            "Judah",
+            "Babylon",
+            "Blind"
+        ]
+    },
+    {
+        "word": "Gehazi",
+        "forbidden": [
+            "Elisha",
+            "Servant",
+            "Naaman",
+            "Leprosy",
+            "Greed"
+        ]
+    },
+    {
+        "word": "Obed",
+        "forbidden": [
+            "Ruth",
+            "Boaz",
+            "Son",
+            "Jesse",
+            "Grandfather"
+        ]
+    },
+    {
+        "word": "Vashti",
+        "forbidden": [
+            "Queen",
+            "Esther",
+            "Refuse",
+            "Banquet",
+            "King"
+        ]
+    },
+    {
+        "word": "Haman",
+        "forbidden": [
+            "Esther",
+            "Mordecai",
+            "Gallows",
+            "Plot",
+            "Wicked"
+        ]
+    },
+    {
+        "word": "Cyrus",
+        "forbidden": [
+            "Persia",
+            "King",
+            "Decree",
+            "Return",
+            "Temple"
+        ]
+    },
+    {
+        "word": "Darius",
+        "forbidden": [
+            "Persia",
+            "King",
+            "Daniel",
+            "Lions",
+            "Law"
+        ]
+    },
+    {
+        "word": "Belshazzar",
+        "forbidden": [
+            "Writing",
+            "Wall",
+            "Feast",
+            "Babylon",
+            "Fingers"
+        ]
+    },
+    {
+        "word": "Isaiah",
+        "forbidden": [
+            "Prophet",
+            "Book",
+            "Virgin",
+            "Coal",
+            "Vision"
+        ]
+    },
+    {
+        "word": "Ezekiel",
+        "forbidden": [
+            "Prophet",
+            "Bones",
+            "Wheel",
+            "Vision",
+            "Valley"
+        ]
+    },
+    {
+        "word": "Hosea",
+        "forbidden": [
+            "Prophet",
+            "Gomer",
+            "Wife",
+            "Unfaithful",
+            "Book"
+        ]
+    },
+    {
+        "word": "Joel",
+        "forbidden": [
+            "Prophet",
+            "Locusts",
+            "Book",
+            "Spirit",
+            "Pour"
+        ]
+    },
+    {
+        "word": "Amos",
+        "forbidden": [
+            "Prophet",
+            "Shepherd",
+            "Book",
+            "Justice",
+            "Plumb"
+        ]
+    },
+    {
+        "word": "Obadiah",
+        "forbidden": [
+            "Prophet",
+            "Book",
+            "Edom",
+            "Short",
+            "Chapter"
+        ]
+    },
+    {
+        "word": "Micah",
+        "forbidden": [
+            "Prophet",
+            "Bethlehem",
+            "Book",
+            "Justly",
+            "Walk"
+        ]
+    },
+    {
+        "word": "Nahum",
+        "forbidden": [
+            "Prophet",
+            "Nineveh",
+            "Book",
+            "Judgment",
+            "Comfort"
+        ]
+    },
+    {
+        "word": "Habakkuk",
+        "forbidden": [
+            "Prophet",
+            "Book",
+            "Watchtower",
+            "Faith",
+            "Question"
+        ]
+    },
+    {
+        "word": "Zephaniah",
+        "forbidden": [
+            "Prophet",
+            "Book",
+            "Day",
+            "Lord",
+            "Judgment"
+        ]
+    },
+    {
+        "word": "Haggai",
+        "forbidden": [
+            "Prophet",
+            "Temple",
+            "Rebuild",
+            "Book",
+            "House"
+        ]
+    },
+    {
+        "word": "Malachi",
+        "forbidden": [
+            "Prophet",
+            "Book",
+            "Last",
+            "Tithe",
+            "Messenger"
+        ]
+    },
+    {
+        "word": "Zerubbabel",
+        "forbidden": [
+            "Temple",
+            "Rebuild",
+            "Governor",
+            "Return",
+            "Foundation"
+        ]
+    },
+    {
+        "word": "Melchizedek",
+        "forbidden": [
+            "Priest",
+            "King",
+            "Salem",
+            "Abraham",
+            "Bread"
+        ]
+    },
+    {
+        "word": "Reuben",
+        "forbidden": [
+            "Firstborn",
+            "Jacob",
+            "Tribe",
+            "Joseph",
+            "Pit"
+        ]
+    },
+    {
+        "word": "Dan",
+        "forbidden": [
+            "Tribe",
+            "Jacob",
+            "Son",
+            "North",
+            "Judge"
+        ]
+    },
+    {
+        "word": "Gad",
+        "forbidden": [
+            "Tribe",
+            "Jacob",
+            "Son",
+            "Jordan",
+            "East"
+        ]
+    },
+    {
+        "word": "Asher",
+        "forbidden": [
+            "Tribe",
+            "Jacob",
+            "Son",
+            "Happy",
+            "Blessed"
+        ]
+    },
+    {
+        "word": "Naphtali",
+        "forbidden": [
+            "Tribe",
+            "Jacob",
+            "Son",
+            "Deer",
+            "Galilee"
+        ]
+    },
+    {
+        "word": "Zebulun",
+        "forbidden": [
+            "Tribe",
+            "Jacob",
+            "Son",
+            "Sea",
+            "Ships"
+        ]
+    },
+    {
+        "word": "Issachar",
+        "forbidden": [
+            "Tribe",
+            "Jacob",
+            "Son",
+            "Donkey",
+            "Times"
+        ]
+    },
+    {
+        "word": "Manasseh",
+        "forbidden": [
+            "Joseph",
+            "Son",
+            "Tribe",
+            "Ephraim",
+            "Firstborn"
+        ]
+    },
+    {
+        "word": "Ephraim",
+        "forbidden": [
+            "Joseph",
+            "Son",
+            "Tribe",
+            "Manasseh",
+            "Blessing"
+        ]
+    },
+    {
+        "word": "Dinah",
+        "forbidden": [
+            "Jacob",
+            "Daughter",
+            "Leah",
+            "Shechem",
+            "Sister"
+        ]
+    },
+    {
+        "word": "Balak",
+        "forbidden": [
+            "Moab",
+            "King",
+            "Balaam",
+            "Curse",
+            "Israel"
+        ]
+    },
+    {
+        "word": "Korah",
+        "forbidden": [
+            "Rebel",
+            "Moses",
+            "Earth",
+            "Swallow",
+            "Levite"
+        ]
+    },
+    {
+        "word": "Bezalel",
+        "forbidden": [
+            "Craftsman",
+            "Tabernacle",
+            "Build",
+            "Skill",
+            "Spirit"
+        ]
+    },
+    {
+        "word": "Phinehas",
+        "forbidden": [
+            "Priest",
+            "Aaron",
+            "Grandson",
+            "Zeal",
+            "Spear"
+        ]
+    },
+    {
+        "word": "Shunammite",
+        "forbidden": [
+            "Woman",
+            "Elisha",
+            "Room",
+            "Son",
+            "Raise"
+        ]
+    },
+    {
+        "word": "Naboth",
+        "forbidden": [
+            "Vineyard",
+            "Ahab",
+            "Jezebel",
+            "Stones",
+            "Refuse"
+        ]
+    },
+    {
+        "word": "Jehu",
+        "forbidden": [
+            "King",
+            "Drive",
+            "Furious",
+            "Jezebel",
+            "Chariot"
+        ]
+    },
+    {
+        "word": "Athaliah",
+        "forbidden": [
+            "Queen",
+            "Wicked",
+            "Judah",
+            "Joash",
+            "Grandmother"
+        ]
+    },
+    {
+        "word": "Joash",
+        "forbidden": [
+            "King",
+            "Young",
+            "Seven",
+            "Temple",
+            "Repair"
+        ]
+    },
+    {
+        "word": "Uzziah",
+        "forbidden": [
+            "King",
+            "Leprosy",
+            "Pride",
+            "Incense",
+            "Temple"
+        ]
+    },
+    {
+        "word": "Baruch",
+        "forbidden": [
+            "Jeremiah",
+            "Scribe",
+            "Scroll",
+            "Write",
+            "Read"
+        ]
+    },
+    {
+        "word": "Leviathan",
+        "forbidden": [
+            "Sea",
+            "Monster",
+            "Job",
+            "Great",
+            "Creature"
+        ]
+    },
+    {
+        "word": "Ichabod",
+        "forbidden": [
+            "Glory",
+            "Departed",
+            "Eli",
+            "Ark",
+            "Name"
+        ]
+    },
+    {
+        "word": "Ahasuerus",
+        "forbidden": [
+            "Esther",
+            "King",
+            "Persia",
+            "Banquet",
+            "Vashti"
+        ]
+    },
+    {
+        "word": "Artaxerxes",
+        "forbidden": [
+            "King",
+            "Nehemiah",
+            "Persia",
+            "Cupbearer",
+            "Letters"
+        ]
+    },
+    {
+        "word": "Sanballat",
+        "forbidden": [
+            "Nehemiah",
+            "Oppose",
+            "Mock",
+            "Wall",
+            "Enemy"
+        ]
+    },
+    {
+        "word": "Cupbearer",
+        "forbidden": [
+            "Nehemiah",
+            "King",
+            "Wine",
+            "Taste",
+            "Serve"
+        ]
+    },
+    {
+        "word": "Eliezer",
+        "forbidden": [
+            "Servant",
+            "Abraham",
+            "Rebekah",
+            "Camels",
+            "Well"
+        ]
+    },
+    {
+        "word": "Jochebed",
+        "forbidden": [
+            "Moses",
+            "Mother",
+            "Basket",
+            "Hide",
+            "Nile"
+        ]
+    },
+    {
+        "word": "Midwives",
+        "forbidden": [
+            "Hebrew",
+            "Babies",
+            "Pharaoh",
+            "Fear",
+            "Save"
+        ]
+    },
+    {
+        "word": "Eglon",
+        "forbidden": [
+            "King",
+            "Moab",
+            "Fat",
+            "Ehud",
+            "Dagger"
+        ]
+    },
+    {
+        "word": "Sisera",
+        "forbidden": [
+            "Jael",
+            "Tent",
+            "Peg",
+            "Captain",
+            "Deborah"
+        ]
+    },
+    {
+        "word": "Abimelech",
+        "forbidden": [
+            "Gideon",
+            "Son",
+            "Kill",
+            "Tower",
+            "Stone"
+        ]
+    },
+    {
+        "word": "Orpah",
+        "forbidden": [
+            "Naomi",
+            "Ruth",
+            "Return",
+            "Moab",
+            "Kiss"
+        ]
+    },
+    {
+        "word": "Zadok",
+        "forbidden": [
+            "Priest",
+            "David",
+            "Solomon",
+            "Anoint",
+            "Faithful"
+        ]
+    },
+    {
+        "word": "Hiram",
+        "forbidden": [
+            "Tyre",
+            "King",
+            "Cedar",
+            "Temple",
+            "Solomon"
+        ]
+    },
+    {
+        "word": "Andrew",
+        "forbidden": [
+            "Peter",
+            "Brother",
+            "Fisherman",
+            "Disciple",
+            "First"
+        ]
+    },
+    {
+        "word": "Philip",
+        "forbidden": [
+            "Disciple",
+            "Ethiopian",
+            "Chariot",
+            "Baptize",
+            "Run"
+        ]
+    },
+    {
+        "word": "Nathanael",
+        "forbidden": [
+            "Fig",
+            "Tree",
+            "Philip",
+            "Disciple",
+            "Israelite"
+        ]
+    },
+    {
+        "word": "Zebedee",
+        "forbidden": [
+            "James",
+            "John",
+            "Father",
+            "Boat",
+            "Nets"
+        ]
+    },
+    {
+        "word": "Zacharias",
+        "forbidden": [
+            "John",
+            "Father",
+            "Priest",
+            "Mute",
+            "Angel"
+        ]
+    },
+    {
+        "word": "Elizabeth",
+        "forbidden": [
+            "Mary",
+            "Cousin",
+            "John",
+            "Barren",
+            "Leap"
+        ]
+    },
+    {
+        "word": "Anna",
+        "forbidden": [
+            "Prophetess",
+            "Temple",
+            "Old",
+            "Widow",
+            "Baby"
+        ]
+    },
+    {
+        "word": "Simeon",
+        "forbidden": [
+            "Temple",
+            "Baby",
+            "Jesus",
+            "Depart",
+            "Promise"
+        ]
+    },
+    {
+        "word": "Baptist",
+        "forbidden": [
+            "John",
+            "Locusts",
+            "Camel",
+            "Jordan",
+            "Wilderness"
+        ]
+    },
+    {
+        "word": "Jairus",
+        "forbidden": [
+            "Daughter",
+            "Synagogue",
+            "Ruler",
+            "Jesus",
+            "Sleep"
+        ]
+    },
+    {
+        "word": "Legion",
+        "forbidden": [
+            "Demons",
+            "Pigs",
+            "Many",
+            "Tombs",
+            "Name"
+        ]
+    },
+    {
+        "word": "Cyrene",
+        "forbidden": [
+            "Simon",
+            "Cross",
+            "Carry",
+            "Jesus",
+            "Compel"
+        ]
+    },
+    {
+        "word": "Arimathea",
+        "forbidden": [
+            "Joseph",
+            "Tomb",
+            "Rich",
+            "Body",
+            "Pilate"
+        ]
+    },
+    {
+        "word": "Magdalene",
+        "forbidden": [
+            "Mary",
+            "Tomb",
+            "First",
+            "Gardener",
+            "Demons"
+        ]
+    },
+    {
+        "word": "Cleopas",
+        "forbidden": [
+            "Emmaus",
+            "Road",
+            "Two",
+            "Jesus",
+            "Eyes"
+        ]
+    },
+    {
+        "word": "Stephen",
+        "forbidden": [
+            "Martyr",
+            "Stones",
+            "First",
+            "Deacon",
+            "Saul"
+        ]
+    },
+    {
+        "word": "Cornelius",
+        "forbidden": [
+            "Centurion",
+            "Peter",
+            "Vision",
+            "Gentile",
+            "Prayer"
+        ]
+    },
+    {
+        "word": "Dorcas",
+        "forbidden": [
+            "Tabitha",
+            "Peter",
+            "Raise",
+            "Clothes",
+            "Sew"
+        ]
+    },
+    {
+        "word": "Ananias",
+        "forbidden": [
+            "Sapphira",
+            "Lie",
+            "Land",
+            "Money",
+            "Died"
+        ]
+    },
+    {
+        "word": "Sapphira",
+        "forbidden": [
+            "Ananias",
+            "Wife",
+            "Lie",
+            "Money",
+            "Died"
+        ]
+    },
+    {
+        "word": "Gamaliel",
+        "forbidden": [
+            "Teacher",
+            "Paul",
+            "Pharisee",
+            "Council",
+            "Advice"
+        ]
+    },
+    {
+        "word": "Silas",
+        "forbidden": [
+            "Paul",
+            "Prison",
+            "Sing",
+            "Earthquake",
+            "Missionary"
+        ]
+    },
+    {
+        "word": "Aquila",
+        "forbidden": [
+            "Priscilla",
+            "Tentmaker",
+            "Paul",
+            "Husband",
+            "Corinth"
+        ]
+    },
+    {
+        "word": "Priscilla",
+        "forbidden": [
+            "Aquila",
+            "Wife",
+            "Tentmaker",
+            "Apollos",
+            "Teach"
+        ]
+    },
+    {
+        "word": "Apollos",
+        "forbidden": [
+            "Eloquent",
+            "Alexandria",
+            "Preach",
+            "Scripture",
+            "Water"
+        ]
+    },
+    {
+        "word": "Felix",
+        "forbidden": [
+            "Governor",
+            "Paul",
+            "Trial",
+            "Tremble",
+            "Wait"
+        ]
+    },
+    {
+        "word": "Festus",
+        "forbidden": [
+            "Governor",
+            "Paul",
+            "Caesar",
+            "Appeal",
+            "Mad"
+        ]
+    },
+    {
+        "word": "Agrippa",
+        "forbidden": [
+            "King",
+            "Paul",
+            "Almost",
+            "Persuade",
+            "Christian"
+        ]
+    },
+    {
+        "word": "Eutychus",
+        "forbidden": [
+            "Window",
+            "Sleep",
+            "Fall",
+            "Paul",
+            "Midnight"
+        ]
+    },
+    {
+        "word": "Rhoda",
+        "forbidden": [
+            "Door",
+            "Knock",
+            "Peter",
+            "Girl",
+            "Prayer"
+        ]
+    },
+    {
+        "word": "Lois",
+        "forbidden": [
+            "Timothy",
+            "Grandmother",
+            "Faith",
+            "Eunice",
+            "Sincere"
+        ]
+    },
+    {
+        "word": "Eunice",
+        "forbidden": [
+            "Timothy",
+            "Mother",
+            "Faith",
+            "Lois",
+            "Teach"
+        ]
+    },
+    {
+        "word": "Demas",
+        "forbidden": [
+            "Forsake",
+            "Paul",
+            "World",
+            "Love",
+            "Leave"
+        ]
+    },
+    {
+        "word": "Titus",
+        "forbidden": [
+            "Paul",
+            "Letter",
+            "Crete",
+            "Epistle",
+            "Churches"
+        ]
+    },
+    {
+        "word": "Jude",
+        "forbidden": [
+            "Book",
+            "Letter",
+            "Brother",
+            "James",
+            "Short"
+        ]
+    },
+    {
+        "word": "Matthias",
+        "forbidden": [
+            "Replace",
+            "Judas",
+            "Lots",
+            "Apostle",
+            "Twelve"
+        ]
+    },
+    {
+        "word": "Barabbas",
+        "forbidden": [
+            "Prisoner",
+            "Release",
+            "Crowd",
+            "Pilate",
+            "Murderer"
+        ]
+    },
+    {
+        "word": "Augustus",
+        "forbidden": [
+            "Caesar",
+            "Decree",
+            "Census",
+            "Rome",
+            "Emperor"
+        ]
+    },
+    {
+        "word": "Sorcerer",
+        "forbidden": [
+            "Simon",
+            "Magic",
+            "Money",
+            "Spirit",
+            "Buy"
+        ]
+    },
+    {
+        "word": "Sinai",
+        "forbidden": [
+            "Mountain",
+            "Moses",
+            "Commandments",
+            "Law",
+            "Smoke"
+        ]
+    },
+    {
+        "word": "Horeb",
+        "forbidden": [
+            "Mountain",
+            "Moses",
+            "Bush",
+            "Burning",
+            "God"
+        ]
+    },
+    {
+        "word": "Ararat",
+        "forbidden": [
+            "Mountain",
+            "Ark",
+            "Noah",
+            "Rest",
+            "Flood"
+        ]
+    },
+    {
+        "word": "Carmel",
+        "forbidden": [
+            "Mountain",
+            "Elijah",
+            "Baal",
+            "Fire",
+            "Prophets"
+        ]
+    },
+    {
+        "word": "Nebo",
+        "forbidden": [
+            "Mountain",
+            "Moses",
+            "View",
+            "Promised",
+            "Land"
+        ]
+    },
+    {
+        "word": "Moriah",
+        "forbidden": [
+            "Mountain",
+            "Abraham",
+            "Isaac",
+            "Sacrifice",
+            "Temple"
+        ]
+    },
+    {
+        "word": "Olivet",
+        "forbidden": [
+            "Mount",
+            "Olives",
+            "Jesus",
+            "Ascend",
+            "Discourse"
+        ]
+    },
+    {
+        "word": "Goshen",
+        "forbidden": [
+            "Egypt",
+            "Israel",
+            "Live",
+            "Land",
+            "Best"
+        ]
+    },
+    {
+        "word": "Midian",
+        "forbidden": [
+            "Moses",
+            "Flee",
+            "Jethro",
+            "Desert",
+            "Gideon"
+        ]
+    },
+    {
+        "word": "Moab",
+        "forbidden": [
+            "Ruth",
+            "Country",
+            "Naomi",
+            "Balak",
+            "Plains"
+        ]
+    },
+    {
+        "word": "Edom",
+        "forbidden": [
+            "Esau",
+            "Nation",
+            "Red",
+            "Obadiah",
+            "Brother"
+        ]
+    },
+    {
+        "word": "Assyria",
+        "forbidden": [
+            "Empire",
+            "Nineveh",
+            "Conquer",
+            "Israel",
+            "Captive"
+        ]
+    },
+    {
+        "word": "Persia",
+        "forbidden": [
+            "Empire",
+            "Esther",
+            "Cyrus",
+            "King",
+            "Daniel"
+        ]
+    },
+    {
+        "word": "Greece",
+        "forbidden": [
+            "Alexander",
+            "Empire",
+            "Paul",
+            "Athens",
+            "Gentiles"
+        ]
+    },
+    {
+        "word": "Macedonia",
+        "forbidden": [
+            "Vision",
+            "Paul",
+            "Help",
+            "Philippi",
+            "Region"
+        ]
+    },
+    {
+        "word": "Euphrates",
+        "forbidden": [
+            "River",
+            "Eden",
+            "Babylon",
+            "Great",
+            "Water"
+        ]
+    },
+    {
+        "word": "Gaza",
+        "forbidden": [
+            "Philistine",
+            "Samson",
+            "Gates",
+            "City",
+            "Road"
+        ]
+    },
+    {
+        "word": "Hebron",
+        "forbidden": [
+            "Abraham",
+            "City",
+            "Cave",
+            "David",
+            "Bury"
+        ]
+    },
+    {
+        "word": "Shiloh",
+        "forbidden": [
+            "Tabernacle",
+            "Eli",
+            "Samuel",
+            "Ark",
+            "Worship"
+        ]
+    },
+    {
+        "word": "Shechem",
+        "forbidden": [
+            "Jacob",
+            "City",
+            "Joshua",
+            "Covenant",
+            "Bones"
+        ]
+    },
+    {
+        "word": "Gilgal",
+        "forbidden": [
+            "Camp",
+            "Stones",
+            "Twelve",
+            "Jordan",
+            "Cross"
+        ]
+    },
+    {
+        "word": "Gilead",
+        "forbidden": [
+            "Balm",
+            "Region",
+            "Jordan",
+            "East",
+            "Heal"
+        ]
+    },
+    {
+        "word": "Bethel",
+        "forbidden": [
+            "Jacob",
+            "Ladder",
+            "Dream",
+            "House",
+            "God"
+        ]
+    },
+    {
+        "word": "Beersheba",
+        "forbidden": [
+            "Abraham",
+            "Well",
+            "Oath",
+            "South",
+            "Dan"
+        ]
+    },
+    {
+        "word": "Ur",
+        "forbidden": [
+            "Abraham",
+            "City",
+            "Chaldeans",
+            "Leave",
+            "Home"
+        ]
+    },
+    {
+        "word": "Haran",
+        "forbidden": [
+            "Abraham",
+            "Terah",
+            "City",
+            "Stop",
+            "Laban"
+        ]
+    },
+    {
+        "word": "Capernaum",
+        "forbidden": [
+            "Jesus",
+            "Town",
+            "Galilee",
+            "Peter",
+            "Miracles"
+        ]
+    },
+    {
+        "word": "Cana",
+        "forbidden": [
+            "Wedding",
+            "Water",
+            "Wine",
+            "Miracle",
+            "First"
+        ]
+    },
+    {
+        "word": "Joppa",
+        "forbidden": [
+            "Peter",
+            "Vision",
+            "Jonah",
+            "Ship",
+            "Rooftop"
+        ]
+    },
+    {
+        "word": "Tyre",
+        "forbidden": [
+            "City",
+            "Sidon",
+            "Coast",
+            "Trade",
+            "Woe"
+        ]
+    },
+    {
+        "word": "Sidon",
+        "forbidden": [
+            "City",
+            "Tyre",
+            "Coast",
+            "Widow",
+            "North"
+        ]
+    },
+    {
+        "word": "Caesarea",
+        "forbidden": [
+            "Cornelius",
+            "Paul",
+            "Port",
+            "Herod",
+            "Prison"
+        ]
+    },
+    {
+        "word": "Antioch",
+        "forbidden": [
+            "Christians",
+            "First",
+            "Called",
+            "Church",
+            "Barnabas"
+        ]
+    },
+    {
+        "word": "Ephesus",
+        "forbidden": [
+            "Paul",
+            "Letter",
+            "Temple",
+            "Diana",
+            "Riot"
+        ]
+    },
+    {
+        "word": "Philippi",
+        "forbidden": [
+            "Paul",
+            "Jail",
+            "Lydia",
+            "Letter",
+            "Earthquake"
+        ]
+    },
+    {
+        "word": "Athens",
+        "forbidden": [
+            "Paul",
+            "Idols",
+            "Unknown",
+            "Altar",
+            "Greece"
+        ]
+    },
+    {
+        "word": "Berea",
+        "forbidden": [
+            "Noble",
+            "Search",
+            "Scriptures",
+            "Daily",
+            "Paul"
+        ]
+    },
+    {
+        "word": "Crete",
+        "forbidden": [
+            "Island",
+            "Titus",
+            "Paul",
+            "Liars",
+            "Sail"
+        ]
+    },
+    {
+        "word": "Cyprus",
+        "forbidden": [
+            "Island",
+            "Barnabas",
+            "Paul",
+            "Journey",
+            "Sea"
+        ]
+    },
+    {
+        "word": "Malta",
+        "forbidden": [
+            "Island",
+            "Shipwreck",
+            "Paul",
+            "Viper",
+            "Fire"
+        ]
+    },
+    {
+        "word": "Patmos",
+        "forbidden": [
+            "Island",
+            "John",
+            "Revelation",
+            "Exile",
+            "Vision"
+        ]
+    },
+    {
+        "word": "Laodicea",
+        "forbidden": [
+            "Lukewarm",
+            "Church",
+            "Spit",
+            "Rich",
+            "Letter"
+        ]
+    },
+    {
+        "word": "Smyrna",
+        "forbidden": [
+            "Church",
+            "Revelation",
+            "Poor",
+            "Crown",
+            "Suffer"
+        ]
+    },
+    {
+        "word": "Sardis",
+        "forbidden": [
+            "Church",
+            "Revelation",
+            "Dead",
+            "Alive",
+            "Wake"
+        ]
+    },
+    {
+        "word": "Nain",
+        "forbidden": [
+            "Widow",
+            "Son",
+            "Raise",
+            "Funeral",
+            "Town"
+        ]
+    },
+    {
+        "word": "Siloam",
+        "forbidden": [
+            "Pool",
+            "Blind",
+            "Wash",
+            "Sent",
+            "Tower"
+        ]
+    },
+    {
+        "word": "Bethesda",
+        "forbidden": [
+            "Pool",
+            "Angel",
+            "Water",
+            "Sick",
+            "Stir"
+        ]
+    },
+    {
+        "word": "Armageddon",
+        "forbidden": [
+            "Battle",
+            "End",
+            "Revelation",
+            "Kings",
+            "Final"
+        ]
+    },
+    {
+        "word": "Babel",
+        "forbidden": [
+            "Tower",
+            "Language",
+            "Confuse",
+            "Scatter",
+            "Build"
+        ]
+    },
+    {
+        "word": "Elah",
+        "forbidden": [
+            "Valley",
+            "David",
+            "Goliath",
+            "Battle",
+            "Brook"
+        ]
+    },
+    {
+        "word": "Sheba",
+        "forbidden": [
+            "Queen",
+            "Solomon",
+            "Visit",
+            "Riches",
+            "Questions"
+        ]
+    },
+    {
+        "word": "Tarshish",
+        "forbidden": [
+            "Ship",
+            "Jonah",
+            "Flee",
+            "Far",
+            "Sail"
+        ]
+    },
+    {
+        "word": "Zarephath",
+        "forbidden": [
+            "Widow",
+            "Elijah",
+            "Flour",
+            "Oil",
+            "Son"
+        ]
+    },
+    {
+        "word": "Gibeon",
+        "forbidden": [
+            "Sun",
+            "Stand",
+            "Still",
+            "Treaty",
+            "Trick"
+        ]
+    },
+    {
+        "word": "Dagon",
+        "forbidden": [
+            "Idol",
+            "Philistine",
+            "Fall",
+            "Ark",
+            "Fish"
+        ]
+    },
+    {
+        "word": "Amalek",
+        "forbidden": [
+            "Enemy",
+            "Battle",
+            "Hands",
+            "Moses",
+            "Fight"
+        ]
+    },
+    {
+        "word": "Leviticus",
+        "forbidden": [
+            "Book",
+            "Law",
+            "Priests",
+            "Offerings",
+            "Third"
+        ]
+    },
+    {
+        "word": "Numbers",
+        "forbidden": [
+            "Book",
+            "Census",
+            "Count",
+            "Wilderness",
+            "Fourth"
+        ]
+    },
+    {
+        "word": "Chronicles",
+        "forbidden": [
+            "Book",
+            "Kings",
+            "History",
+            "Israel",
+            "Records"
+        ]
+    },
+    {
+        "word": "Lamentations",
+        "forbidden": [
+            "Jeremiah",
+            "Weep",
+            "Book",
+            "Jerusalem",
+            "Sorrow"
+        ]
+    },
+    {
+        "word": "Galatians",
+        "forbidden": [
+            "Letter",
+            "Paul",
+            "Book",
+            "Freedom",
+            "Law"
+        ]
+    },
+    {
+        "word": "Philippians",
+        "forbidden": [
+            "Letter",
+            "Paul",
+            "Joy",
+            "Book",
+            "Rejoice"
+        ]
+    },
+    {
+        "word": "Colossians",
+        "forbidden": [
+            "Letter",
+            "Paul",
+            "Book",
+            "Christ",
+            "Church"
+        ]
+    },
+    {
+        "word": "Thessalonians",
+        "forbidden": [
+            "Letter",
+            "Paul",
+            "Book",
+            "Coming",
+            "Church"
+        ]
+    },
+    {
+        "word": "Corinthians",
+        "forbidden": [
+            "Letter",
+            "Paul",
+            "Book",
+            "Love",
+            "Church"
+        ]
+    },
+    {
+        "word": "Armor",
+        "forbidden": [
+            "God",
+            "Ephesians",
+            "Battle",
+            "Wear",
+            "Whole"
+        ]
+    },
+    {
+        "word": "Shield",
+        "forbidden": [
+            "Faith",
+            "Protect",
+            "Arrows",
+            "Battle",
+            "Hold"
+        ]
+    },
+    {
+        "word": "Helmet",
+        "forbidden": [
+            "Salvation",
+            "Head",
+            "Protect",
+            "Soldier",
+            "Wear"
+        ]
+    },
+    {
+        "word": "Breastplate",
+        "forbidden": [
+            "Righteousness",
+            "Chest",
+            "Priest",
+            "Stones",
+            "Wear"
+        ]
+    },
+    {
+        "word": "Sandals",
+        "forbidden": [
+            "Feet",
+            "Shoes",
+            "Remove",
+            "Holy",
+            "Strap"
+        ]
+    },
+    {
+        "word": "Staff",
+        "forbidden": [
+            "Moses",
+            "Rod",
+            "Shepherd",
+            "Snake",
+            "Stick"
+        ]
+    },
+    {
+        "word": "Rod",
+        "forbidden": [
+            "Aaron",
+            "Staff",
+            "Bud",
+            "Almond",
+            "Spare"
+        ]
+    },
+    {
+        "word": "Trumpet",
+        "forbidden": [
+            "Blow",
+            "Jericho",
+            "Sound",
+            "Horn",
+            "Last"
+        ]
+    },
+    {
+        "word": "Lampstand",
+        "forbidden": [
+            "Gold",
+            "Tabernacle",
+            "Seven",
+            "Light",
+            "Branches"
+        ]
+    },
+    {
+        "word": "Ephod",
+        "forbidden": [
+            "Priest",
+            "Garment",
+            "Wear",
+            "Gold",
+            "David"
+        ]
+    },
+    {
+        "word": "Cherubim",
+        "forbidden": [
+            "Angels",
+            "Wings",
+            "Ark",
+            "Eden",
+            "Guard"
+        ]
+    },
+    {
+        "word": "Tablets",
+        "forbidden": [
+            "Stone",
+            "Commandments",
+            "Two",
+            "Moses",
+            "Break"
+        ]
+    },
+    {
+        "word": "Incense",
+        "forbidden": [
+            "Burn",
+            "Sweet",
+            "Altar",
+            "Prayer",
+            "Smoke"
+        ]
+    },
+    {
+        "word": "Myrrh",
+        "forbidden": [
+            "Gift",
+            "Wise",
+            "Men",
+            "Spice",
+            "Burial"
+        ]
+    },
+    {
+        "word": "Gold",
+        "forbidden": [
+            "Gift",
+            "Magi",
+            "Precious",
+            "Metal",
+            "Streets"
+        ]
+    },
+    {
+        "word": "Silver",
+        "forbidden": [
+            "Judas",
+            "Thirty",
+            "Coins",
+            "Metal",
+            "Betray"
+        ]
+    },
+    {
+        "word": "Bronze",
+        "forbidden": [
+            "Serpent",
+            "Metal",
+            "Altar",
+            "Pole",
+            "Shine"
+        ]
+    },
+    {
+        "word": "Clay",
+        "forbidden": [
+            "Potter",
+            "Mold",
+            "Jar",
+            "Dust",
+            "Shape"
+        ]
+    },
+    {
+        "word": "Potter",
+        "forbidden": [
+            "Clay",
+            "Wheel",
+            "Vessel",
+            "Jeremiah",
+            "Shape"
+        ]
+    },
+    {
+        "word": "Lamp",
+        "forbidden": [
+            "Light",
+            "Feet",
+            "Path",
+            "Word",
+            "Oil"
+        ]
+    },
+    {
+        "word": "Oil",
+        "forbidden": [
+            "Anoint",
+            "Lamp",
+            "Olive",
+            "Pour",
+            "Widow"
+        ]
+    },
+    {
+        "word": "Fleece",
+        "forbidden": [
+            "Gideon",
+            "Wool",
+            "Dew",
+            "Wet",
+            "Dry"
+        ]
+    },
+    {
+        "word": "Millstone",
+        "forbidden": [
+            "Neck",
+            "Sea",
+            "Grind",
+            "Heavy",
+            "Drown"
+        ]
+    },
+    {
+        "word": "Plow",
+        "forbidden": [
+            "Field",
+            "Ox",
+            "Hand",
+            "Look",
+            "Back"
+        ]
+    },
+    {
+        "word": "Seed",
+        "forbidden": [
+            "Sower",
+            "Plant",
+            "Grow",
+            "Soil",
+            "Small"
+        ]
+    },
+    {
+        "word": "Sower",
+        "forbidden": [
+            "Seed",
+            "Parable",
+            "Scatter",
+            "Soil",
+            "Farmer"
+        ]
+    },
+    {
+        "word": "Tares",
+        "forbidden": [
+            "Wheat",
+            "Weeds",
+            "Enemy",
+            "Parable",
+            "Burn"
+        ]
+    },
+    {
+        "word": "Wheat",
+        "forbidden": [
+            "Grain",
+            "Harvest",
+            "Bread",
+            "Chaff",
+            "Field"
+        ]
+    },
+    {
+        "word": "Barley",
+        "forbidden": [
+            "Grain",
+            "Loaves",
+            "Ruth",
+            "Harvest",
+            "Five"
+        ]
+    },
+    {
+        "word": "Grapes",
+        "forbidden": [
+            "Vine",
+            "Wine",
+            "Cluster",
+            "Spies",
+            "Crush"
+        ]
+    },
+    {
+        "word": "Vine",
+        "forbidden": [
+            "Branches",
+            "Jesus",
+            "Abide",
+            "Grapes",
+            "True"
+        ]
+    },
+    {
+        "word": "Branch",
+        "forbidden": [
+            "Vine",
+            "Tree",
+            "Jesse",
+            "Abide",
+            "Fruit"
+        ]
+    },
+    {
+        "word": "Cedar",
+        "forbidden": [
+            "Lebanon",
+            "Tree",
+            "Temple",
+            "Wood",
+            "Tall"
+        ]
+    },
+    {
+        "word": "Hyssop",
+        "forbidden": [
+            "Branch",
+            "Blood",
+            "Doorpost",
+            "Clean",
+            "Sponge"
+        ]
+    },
+    {
+        "word": "Anchor",
+        "forbidden": [
+            "Hope",
+            "Ship",
+            "Soul",
+            "Firm",
+            "Sure"
+        ]
+    },
+    {
+        "word": "Net",
+        "forbidden": [
+            "Fish",
+            "Cast",
+            "Break",
+            "Full",
+            "Boat"
+        ]
+    },
+    {
+        "word": "Boat",
+        "forbidden": [
+            "Fish",
+            "Sea",
+            "Peter",
+            "Storm",
+            "Sail"
+        ]
+    },
+    {
+        "word": "Fisherman",
+        "forbidden": [
+            "Peter",
+            "Net",
+            "Boat",
+            "Fish",
+            "Catch"
+        ]
+    },
+    {
+        "word": "Carpenter",
+        "forbidden": [
+            "Joseph",
+            "Jesus",
+            "Wood",
+            "Build",
+            "Nazareth"
+        ]
+    },
+    {
+        "word": "Tentmaker",
+        "forbidden": [
+            "Paul",
+            "Trade",
+            "Aquila",
+            "Work",
+            "Sew"
+        ]
+    },
+    {
+        "word": "Physician",
+        "forbidden": [
+            "Luke",
+            "Doctor",
+            "Sick",
+            "Heal",
+            "Beloved"
+        ]
+    },
+    {
+        "word": "Coin",
+        "forbidden": [
+            "Caesar",
+            "Lost",
+            "Tax",
+            "Image",
+            "Money"
+        ]
+    },
+    {
+        "word": "Mite",
+        "forbidden": [
+            "Widow",
+            "Two",
+            "Coins",
+            "Offering",
+            "Small"
+        ]
+    },
+    {
+        "word": "Talent",
+        "forbidden": [
+            "Money",
+            "Servant",
+            "Bury",
+            "Five",
+            "Parable"
+        ]
+    },
+    {
+        "word": "Basket",
+        "forbidden": [
+            "Moses",
+            "Bread",
+            "Twelve",
+            "Paul",
+            "Wall"
+        ]
+    },
+    {
+        "word": "Jar",
+        "forbidden": [
+            "Water",
+            "Clay",
+            "Widow",
+            "Oil",
+            "Empty"
+        ]
+    },
+    {
+        "word": "Scroll",
+        "forbidden": [
+            "Write",
+            "Read",
+            "Roll",
+            "Seal",
+            "Isaiah"
+        ]
+    },
+    {
+        "word": "Sackcloth",
+        "forbidden": [
+            "Ashes",
+            "Mourn",
+            "Wear",
+            "Rough",
+            "Grieve"
+        ]
+    },
+    {
+        "word": "Ashes",
+        "forbidden": [
+            "Sackcloth",
+            "Mourn",
+            "Dust",
+            "Burn",
+            "Beauty"
+        ]
+    },
+    {
+        "word": "Robe",
+        "forbidden": [
+            "Joseph",
+            "Colors",
+            "Prodigal",
+            "Purple",
+            "Wear"
+        ]
+    },
+    {
+        "word": "Stable",
+        "forbidden": [
+            "Manger",
+            "Barn",
+            "Animals",
+            "Bethlehem",
+            "Born"
+        ]
+    },
+    {
+        "word": "Inn",
+        "forbidden": [
+            "Room",
+            "Bethlehem",
+            "Full",
+            "Stay",
+            "Keeper"
+        ]
+    },
+    {
+        "word": "Tent",
+        "forbidden": [
+            "Abraham",
+            "Dwell",
+            "Camp",
+            "Stakes",
+            "Nomad"
+        ]
+    },
+    {
+        "word": "Ladder",
+        "forbidden": [
+            "Jacob",
+            "Dream",
+            "Angels",
+            "Climb",
+            "Rungs"
+        ]
+    },
+    {
+        "word": "Den",
+        "forbidden": [
+            "Lions",
+            "Daniel",
+            "Mouths",
+            "Shut",
+            "Throw"
+        ]
+    },
+    {
+        "word": "Spear",
+        "forbidden": [
+            "Saul",
+            "Throw",
+            "David",
+            "Side",
+            "Sharp"
+        ]
+    },
+    {
+        "word": "Bow",
+        "forbidden": [
+            "Arrow",
+            "Jonathan",
+            "Shoot",
+            "Hunt",
+            "String"
+        ]
+    },
+    {
+        "word": "Arrow",
+        "forbidden": [
+            "Bow",
+            "Jonathan",
+            "Shoot",
+            "Sign",
+            "Field"
+        ]
+    },
+    {
+        "word": "Purple",
+        "forbidden": [
+            "Lydia",
+            "Royal",
+            "Cloth",
+            "Robe",
+            "Sell"
+        ]
+    },
+    {
+        "word": "Almond",
+        "forbidden": [
+            "Rod",
+            "Aaron",
+            "Bud",
+            "Tree",
+            "Blossom"
+        ]
+    },
+    {
+        "word": "Unleavened",
+        "forbidden": [
+            "Bread",
+            "Yeast",
+            "Passover",
+            "Flat",
+            "Haste"
+        ]
+    },
+    {
+        "word": "Alabaster",
+        "forbidden": [
+            "Jar",
+            "Perfume",
+            "Break",
+            "Woman",
+            "Pour"
+        ]
+    },
+    {
+        "word": "Vinegar",
+        "forbidden": [
+            "Sponge",
+            "Cross",
+            "Drink",
+            "Sour",
+            "Thirst"
+        ]
+    },
+    {
+        "word": "Fortress",
+        "forbidden": [
+            "Refuge",
+            "Strong",
+            "Tower",
+            "Psalm",
+            "Safe"
+        ]
+    },
+    {
+        "word": "Donkey",
+        "forbidden": [
+            "Balaam",
+            "Speak",
+            "Ride",
+            "Colt",
+            "Ears"
+        ]
+    },
+    {
+        "word": "Camel",
+        "forbidden": [
+            "Needle",
+            "Eye",
+            "Rich",
+            "Desert",
+            "Hump"
+        ]
+    },
+    {
+        "word": "Lion",
+        "forbidden": [
+            "Daniel",
+            "Den",
+            "Judah",
+            "Roar",
+            "Mane"
+        ]
+    },
+    {
+        "word": "Bear",
+        "forbidden": [
+            "Elisha",
+            "Youths",
+            "David",
+            "Growl",
+            "Cub"
+        ]
+    },
+    {
+        "word": "Wolf",
+        "forbidden": [
+            "Sheep",
+            "Clothing",
+            "Lamb",
+            "Dwell",
+            "Howl"
+        ]
+    },
+    {
+        "word": "Fox",
+        "forbidden": [
+            "Herod",
+            "Holes",
+            "Samson",
+            "Tails",
+            "Sly"
+        ]
+    },
+    {
+        "word": "Eagle",
+        "forbidden": [
+            "Wings",
+            "Soar",
+            "Renew",
+            "Fly",
+            "Strength"
+        ]
+    },
+    {
+        "word": "Raven",
+        "forbidden": [
+            "Elijah",
+            "Feed",
+            "Noah",
+            "Black",
+            "Bird"
+        ]
+    },
+    {
+        "word": "Sparrow",
+        "forbidden": [
+            "Bird",
+            "Fall",
+            "Small",
+            "Two",
+            "Eye"
+        ]
+    },
+    {
+        "word": "Rooster",
+        "forbidden": [
+            "Crow",
+            "Peter",
+            "Deny",
+            "Three",
+            "Morning"
+        ]
+    },
+    {
+        "word": "Ox",
+        "forbidden": [
+            "Yoke",
+            "Plow",
+            "Muzzle",
+            "Strong",
+            "Cart"
+        ]
+    },
+    {
+        "word": "Calf",
+        "forbidden": [
+            "Golden",
+            "Fatted",
+            "Prodigal",
+            "Idol",
+            "Cow"
+        ]
+    },
+    {
+        "word": "Goat",
+        "forbidden": [
+            "Sheep",
+            "Separate",
+            "Left",
+            "Herd",
+            "Horns"
+        ]
+    },
+    {
+        "word": "Ram",
+        "forbidden": [
+            "Abraham",
+            "Thicket",
+            "Horns",
+            "Isaac",
+            "Caught"
+        ]
+    },
+    {
+        "word": "Horse",
+        "forbidden": [
+            "Chariot",
+            "Ride",
+            "White",
+            "Rider",
+            "Gallop"
+        ]
+    },
+    {
+        "word": "Fish",
+        "forbidden": [
+            "Jonah",
+            "Loaves",
+            "Net",
+            "Peter",
+            "Swim"
+        ]
+    },
+    {
+        "word": "Dragon",
+        "forbidden": [
+            "Revelation",
+            "Satan",
+            "Red",
+            "Beast",
+            "Heads"
+        ]
+    },
+    {
+        "word": "Scorpion",
+        "forbidden": [
+            "Sting",
+            "Desert",
+            "Egg",
+            "Tail",
+            "Snake"
+        ]
+    },
+    {
+        "word": "Viper",
+        "forbidden": [
+            "Snake",
+            "Paul",
+            "Bite",
+            "Fire",
+            "Brood"
+        ]
+    },
+    {
+        "word": "Ant",
+        "forbidden": [
+            "Sluggard",
+            "Wise",
+            "Work",
+            "Small",
+            "Hill"
+        ]
+    },
+    {
+        "word": "Deer",
+        "forbidden": [
+            "Pants",
+            "Water",
+            "Brook",
+            "Thirst",
+            "Antlers"
+        ]
+    },
+    {
+        "word": "Swine",
+        "forbidden": [
+            "Pearls",
+            "Prodigal",
+            "Demons",
+            "Herd",
+            "Unclean"
+        ]
+    },
+    {
+        "word": "Hen",
+        "forbidden": [
+            "Chicks",
+            "Gather",
+            "Wings",
+            "Jerusalem",
+            "Egg"
+        ]
+    },
+    {
+        "word": "Frogs",
+        "forbidden": [
+            "Plague",
+            "Egypt",
+            "Second",
+            "Jump",
+            "Pond"
+        ]
+    },
+    {
+        "word": "Lamb",
+        "forbidden": [
+            "Sheep",
+            "Passover",
+            "Blood",
+            "Wool",
+            "Slain"
+        ]
+    },
+    {
+        "word": "Flock",
+        "forbidden": [
+            "Sheep",
+            "Shepherd",
+            "Watch",
+            "Night",
+            "Herd"
+        ]
+    },
+    {
+        "word": "Lily",
+        "forbidden": [
+            "Field",
+            "Consider",
+            "Toil",
+            "Valley",
+            "Flower"
+        ]
+    },
+    {
+        "word": "Rose",
+        "forbidden": [
+            "Sharon",
+            "Flower",
+            "Valley",
+            "Bloom",
+            "Thorn"
+        ]
+    },
+    {
+        "word": "Wind",
+        "forbidden": [
+            "Spirit",
+            "Blow",
+            "Storm",
+            "Waves",
+            "Rushing"
+        ]
+    },
+    {
+        "word": "Cloud",
+        "forbidden": [
+            "Pillar",
+            "Glory",
+            "Return",
+            "White",
+            "Sky"
+        ]
+    },
+    {
+        "word": "Pillar",
+        "forbidden": [
+            "Cloud",
+            "Fire",
+            "Salt",
+            "Lead",
+            "Column"
+        ]
+    },
+    {
+        "word": "Dew",
+        "forbidden": [
+            "Fleece",
+            "Gideon",
+            "Morning",
+            "Wet",
+            "Grass"
+        ]
+    },
+    {
+        "word": "Hail",
+        "forbidden": [
+            "Plague",
+            "Egypt",
+            "Ice",
+            "Stones",
+            "Sky"
+        ]
+    },
+    {
+        "word": "Earthquake",
+        "forbidden": [
+            "Shake",
+            "Prison",
+            "Ground",
+            "Tomb",
+            "Tremble"
+        ]
+    },
+    {
+        "word": "Lightning",
+        "forbidden": [
+            "Flash",
+            "Sky",
+            "Thunder",
+            "East",
+            "West"
+        ]
+    },
+    {
+        "word": "Thunder",
+        "forbidden": [
+            "Sons",
+            "Sinai",
+            "Voice",
+            "Loud",
+            "Boom"
+        ]
+    },
+    {
+        "word": "Darkness",
+        "forbidden": [
+            "Plague",
+            "Light",
+            "Egypt",
+            "Night",
+            "Black"
+        ]
+    },
+    {
+        "word": "Light",
+        "forbidden": [
+            "World",
+            "Darkness",
+            "Lamp",
+            "Shine",
+            "Bright"
+        ]
+    },
+    {
+        "word": "Moon",
+        "forbidden": [
+            "Blood",
+            "Sun",
+            "Night",
+            "Stars",
+            "Sky"
+        ]
+    },
+    {
+        "word": "Sun",
+        "forbidden": [
+            "Stand",
+            "Still",
+            "Joshua",
+            "Moon",
+            "Shine"
+        ]
+    },
+    {
+        "word": "Wave",
+        "forbidden": [
+            "Sea",
+            "Storm",
+            "Wind",
+            "Crash",
+            "Water"
+        ]
+    },
+    {
+        "word": "Wisdom",
+        "forbidden": [
+            "Solomon",
+            "Proverbs",
+            "Ask",
+            "Fool",
+            "Knowledge"
+        ]
+    },
+    {
+        "word": "Knowledge",
+        "forbidden": [
+            "Tree",
+            "Good",
+            "Evil",
+            "Wisdom",
+            "Learn"
+        ]
+    },
+    {
+        "word": "Justice",
+        "forbidden": [
+            "Fair",
+            "Judge",
+            "Righteous",
+            "Scales",
+            "Court"
+        ]
+    },
+    {
+        "word": "Truth",
+        "forbidden": [
+            "Way",
+            "Life",
+            "Pilate",
+            "Free",
+            "Honest"
+        ]
+    },
+    {
+        "word": "Hope",
+        "forbidden": [
+            "Anchor",
+            "Faith",
+            "Love",
+            "Future",
+            "Wait"
+        ]
+    },
+    {
+        "word": "Joy",
+        "forbidden": [
+            "Fruit",
+            "Strength",
+            "Morning",
+            "Rejoice",
+            "Happy"
+        ]
+    },
+    {
+        "word": "Meek",
+        "forbidden": [
+            "Blessed",
+            "Earth",
+            "Inherit",
+            "Humble",
+            "Gentle"
+        ]
+    },
+    {
+        "word": "Compassion",
+        "forbidden": [
+            "Mercy",
+            "Moved",
+            "Pity",
+            "Love",
+            "Care"
+        ]
+    },
+    {
+        "word": "Confession",
+        "forbidden": [
+            "Sin",
+            "Admit",
+            "Mouth",
+            "Forgive",
+            "Tell"
+        ]
+    },
+    {
+        "word": "Fellowship",
+        "forbidden": [
+            "Together",
+            "Believers",
+            "Church",
+            "Share",
+            "Friends"
+        ]
+    },
+    {
+        "word": "Hospitality",
+        "forbidden": [
+            "Welcome",
+            "Strangers",
+            "Guests",
+            "Home",
+            "Entertain"
+        ]
+    },
+    {
+        "word": "Persecution",
+        "forbidden": [
+            "Suffer",
+            "Church",
+            "Saul",
+            "Flee",
+            "Trouble"
+        ]
+    },
+    {
+        "word": "Martyr",
+        "forbidden": [
+            "Stephen",
+            "Die",
+            "Faith",
+            "Witness",
+            "Stone"
+        ]
+    },
+    {
+        "word": "Tribulation",
+        "forbidden": [
+            "Great",
+            "End",
+            "Trouble",
+            "Seven",
+            "Years"
+        ]
+    },
+    {
+        "word": "Rapture",
+        "forbidden": [
+            "Caught",
+            "Air",
+            "Trumpet",
+            "Clouds",
+            "Meet"
+        ]
+    },
+    {
+        "word": "Millennium",
+        "forbidden": [
+            "Thousand",
+            "Years",
+            "Reign",
+            "Satan",
+            "Bound"
+        ]
+    },
+    {
+        "word": "Blasphemy",
+        "forbidden": [
+            "Curse",
+            "God",
+            "Speak",
+            "Spirit",
+            "Stone"
+        ]
+    },
+    {
+        "word": "Adultery",
+        "forbidden": [
+            "Commandment",
+            "Seventh",
+            "Unfaithful",
+            "David",
+            "Marriage"
+        ]
+    },
+    {
+        "word": "Covet",
+        "forbidden": [
+            "Commandment",
+            "Want",
+            "Neighbor",
+            "Desire",
+            "Tenth"
+        ]
+    },
+    {
+        "word": "Envy",
+        "forbidden": [
+            "Jealous",
+            "Green",
+            "Desire",
+            "Others",
+            "Want"
+        ]
+    },
+    {
+        "word": "Pride",
+        "forbidden": [
+            "Fall",
+            "Haughty",
+            "Humble",
+            "Before",
+            "Boast"
+        ]
+    },
+    {
+        "word": "Anger",
+        "forbidden": [
+            "Wrath",
+            "Slow",
+            "Sun",
+            "Down",
+            "Mad"
+        ]
+    },
+    {
+        "word": "Gossip",
+        "forbidden": [
+            "Talk",
+            "Tongue",
+            "Whisper",
+            "Spread",
+            "Rumor"
+        ]
+    },
+    {
+        "word": "Greed",
+        "forbidden": [
+            "Money",
+            "Rich",
+            "Fool",
+            "Barns",
+            "More"
+        ]
+    },
+    {
+        "word": "Atonement",
+        "forbidden": [
+            "Blood",
+            "Cover",
+            "Day",
+            "Sacrifice",
+            "Sins"
+        ]
+    },
+    {
+        "word": "Jubilee",
+        "forbidden": [
+            "Fifty",
+            "Year",
+            "Free",
+            "Land",
+            "Return"
+        ]
+    },
+    {
+        "word": "Firstfruits",
+        "forbidden": [
+            "Offering",
+            "Harvest",
+            "First",
+            "Give",
+            "Best"
+        ]
+    },
+    {
+        "word": "Circumcision",
+        "forbidden": [
+            "Covenant",
+            "Eight",
+            "Sign",
+            "Abraham",
+            "Flesh"
+        ]
+    },
+    {
+        "word": "Anoint",
+        "forbidden": [
+            "Oil",
+            "Head",
+            "David",
+            "Pour",
+            "Samuel"
+        ]
+    },
+    {
+        "word": "Alms",
+        "forbidden": [
+            "Poor",
+            "Give",
+            "Money",
+            "Secret",
+            "Charity"
+        ]
+    },
+    {
+        "word": "Prodigal",
+        "forbidden": [
+            "Son",
+            "Pigs",
+            "Father",
+            "Return",
+            "Inheritance"
+        ]
+    },
+    {
+        "word": "Samaritan",
+        "forbidden": [
+            "Good",
+            "Neighbor",
+            "Road",
+            "Help",
+            "Woman"
+        ]
+    },
+    {
+        "word": "Nativity",
+        "forbidden": [
+            "Birth",
+            "Jesus",
+            "Manger",
+            "Scene",
+            "Christmas"
+        ]
+    },
+    {
+        "word": "Ascension",
+        "forbidden": [
+            "Jesus",
+            "Cloud",
+            "Heaven",
+            "Up",
+            "Forty"
+        ]
+    },
+    {
+        "word": "Betrayal",
+        "forbidden": [
+            "Judas",
+            "Kiss",
+            "Silver",
+            "Garden",
+            "Thirty"
+        ]
+    },
+    {
+        "word": "Denial",
+        "forbidden": [
+            "Peter",
+            "Three",
+            "Rooster",
+            "Before",
+            "Crow"
+        ]
+    },
+    {
+        "word": "Commission",
+        "forbidden": [
+            "Go",
+            "Nations",
+            "Baptize",
+            "Teach",
+            "Great"
+        ]
+    },
+    {
+        "word": "Tongues",
+        "forbidden": [
+            "Fire",
+            "Pentecost",
+            "Speak",
+            "Languages",
+            "Spirit"
+        ]
+    },
+    {
+        "word": "Prophecy",
+        "forbidden": [
+            "Future",
+            "Foretell",
+            "Fulfill",
+            "Prophet",
+            "Speak"
+        ]
+    },
+    {
+        "word": "Loaves",
+        "forbidden": [
+            "Five",
+            "Fishes",
+            "Thousand",
+            "Bread",
+            "Baskets"
+        ]
+    },
+    {
+        "word": "Wash",
+        "forbidden": [
+            "Feet",
+            "Jesus",
+            "Towel",
+            "Basin",
+            "Clean"
+        ]
+    },
+    {
+        "word": "Hosanna",
+        "forbidden": [
+            "Shout",
+            "Palm",
+            "Sunday",
+            "Save",
+            "Praise"
+        ]
+    },
+    {
+        "word": "Maranatha",
+        "forbidden": [
+            "Come",
+            "Lord",
+            "Aramaic",
+            "Quickly",
+            "Prayer"
+        ]
+    },
+    {
+        "word": "Shibboleth",
+        "forbidden": [
+            "Say",
+            "River",
+            "Ephraim",
+            "Pronounce",
+            "Password"
+        ]
+    },
+    {
+        "word": "Selah",
+        "forbidden": [
+            "Psalms",
+            "Pause",
+            "Music",
+            "Interlude",
+            "Word"
+        ]
+    },
+    {
+        "word": "Abba",
+        "forbidden": [
+            "Father",
+            "Aramaic",
+            "Cry",
+            "Daddy",
+            "Spirit"
+        ]
+    },
+    {
+        "word": "Talitha",
+        "forbidden": [
+            "Girl",
+            "Arise",
+            "Jairus",
+            "Daughter",
+            "Aramaic"
+        ]
+    },
+    {
+        "word": "Eloi",
+        "forbidden": [
+            "Forsaken",
+            "Cross",
+            "Cry",
+            "Why",
+            "Aramaic"
+        ]
+    },
+    {
+        "word": "Mammon",
+        "forbidden": [
+            "Money",
+            "Serve",
+            "Two",
+            "Masters",
+            "Wealth"
+        ]
+    },
+    {
+        "word": "Ebenezer",
+        "forbidden": [
+            "Stone",
+            "Help",
+            "Samuel",
+            "Raise",
+            "Hither"
+        ]
+    },
+    {
+        "word": "Nazirite",
+        "forbidden": [
+            "Vow",
+            "Hair",
+            "Samson",
+            "Wine",
+            "Separate"
+        ]
+    },
+    {
+        "word": "Publican",
+        "forbidden": [
+            "Tax",
+            "Collector",
+            "Sinner",
+            "Zacchaeus",
+            "Pharisee"
+        ]
+    },
+    {
+        "word": "Eunuch",
+        "forbidden": [
+            "Ethiopian",
+            "Chariot",
+            "Philip",
+            "Read",
+            "Baptize"
+        ]
+    },
+    {
+        "word": "Alpha",
+        "forbidden": [
+            "Omega",
+            "First",
+            "Beginning",
+            "Letter",
+            "Greek"
+        ]
+    },
+    {
+        "word": "Wrestle",
+        "forbidden": [
+            "Jacob",
+            "Angel",
+            "Night",
+            "Hip",
+            "Peniel"
+        ]
+    },
+    {
+        "word": "Birthright",
+        "forbidden": [
+            "Esau",
+            "Jacob",
+            "Stew",
+            "Sell",
+            "Firstborn"
+        ]
+    },
+    {
+        "word": "Dream",
+        "forbidden": [
+            "Joseph",
+            "Pharaoh",
+            "Interpret",
+            "Sleep",
+            "Ladder"
+        ]
+    },
+    {
+        "word": "Famine",
+        "forbidden": [
+            "Hunger",
+            "Joseph",
+            "Egypt",
+            "Seven",
+            "Land"
+        ]
+    },
+    {
+        "word": "Spies",
+        "forbidden": [
+            "Twelve",
+            "Canaan",
+            "Rahab",
+            "Report",
+            "Grapes"
+        ]
+    },
+    {
+        "word": "Rock",
+        "forbidden": [
+            "Water",
+            "Strike",
+            "Moses",
+            "Peter",
+            "Build"
+        ]
+    },
+    {
+        "word": "Refuge",
+        "forbidden": [
+            "Cities",
+            "Flee",
+            "Safe",
+            "Six",
+            "Shelter"
+        ]
+    },
+    {
+        "word": "Jawbone",
+        "forbidden": [
+            "Donkey",
+            "Samson",
+            "Thousand",
+            "Weapon",
+            "Kill"
+        ]
+    },
+    {
+        "word": "Riddle",
+        "forbidden": [
+            "Samson",
+            "Lion",
+            "Honey",
+            "Wedding",
+            "Guess"
+        ]
+    },
+    {
+        "word": "Leaven",
+        "forbidden": [
+            "Yeast",
+            "Bread",
+            "Rise",
+            "Pharisees",
+            "Lump"
+        ]
+    },
+    {
+        "word": "Treasure",
+        "forbidden": [
+            "Field",
+            "Hidden",
+            "Heart",
+            "Heaven",
+            "Chest"
+        ]
+    },
+    {
+        "word": "Banquet",
+        "forbidden": [
+            "Feast",
+            "Invite",
+            "Excuses",
+            "Wedding",
+            "Table"
+        ]
+    },
+    {
+        "word": "Virgins",
+        "forbidden": [
+            "Ten",
+            "Lamps",
+            "Oil",
+            "Wise",
+            "Foolish"
+        ]
+    },
+    {
+        "word": "Bridegroom",
+        "forbidden": [
+            "Wedding",
+            "Bride",
+            "Wait",
+            "Midnight",
+            "Come"
+        ]
+    },
+    {
+        "word": "Laborers",
+        "forbidden": [
+            "Vineyard",
+            "Hour",
+            "Wage",
+            "Hire",
+            "Last"
+        ]
+    },
+    {
+        "word": "Wineskins",
+        "forbidden": [
+            "New",
+            "Old",
+            "Burst",
+            "Wine",
+            "Patch"
+        ]
+    },
+    {
+        "word": "Cornerstone",
+        "forbidden": [
+            "Builders",
+            "Reject",
+            "Foundation",
+            "Christ",
+            "Head"
+        ]
+    },
+    {
+        "word": "Foundation",
+        "forbidden": [
+            "Rock",
+            "Build",
+            "House",
+            "Sand",
+            "Firm"
+        ]
+    },
+    {
+        "word": "Sand",
+        "forbidden": [
+            "House",
+            "Fool",
+            "Build",
+            "Fall",
+            "Beach"
+        ]
+    },
+    {
+        "word": "Narrow",
+        "forbidden": [
+            "Gate",
+            "Way",
+            "Few",
+            "Wide",
+            "Road"
+        ]
+    },
+    {
+        "word": "Gate",
+        "forbidden": [
+            "Narrow",
+            "City",
+            "Beautiful",
+            "Sheep",
+            "Enter"
+        ]
+    },
+    {
+        "word": "Neighbor",
+        "forbidden": [
+            "Love",
+            "Samaritan",
+            "Yourself",
+            "Near",
+            "Next"
+        ]
+    },
+    {
+        "word": "Enemy",
+        "forbidden": [
+            "Love",
+            "Hate",
+            "Satan",
+            "Pray",
+            "Foe"
+        ]
+    },
+    {
+        "word": "Hypocrite",
+        "forbidden": [
+            "Pharisee",
+            "Actor",
+            "Pretend",
+            "Woe",
+            "Fake"
+        ]
+    },
+    {
+        "word": "Woe",
+        "forbidden": [
+            "Pharisees",
+            "Seven",
+            "Warning",
+            "Curse",
+            "Sorrow"
+        ]
+    },
+    {
+        "word": "Blessed",
+        "forbidden": [
+            "Beatitudes",
+            "Happy",
+            "Poor",
+            "Meek",
+            "Mount"
+        ]
+    },
+    {
+        "word": "Debt",
+        "forbidden": [
+            "Forgive",
+            "Owe",
+            "Servant",
+            "Money",
+            "Cancel"
+        ]
+    },
+    {
+        "word": "Tower",
+        "forbidden": [
+            "Babel",
+            "Siloam",
+            "Build",
+            "Tall",
+            "Fall"
+        ]
+    },
+    {
+        "word": "Rich",
+        "forbidden": [
+            "Young",
+            "Ruler",
+            "Camel",
+            "Sell",
+            "Money"
+        ]
+    },
+    {
+        "word": "Barns",
+        "forbidden": [
+            "Rich",
+            "Fool",
+            "Bigger",
+            "Grain",
+            "Build"
+        ]
+    },
+    {
+        "word": "Fool",
+        "forbidden": [
+            "Heart",
+            "Says",
+            "God",
+            "Wise",
+            "Barns"
+        ]
+    },
+    {
+        "word": "Beggar",
+        "forbidden": [
+            "Lazarus",
+            "Gate",
+            "Blind",
+            "Poor",
+            "Ask"
+        ]
+    },
+    {
+        "word": "Scapegoat",
+        "forbidden": [
+            "Wilderness",
+            "Sins",
+            "Release",
+            "Blame",
+            "Two"
+        ]
+    },
+    {
+        "word": "Purim",
+        "forbidden": [
+            "Feast",
+            "Esther",
+            "Lots",
+            "Celebrate",
+            "Haman"
+        ]
+    },
+    {
+        "word": "Beast",
+        "forbidden": [
+            "Revelation",
+            "Mark",
+            "Number",
+            "Dragon",
+            "Sea"
+        ]
+    },
+    {
+        "word": "Bowls",
+        "forbidden": [
+            "Wrath",
+            "Seven",
+            "Pour",
+            "Judgment",
+            "Angels"
+        ]
+    },
+    {
+        "word": "Seals",
+        "forbidden": [
+            "Seven",
+            "Scroll",
+            "Open",
+            "Lamb",
+            "Break"
+        ]
+    },
+    {
+        "word": "Horsemen",
+        "forbidden": [
+            "Four",
+            "Apocalypse",
+            "Horses",
+            "White",
+            "Ride"
+        ]
+    },
+    {
+        "word": "Lukewarm",
+        "forbidden": [
+            "Laodicea",
+            "Spit",
+            "Hot",
+            "Cold",
+            "Church"
+        ]
+    }
+]
